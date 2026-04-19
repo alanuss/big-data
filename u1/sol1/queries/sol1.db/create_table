@@ -1,0 +1,52 @@
+DROP TABLE IF EXISTS Dim_estudiante;
+DROP TABLE IF EXISTS Dim_curso;
+DROP TABLE IF EXISTS Dim_programa;
+DROP TABLE IF EXISTS Dim_tiempo;
+DROP TABLE IF EXISTS Fact_inscripciones;
+
+CREATE TABLE IF NOT EXISTS Dim_estudiante(
+    id_estudiante INTEGER PRIMARY KEY,
+    nombre VARCHAR(50),
+    fecha_nacimiento DATE,
+    genero VARCHAR(50),
+    sede VARCHAR(50),
+    tipo_ingreso VARCHAR(50),
+    jornada VARCHAR(50)
+);
+
+CREATE TABLE IF NOT EXISTS Dim_curso(
+    id_curso INTEGER PRIMARY KEY,
+    nombre_materia VARCHAR(50),
+    creditos INT,
+    departamento VARCHAR(50),
+    facultad VARCHAR(50)
+);
+
+CREATE TABLE IF NOT EXISTS Dim_programa(
+    id_programa INTEGER PRIMARY KEY,
+    nombre_carrera VARCHAR(50),
+    nivel VARCHAR(50),
+    duracion_semestres INT
+);
+
+CREATE TABLE IF NOT EXISTS Dim_tiempo(
+    id_tiempo INTEGER PRIMARY KEY,
+    fecha_completa DATE,
+    ano INT,
+    semestre INT,
+    trimestre INT
+);
+
+CREATE TABLE IF NOT EXISTS Fact_inscripciones(
+    id_estudiante INTEGER,
+    id_curso INTEGER,
+    id_programa INTEGER,
+    id_tiempo INTEGER,
+    nota_final FLOAT,
+    asistencia_porcentaje FLOAT,
+    intentos_curso INT,
+    FOREIGN KEY (id_estudiante) REFERENCES Dim_estudiante(id_estudiante), 
+    FOREIGN KEY (id_curso) REFERENCES Dim_curso(id_curso),
+    FOREIGN KEY (id_programa) REFERENCES Dim_programa(id_programa),
+    FOREIGN KEY (id_tiempo) REFERENCES Dim_tiempo(id_tiempo)
+);

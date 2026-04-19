@@ -1,0 +1,7 @@
+-- Pregunta D: Cantidad de alumnos nuevos (primer ingreso) por semestre.
+select count(distinct estudiante.id_estudiante) as alumnos_nuevos, semestre, ano
+from dim_tiempo as tiempo
+join fact_inscripciones as facts on facts.id_tiempo = tiempo.id_tiempo
+join dim_estudiante as estudiante on estudiante.id_estudiante = facts.id_estudiante
+where tipo_ingreso = 'Nuevo'
+group by semestre, ano

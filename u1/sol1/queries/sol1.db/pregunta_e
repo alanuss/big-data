@@ -1,0 +1,9 @@
+-- Pregunta E: Distribución de alumnos por género y programa.
+select
+    nombre_carrera,
+    count(distinct case when genero = 'Masculino' then e.id_estudiante end) as hombres,
+    count(distinct case when genero = 'Femenino' then e.id_estudiante end) as mujeres
+from dim_estudiante as e
+join fact_inscripciones as f on f.id_estudiante = e.id_estudiante
+join dim_programa as p on p.id_programa = f.id_programa
+group by nombre_carrera

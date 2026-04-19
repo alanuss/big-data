@@ -1,0 +1,8 @@
+-- Pregunta H: Lista de alumnos que pertenecen al "Cuadro de Honor" (nota final >6.5)
+-- por sede.
+select nombre, sede, avg(nota_final) as promedio_final
+from dim_estudiante as e
+join fact_inscripciones as f on f.id_estudiante = e.id_estudiante
+group by e.id_estudiante, sede
+having promedio_final > 6.5
+order by promedio_final desc

@@ -1,0 +1,10 @@
+-- Pregunta C: Top 5 de asignaturas con mayor tasa de reprobación (Asumiendo
+-- nota_final < 4.0)
+select
+    nombre_materia as asignatura,
+    count(case when nota_final < 4.0 then 1 end) * 1.0 / count(*) as tasa_reprobacion
+from dim_curso as curso
+join fact_inscripciones as facts on facts.id_curso = curso.id_curso
+group by nombre_materia
+order by tasa_reprobacion desc
+limit 5

@@ -1,0 +1,14 @@
+-- Pregunta F: Comparativa de promedio de notas entre alumnos de jornada diurna vs.
+-- vespertina.
+-- Nota: para hacer el resultado más justo, se hace un promedio final del promedio de
+-- cada estudiante. De esta forma evitamos que un estudiante que está tomando 6 ramos
+-- tenga más peso que alquien que está tomando solo 2.
+select jornada, avg(promedio_estudiante) as promedio_final
+from
+    (
+        select e.id_estudiante, jornada, avg(f.nota_final) as promedio_estudiante
+        from dim_estudiante as e
+        join fact_inscripciones as f on f.id_estudiante = e.id_estudiante
+        group by e.id_estudiante
+    )
+group by jornada

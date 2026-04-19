@@ -1,0 +1,7 @@
+-- Pregunta A: Total de alumnos inscritos por Facultad en el año 2025.
+select facultad, count(distinct id_estudiante) as numero_estudiantes
+from dim_tiempo
+join fact_inscripciones as facts on facts.id_tiempo = dim_tiempo.id_tiempo
+join dim_curso as curso on curso.id_curso = facts.id_curso
+where ano = 2025
+group by facultad

@@ -1,0 +1,6 @@
+-- Pregunta B: Promedio de notas finales por Carrera.
+select nombre_carrera as carrera, avg(nota_final) as promedio_final
+from dim_programa as programa
+join fact_inscripciones as facts on facts.id_programa = programa.id_programa
+group by nombre_carrera
+order by promedio_final desc

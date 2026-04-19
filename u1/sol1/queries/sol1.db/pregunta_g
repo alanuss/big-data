@@ -1,0 +1,7 @@
+-- Pregunta G: Mejor promedio de notas (Por curso/materia).
+select nombre_materia, avg(f.nota_final) as promedio_notas
+from dim_curso as c
+join fact_inscripciones as f on f.id_curso = c.id_curso
+group by c.nombre_materia
+order by promedio_notas desc
+limit 5
