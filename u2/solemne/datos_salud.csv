@@ -1,1001 +1,1001 @@
-ID,Edad,Ciudad,HorasEjercicio,IMC,Fuma,Consumo
-1,33,Puerto Varas,6.3,34.5,Sí,Pescado
-2,40,Temuco,3.3,22.3,No,Frutas
-3,23,Temuco,2.8,35.5,No,Pescado
-4,40,Puerto Montt,5.5,26.4,No,Frutas
-5,33,Puerto Varas,8.7,27.9,Sí,Verduras
-6,74,Puerto Varas,5.0,36.3,No,Frutas
-7,52,Puerto Varas,8.7,35.3,No,Frutas
-8,74,Puerto Montt,2.0,23.2,No,Pescado
-9,58,Concepción,9.9,16.0,No,Frutas
-10,35,Concepción,4.3,29.8,No,Frutas
-11,73,Concepción,0.8,25.3,Sí,Frutas
-12,75,Temuco,7.5,38.8,No,Pescado
-13,55,Llanquihue,8.8,25.8,No,Pescado
-14,26,Puerto Varas,4.0,19.4,Sí,Pescado
-15,29,Temuco,9.6,29.0,No,Frutas
-16,42,Llanquihue,6.6,33.3,Sí,Verduras
-17,35,Puerto Montt,1.5,37.4,Sí,Pescado
-18,76,Llanquihue,1.2,28.1,Sí,Frutas
-19,79,Llanquihue,0.7,20.5,Sí,Frutas
-20,19,Puerto Varas,6.4,25.7,No,Frutas
-21,52,Puerto Montt,2.9,22.9,No,Verduras
-22,66,Puerto Montt,0.6,19.5,Sí,Frutas
-23,19,Puerto Montt,7.1,36.6,Sí,Pescado
-24,24,Puerto Montt,7.0,37.5,No,Pescado
-25,22,Temuco,5.2,30.9,Sí,Verduras
-26,23,Puerto Varas,1.7,23.3,Sí,Verduras
-27,43,Concepción,9.3,18.8,No,Pescado
-28,72,Llanquihue,10.0,32.8,Sí,Verduras
-29,68,Temuco,7.0,29.2,No,Pescado
-30,32,Concepción,3.7,20.1,Sí,Verduras
-31,58,Temuco,2.6,28.6,No,Frutas
-32,44,Temuco,5.1,28.5,Sí,Verduras
-33,78,Llanquihue,6.4,20.0,No,Pescado
-34,39,Concepción,6.0,19.5,No,Pescado
-35,36,Concepción,9.1,28.4,No,Pescado
-36,18,Puerto Montt,4.7,20.2,No,Pescado
-37,67,Puerto Montt,6.0,21.5,Sí,Verduras
-38,30,Concepción,4.7,27.1,Sí,Verduras
-39,31,Concepción,0.9,39.9,No,Verduras
-40,73,Puerto Varas,4.4,19.8,No,Pescado
-41,49,Puerto Montt,4.1,35.1,No,Frutas
-42,20,Llanquihue,4.0,26.4,No,Frutas
-43,20,Temuco,7.1,36.3,Sí,Frutas
-44,51,Puerto Montt,9.3,23.8,Sí,Verduras
-45,53,Puerto Montt,6.7,23.3,Sí,Frutas
-46,55,Temuco,9.7,34.8,Sí,Frutas
-47,48,Puerto Varas,7.8,17.8,Sí,Verduras
-48,41,Temuco,7.9,29.6,Sí,Frutas
-49,23,Temuco,7.9,31.4,No,Verduras
-50,62,Puerto Montt,8.1,32.9,No,Pescado
-51,32,Temuco,3.4,38.4,Sí,Verduras
-52,74,Temuco,8.1,22.0,No,Frutas
-53,34,Llanquihue,4.7,37.8,Sí,Verduras
-54,56,Puerto Montt,0.4,29.5,No,Pescado
-55,34,Puerto Montt,6.5,33.5,Sí,Verduras
-56,47,Llanquihue,9.2,38.7,No,Verduras
-57,73,Temuco,3.3,16.6,No,Pescado
-58,22,Puerto Montt,5.5,32.7,No,Verduras
-59,72,Llanquihue,5.8,19.0,No,Verduras
-60,28,Puerto Montt,9.9,19.5,Sí,Pescado
-61,80,Llanquihue,9.2,32.7,Sí,Frutas
-62,58,Puerto Varas,3.7,34.8,Sí,Pescado
-63,74,Temuco,1.8,20.1,No,Verduras
-64,70,Puerto Montt,8.7,18.3,No,Verduras
-65,64,Concepción,3.8,17.7,Sí,Frutas
-66,72,Puerto Montt,6.5,23.8,No,Verduras
-67,28,Puerto Varas,9.5,16.7,No,Frutas
-68,47,Puerto Varas,5.8,23.7,No,Frutas
-69,46,Temuco,8.7,24.5,No,Pescado
-70,41,Llanquihue,2.2,32.0,No,Verduras
-71,40,Puerto Varas,6.6,34.3,No,Frutas
-72,40,Temuco,9.5,39.1,Sí,Pescado
-73,39,Puerto Varas,9.1,34.4,Sí,Pescado
-74,24,Temuco,9.9,24.1,No,Pescado
-75,27,Puerto Varas,4.7,20.7,No,Pescado
-76,45,Concepción,2.6,15.5,No,Verduras
-77,43,Llanquihue,3.9,31.1,No,Frutas
-78,65,Puerto Varas,2.4,40.0,No,Verduras
-79,48,Llanquihue,9.3,33.2,Sí,Verduras
-80,23,Concepción,3.2,37.8,No,Pescado
-81,46,Temuco,9.7,25.2,No,Frutas
-82,65,Puerto Montt,0.9,29.4,No,Verduras
-83,55,Temuco,9.6,24.0,No,Frutas
-84,63,Puerto Montt,7.2,18.1,Sí,Pescado
-85,33,Puerto Montt,1.2,20.9,Sí,Pescado
-86,37,Concepción,1.3,32.1,No,Verduras
-87,62,Puerto Montt,9.9,19.4,Sí,Pescado
-88,80,Temuco,1.6,27.5,No,Pescado
-89,39,Puerto Montt,8.6,36.3,No,Verduras
-90,24,Concepción,6.6,22.9,No,Pescado
-91,65,Temuco,4.7,16.6,No,Verduras
-92,44,Concepción,7.4,33.7,No,Pescado
-93,27,Puerto Montt,6.7,17.0,No,Verduras
-94,49,Llanquihue,1.7,34.1,Sí,Verduras
-95,27,Puerto Montt,5.5,27.8,No,Pescado
-96,41,Concepción,6.6,32.6,No,Frutas
-97,73,Llanquihue,7.8,26.7,Sí,Pescado
-98,33,Puerto Varas,2.6,38.1,No,Pescado
-99,69,Puerto Montt,9.3,31.0,Sí,Verduras
-100,50,Llanquihue,8.7,30.9,Sí,Verduras
-101,43,Concepción,6.8,18.3,Sí,Frutas
-102,45,Puerto Montt,7.7,35.4,Sí,Verduras
-103,47,Concepción,4.9,38.0,No,Verduras
-104,30,Concepción,7.5,28.3,No,Verduras
-105,71,Puerto Montt,3.7,31.9,No,Verduras
-106,31,Concepción,7.6,36.4,Sí,Verduras
-107,46,Concepción,7.1,31.0,No,Verduras
-108,74,Llanquihue,6.3,28.2,No,Pescado
-109,75,Llanquihue,2.9,31.3,Sí,Frutas
-110,32,Puerto Varas,3.9,25.0,No,Verduras
-111,27,Puerto Varas,4.0,36.5,No,Frutas
-112,71,Llanquihue,0.4,30.7,Sí,Pescado
-113,74,Puerto Montt,6.5,23.5,No,Verduras
-114,78,Concepción,0.4,15.4,No,Frutas
-115,40,Puerto Montt,8.7,28.1,No,Frutas
-116,62,Concepción,6.3,36.1,Sí,Frutas
-117,79,Concepción,5.0,19.8,No,Pescado
-118,45,Temuco,7.5,34.1,No,Verduras
-119,77,Llanquihue,4.8,26.8,Sí,Frutas
-120,52,Puerto Varas,5.1,20.7,Sí,Pescado
-121,43,Puerto Varas,2.3,16.3,No,Pescado
-122,20,Puerto Varas,8.6,21.8,Sí,Frutas
-123,54,Puerto Montt,4.4,27.2,Sí,Pescado
-124,44,Puerto Montt,7.2,27.5,Sí,Frutas
-125,51,Puerto Varas,7.4,33.3,No,Verduras
-126,61,Llanquihue,3.8,24.1,No,Verduras
-127,24,Puerto Varas,6.1,16.4,Sí,Verduras
-128,33,Temuco,4.2,25.4,No,Pescado
-129,40,Concepción,3.6,17.3,Sí,Frutas
-130,56,Concepción,2.8,15.1,No,Verduras
-131,41,Puerto Montt,8.9,38.6,No,Frutas
-132,19,Puerto Montt,7.5,20.2,Sí,Verduras
-133,73,Concepción,3.2,28.0,No,Frutas
-134,47,Llanquihue,1.7,24.3,No,Frutas
-135,22,Temuco,3.8,23.4,No,Frutas
-136,75,Puerto Montt,2.6,35.0,Sí,Pescado
-137,73,Puerto Varas,2.0,34.8,No,Frutas
-138,61,Puerto Varas,0.7,36.8,No,Frutas
-139,61,Puerto Montt,2.7,16.9,No,Frutas
-140,29,Puerto Montt,4.2,27.4,No,Frutas
-141,53,Concepción,6.1,36.4,No,Frutas
-142,45,Llanquihue,7.8,33.0,Sí,Verduras
-143,73,Puerto Varas,6.3,37.9,Sí,Pescado
-144,19,Puerto Montt,8.6,37.7,No,Pescado
-145,55,Puerto Montt,3.8,24.0,No,Pescado
-146,18,Puerto Montt,6.9,19.1,No,Frutas
-147,67,Puerto Varas,2.7,15.9,No,Verduras
-148,77,Temuco,3.4,34.8,Sí,Pescado
-149,74,Temuco,3.1,38.4,No,Frutas
-150,52,Llanquihue,3.7,21.9,Sí,Pescado
-151,32,Llanquihue,6.2,22.9,Sí,Frutas
-152,42,Temuco,0.1,19.7,Sí,Pescado
-153,25,Concepción,1.1,36.4,No,Frutas
-154,80,Concepción,6.0,17.3,No,Verduras
-155,33,Puerto Varas,8.5,16.6,No,Frutas
-156,38,Puerto Montt,0.3,20.6,Sí,Frutas
-157,42,Puerto Montt,9.5,22.2,Sí,Frutas
-158,80,Concepción,4.0,38.3,Sí,Frutas
-159,76,Puerto Montt,3.4,30.1,No,Pescado
-160,59,Puerto Varas,0.2,36.7,No,Pescado
-161,75,Llanquihue,6.9,15.6,No,Pescado
-162,42,Puerto Varas,6.0,17.6,No,Frutas
-163,62,Puerto Montt,9.6,35.5,No,Pescado
-164,61,Llanquihue,9.5,22.5,Sí,Pescado
-165,39,Puerto Montt,4.3,32.8,No,Frutas
-166,31,Llanquihue,8.7,20.9,Sí,Verduras
-167,65,Temuco,5.9,24.4,No,Pescado
-168,26,Puerto Montt,2.9,27.3,Sí,Frutas
-169,46,Temuco,7.8,15.0,No,Pescado
-170,24,Puerto Varas,0.8,22.3,No,Frutas
-171,60,Concepción,0.6,25.6,No,Frutas
-172,32,Concepción,5.3,17.6,No,Pescado
-173,38,Llanquihue,3.3,31.3,Sí,Pescado
-174,34,Concepción,7.1,33.1,Sí,Verduras
-175,51,Llanquihue,8.7,21.1,Sí,Frutas
-176,54,Concepción,1.3,18.2,No,Pescado
-177,64,Concepción,8.0,33.4,Sí,Pescado
-178,51,Llanquihue,8.1,31.4,Sí,Verduras
-179,52,Temuco,6.2,31.5,No,Frutas
-180,42,Temuco,8.4,17.0,Sí,Verduras
-181,57,Llanquihue,1.5,36.5,No,Pescado
-182,43,Puerto Montt,0.2,36.8,No,Verduras
-183,57,Concepción,5.3,23.5,Sí,Pescado
-184,39,Concepción,9.9,39.6,No,Frutas
-185,79,Puerto Varas,1.5,30.7,No,Verduras
-186,70,Puerto Varas,5.1,29.9,No,Pescado
-187,78,Concepción,7.1,19.4,Sí,Pescado
-188,60,Puerto Varas,0.9,30.3,Sí,Verduras
-189,47,Puerto Varas,7.9,16.3,No,Pescado
-190,29,Puerto Montt,1.7,40.0,No,Verduras
-191,56,Puerto Varas,5.5,36.2,Sí,Pescado
-192,36,Concepción,7.2,16.7,No,Pescado
-193,24,Puerto Varas,4.2,18.9,Sí,Pescado
-194,75,Concepción,8.2,33.5,Sí,Verduras
-195,75,Puerto Montt,5.5,21.7,No,Pescado
-196,52,Llanquihue,8.0,15.2,No,Frutas
-197,62,Concepción,2.4,33.4,No,Verduras
-198,44,Llanquihue,4.3,32.0,Sí,Verduras
-199,33,Llanquihue,8.7,34.9,No,Frutas
-200,52,Llanquihue,0.2,38.4,No,Pescado
-201,45,Concepción,6.3,32.1,No,Verduras
-202,30,Llanquihue,7.4,17.7,Sí,Verduras
-203,48,Puerto Varas,6.9,32.7,No,Frutas
-204,40,Concepción,9.8,30.4,No,Frutas
-205,70,Puerto Varas,4.9,25.6,No,Frutas
-206,40,Puerto Varas,0.9,24.3,Sí,Verduras
-207,24,Concepción,4.5,33.6,No,Pescado
-208,47,Puerto Varas,3.2,32.8,Sí,Verduras
-209,37,Temuco,0.4,18.6,No,Frutas
-210,54,Temuco,9.8,23.9,Sí,Frutas
-211,52,Puerto Montt,8.9,26.6,No,Pescado
-212,61,Puerto Varas,2.6,28.5,Sí,Frutas
-213,37,Puerto Montt,6.7,27.2,No,Frutas
-214,72,Puerto Varas,4.7,19.6,No,Pescado
-215,25,Puerto Montt,1.8,29.2,Sí,Frutas
-216,75,Puerto Varas,4.6,31.3,Sí,Verduras
-217,50,Puerto Varas,7.4,21.4,Sí,Frutas
-218,74,Temuco,0.2,21.7,No,Verduras
-219,53,Concepción,0.6,28.7,Sí,Verduras
-220,25,Puerto Varas,3.1,18.8,No,Frutas
-221,55,Puerto Varas,5.0,21.1,Sí,Verduras
-222,21,Puerto Montt,8.1,18.2,No,Frutas
-223,51,Puerto Varas,0.2,39.3,Sí,Pescado
-224,56,Temuco,3.2,27.3,No,Pescado
-225,52,Concepción,2.9,35.6,Sí,Verduras
-226,28,Llanquihue,5.5,22.6,Sí,Frutas
-227,28,Concepción,0.9,25.4,Sí,Pescado
-228,50,Concepción,6.2,27.2,No,Verduras
-229,56,Puerto Varas,2.7,16.4,Sí,Frutas
-230,53,Puerto Varas,4.1,29.2,Sí,Pescado
-231,21,Puerto Montt,6.0,25.9,No,Verduras
-232,36,Temuco,3.7,16.7,No,Pescado
-233,30,Concepción,2.2,27.2,Sí,Verduras
-234,80,Concepción,3.6,32.9,Sí,Verduras
-235,45,Concepción,9.1,35.1,Sí,Verduras
-236,30,Puerto Montt,6.9,37.0,Sí,Verduras
-237,63,Puerto Varas,4.4,20.5,No,Frutas
-238,28,Llanquihue,5.7,23.9,No,Pescado
-239,27,Concepción,9.4,36.4,No,Pescado
-240,62,Puerto Varas,1.7,15.0,Sí,Verduras
-241,37,Puerto Montt,2.7,28.8,Sí,Verduras
-242,73,Concepción,9.3,32.2,No,Frutas
-243,51,Llanquihue,7.3,27.3,No,Frutas
-244,59,Llanquihue,0.6,21.3,Sí,Verduras
-245,29,Puerto Varas,0.2,38.7,Sí,Frutas
-246,45,Puerto Varas,0.6,18.3,No,Verduras
-247,56,Concepción,8.5,34.5,Sí,Frutas
-248,61,Puerto Montt,8.1,26.9,No,Pescado
-249,77,Puerto Varas,2.1,27.1,Sí,Frutas
-250,63,Puerto Varas,7.1,30.2,No,Verduras
-251,67,Llanquihue,6.5,20.6,No,Pescado
-252,71,Llanquihue,7.5,15.1,Sí,Frutas
-253,46,Llanquihue,3.3,20.1,No,Frutas
-254,52,Concepción,2.5,29.4,No,Frutas
-255,60,Temuco,1.1,15.6,No,Pescado
-256,67,Concepción,0.2,39.0,No,Frutas
-257,48,Llanquihue,6.8,33.0,No,Verduras
-258,48,Puerto Varas,3.6,39.2,No,Pescado
-259,22,Temuco,2.4,23.7,No,Frutas
-260,47,Concepción,3.2,31.9,Sí,Frutas
-261,25,Concepción,6.1,34.8,Sí,Pescado
-262,37,Puerto Montt,1.6,38.6,No,Frutas
-263,64,Puerto Montt,9.5,18.6,Sí,Pescado
-264,22,Puerto Montt,2.7,16.7,Sí,Verduras
-265,66,Puerto Montt,2.0,20.5,Sí,Verduras
-266,51,Concepción,4.6,32.4,No,Verduras
-267,61,Puerto Varas,9.0,39.4,No,Frutas
-268,35,Concepción,2.6,35.4,Sí,Frutas
-269,43,Puerto Montt,3.5,20.9,No,Pescado
-270,42,Puerto Varas,6.7,31.0,Sí,Verduras
-271,40,Temuco,9.8,36.0,Sí,Frutas
-272,27,Puerto Varas,1.8,35.6,No,Pescado
-273,67,Temuco,6.1,38.2,Sí,Pescado
-274,32,Concepción,6.0,30.8,No,Verduras
-275,49,Puerto Montt,6.5,29.4,Sí,Verduras
-276,42,Llanquihue,0.1,19.5,No,Frutas
-277,34,Temuco,5.3,21.7,No,Frutas
-278,34,Concepción,6.7,17.1,No,Verduras
-279,67,Puerto Varas,5.7,27.6,Sí,Pescado
-280,21,Puerto Montt,5.4,37.6,Sí,Verduras
-281,50,Puerto Varas,5.1,18.5,Sí,Frutas
-282,36,Puerto Montt,6.9,37.5,Sí,Verduras
-283,41,Temuco,6.5,22.6,Sí,Pescado
-284,58,Concepción,6.3,18.6,Sí,Pescado
-285,79,Llanquihue,8.5,39.3,No,Frutas
-286,53,Concepción,8.6,26.5,Sí,Verduras
-287,41,Concepción,3.0,23.8,No,Verduras
-288,54,Puerto Varas,0.7,21.5,No,Frutas
-289,79,Concepción,3.1,23.9,No,Verduras
-290,21,Puerto Montt,4.2,26.3,No,Pescado
-291,39,Puerto Varas,1.9,17.5,Sí,Pescado
-292,41,Concepción,2.9,17.9,No,Frutas
-293,62,Puerto Varas,1.2,38.9,Sí,Frutas
-294,79,Llanquihue,8.5,39.5,No,Frutas
-295,67,Temuco,9.5,23.5,Sí,Verduras
-296,18,Puerto Varas,9.6,15.8,Sí,Verduras
-297,77,Concepción,4.7,20.7,Sí,Verduras
-298,39,Puerto Varas,9.8,17.6,No,Verduras
-299,79,Puerto Varas,7.9,18.5,Sí,Frutas
-300,66,Concepción,0.5,31.9,No,Pescado
-301,22,Puerto Varas,1.7,23.8,Sí,Frutas
-302,53,Concepción,3.9,19.4,No,Verduras
-303,23,Concepción,9.6,20.5,Sí,Verduras
-304,32,Concepción,0.2,25.3,Sí,Frutas
-305,54,Concepción,6.7,37.9,Sí,Pescado
-306,44,Puerto Montt,8.3,23.4,Sí,Frutas
-307,59,Concepción,1.2,21.9,No,Frutas
-308,35,Llanquihue,9.0,36.9,No,Pescado
-309,26,Puerto Varas,3.0,23.6,Sí,Frutas
-310,80,Llanquihue,1.2,28.7,Sí,Pescado
-311,31,Concepción,3.2,31.9,No,Frutas
-312,18,Temuco,2.6,15.3,No,Pescado
-313,52,Puerto Varas,0.2,36.7,Sí,Pescado
-314,80,Concepción,8.3,29.2,No,Verduras
-315,46,Llanquihue,5.6,39.2,Sí,Pescado
-316,34,Concepción,7.9,21.1,Sí,Verduras
-317,42,Llanquihue,7.9,20.6,Sí,Verduras
-318,45,Puerto Montt,1.5,29.2,No,Verduras
-319,33,Temuco,2.7,34.3,Sí,Pescado
-320,35,Concepción,7.5,15.5,No,Verduras
-321,64,Temuco,3.1,39.8,Sí,Pescado
-322,30,Puerto Montt,3.0,36.2,Sí,Pescado
-323,64,Llanquihue,4.1,32.8,Sí,Verduras
-324,71,Llanquihue,8.4,36.6,No,Pescado
-325,63,Temuco,6.2,39.1,Sí,Frutas
-326,58,Puerto Varas,5.6,23.5,No,Frutas
-327,18,Puerto Varas,1.2,39.9,No,Pescado
-328,54,Concepción,8.6,21.7,No,Verduras
-329,21,Puerto Montt,2.0,21.7,No,Pescado
-330,43,Llanquihue,2.0,29.8,Sí,Pescado
-331,20,Puerto Montt,7.2,15.3,No,Pescado
-332,33,Puerto Montt,1.1,33.2,Sí,Pescado
-333,57,Concepción,5.0,22.3,Sí,Pescado
-334,76,Temuco,0.4,27.2,No,Pescado
-335,64,Llanquihue,4.7,29.6,Sí,Frutas
-336,49,Puerto Montt,4.9,31.7,Sí,Verduras
-337,44,Concepción,0.6,35.8,No,Verduras
-338,79,Puerto Varas,1.8,16.1,No,Verduras
-339,52,Temuco,4.4,28.5,Sí,Pescado
-340,34,Puerto Montt,2.4,28.5,No,Pescado
-341,58,Temuco,3.1,28.7,Sí,Frutas
-342,57,Puerto Montt,0.8,38.4,No,Pescado
-343,30,Puerto Varas,9.2,18.9,No,Frutas
-344,42,Puerto Varas,9.7,29.9,No,Verduras
-345,63,Concepción,4.6,38.2,Sí,Verduras
-346,48,Temuco,0.1,17.8,Sí,Verduras
-347,27,Puerto Montt,5.2,17.6,Sí,Pescado
-348,44,Puerto Varas,4.0,28.8,No,Pescado
-349,76,Concepción,7.0,31.1,No,Pescado
-350,22,Puerto Varas,1.1,33.3,Sí,Pescado
-351,19,Puerto Montt,7.7,29.6,No,Verduras
-352,42,Puerto Montt,6.5,25.9,No,Frutas
-353,40,Temuco,2.4,25.3,Sí,Frutas
-354,30,Temuco,4.3,16.3,Sí,Frutas
-355,39,Temuco,3.1,33.4,Sí,Pescado
-356,25,Puerto Montt,4.5,21.4,Sí,Pescado
-357,54,Temuco,8.8,21.0,Sí,Frutas
-358,60,Puerto Montt,2.2,23.7,Sí,Verduras
-359,56,Concepción,8.6,33.6,Sí,Frutas
-360,24,Puerto Montt,2.1,21.0,No,Pescado
-361,67,Temuco,1.5,18.6,No,Verduras
-362,59,Puerto Varas,8.4,28.5,Sí,Pescado
-363,50,Puerto Montt,1.5,18.4,No,Frutas
-364,50,Concepción,9.7,30.4,Sí,Frutas
-365,62,Concepción,8.8,38.3,No,Frutas
-366,67,Concepción,5.3,33.1,No,Verduras
-367,63,Llanquihue,5.7,35.4,Sí,Pescado
-368,68,Temuco,0.9,17.1,Sí,Frutas
-369,74,Concepción,4.4,32.8,Sí,Pescado
-370,25,Puerto Varas,6.7,33.1,Sí,Verduras
-371,59,Concepción,6.9,22.4,Sí,Verduras
-372,71,Puerto Montt,2.7,22.6,No,Pescado
-373,60,Llanquihue,2.3,16.4,No,Frutas
-374,71,Concepción,7.2,28.2,Sí,Verduras
-375,56,Puerto Varas,2.6,19.3,No,Frutas
-376,53,Puerto Varas,7.0,15.9,Sí,Pescado
-377,51,Concepción,2.6,26.9,Sí,Pescado
-378,47,Concepción,9.3,33.5,No,Frutas
-379,72,Concepción,0.1,39.7,Sí,Verduras
-380,41,Llanquihue,8.5,35.8,Sí,Frutas
-381,33,Puerto Montt,2.4,35.4,Sí,Verduras
-382,77,Llanquihue,8.7,31.9,No,Pescado
-383,35,Concepción,8.8,25.4,Sí,Verduras
-384,60,Temuco,6.1,34.0,No,Frutas
-385,41,Puerto Montt,6.6,25.0,No,Pescado
-386,35,Temuco,3.6,21.6,Sí,Frutas
-387,49,Concepción,6.1,28.5,Sí,Frutas
-388,80,Puerto Varas,3.0,22.3,No,Frutas
-389,25,Puerto Montt,7.2,16.6,Sí,Verduras
-390,28,Puerto Montt,8.0,33.2,Sí,Frutas
-391,59,Puerto Varas,3.1,28.0,No,Verduras
-392,37,Puerto Montt,1.0,25.9,Sí,Frutas
-393,29,Llanquihue,8.6,39.3,Sí,Verduras
-394,48,Temuco,6.9,31.7,No,Verduras
-395,31,Puerto Varas,6.9,24.8,No,Frutas
-396,18,Puerto Varas,3.8,29.2,No,Pescado
-397,78,Temuco,5.7,15.7,No,Frutas
-398,52,Concepción,2.6,28.9,Sí,Pescado
-399,68,Puerto Varas,8.1,20.1,Sí,Verduras
-400,65,Llanquihue,2.1,27.0,No,Frutas
-401,53,Puerto Montt,0.6,36.4,No,Verduras
-402,79,Temuco,4.3,25.0,No,Verduras
-403,37,Temuco,6.6,36.3,Sí,Pescado
-404,62,Llanquihue,3.2,36.5,Sí,Frutas
-405,76,Llanquihue,6.0,30.5,Sí,Verduras
-406,31,Puerto Varas,6.6,18.9,No,Pescado
-407,75,Puerto Varas,7.9,30.9,Sí,Pescado
-408,68,Llanquihue,9.7,37.1,Sí,Verduras
-409,18,Concepción,3.0,34.1,No,Verduras
-410,38,Temuco,5.5,23.0,No,Verduras
-411,71,Temuco,0.7,35.6,No,Pescado
-412,74,Temuco,6.3,17.7,Sí,Frutas
-413,72,Puerto Varas,5.2,32.4,Sí,Pescado
-414,76,Puerto Montt,0.6,18.4,No,Pescado
-415,42,Puerto Montt,2.0,17.6,Sí,Pescado
-416,23,Puerto Varas,6.9,22.1,Sí,Verduras
-417,33,Temuco,6.8,22.0,Sí,Frutas
-418,78,Temuco,9.6,35.3,No,Verduras
-419,73,Temuco,8.5,35.4,Sí,Pescado
-420,73,Puerto Varas,2.1,23.2,No,Frutas
-421,49,Temuco,4.4,33.9,No,Frutas
-422,40,Puerto Montt,5.5,27.1,Sí,Frutas
-423,25,Llanquihue,8.9,22.3,No,Pescado
-424,35,Puerto Montt,8.9,15.6,No,Frutas
-425,19,Puerto Montt,1.5,17.3,No,Pescado
-426,24,Puerto Montt,9.3,21.4,Sí,Frutas
-427,48,Concepción,5.1,24.2,Sí,Verduras
-428,79,Llanquihue,4.6,36.5,Sí,Pescado
-429,79,Concepción,8.7,35.4,No,Verduras
-430,65,Puerto Montt,9.7,23.5,No,Pescado
-431,42,Temuco,8.1,17.6,No,Frutas
-432,18,Temuco,1.3,17.3,No,Verduras
-433,47,Puerto Varas,9.1,30.4,Sí,Pescado
-434,80,Concepción,5.1,23.4,No,Frutas
-435,23,Llanquihue,8.5,23.0,No,Frutas
-436,47,Llanquihue,0.9,19.9,Sí,Verduras
-437,55,Puerto Montt,6.3,17.4,No,Frutas
-438,42,Puerto Varas,9.5,35.1,Sí,Frutas
-439,48,Llanquihue,6.4,31.6,No,Frutas
-440,18,Puerto Varas,2.7,36.8,No,Pescado
-441,56,Llanquihue,4.3,38.8,No,Verduras
-442,41,Llanquihue,9.7,24.5,No,Frutas
-443,61,Llanquihue,5.1,19.4,Sí,Frutas
-444,18,Puerto Varas,0.4,18.2,Sí,Verduras
-445,24,Llanquihue,9.2,32.5,No,Verduras
-446,62,Puerto Montt,7.8,28.0,No,Verduras
-447,25,Temuco,4.6,18.5,Sí,Pescado
-448,69,Puerto Varas,0.8,19.2,No,Pescado
-449,41,Puerto Montt,3.0,31.9,Sí,Verduras
-450,50,Puerto Montt,0.0,33.9,Sí,Verduras
-451,32,Temuco,8.3,32.3,No,Pescado
-452,78,Puerto Montt,6.8,23.4,Sí,Verduras
-453,39,Puerto Varas,1.2,39.8,Sí,Pescado
-454,24,Puerto Varas,7.2,37.7,No,Frutas
-455,63,Llanquihue,0.1,31.3,Sí,Pescado
-456,41,Temuco,8.6,18.1,Sí,Frutas
-457,55,Puerto Montt,7.1,38.9,Sí,Pescado
-458,63,Llanquihue,0.6,36.4,Sí,Pescado
-459,43,Puerto Varas,0.0,25.8,No,Pescado
-460,26,Llanquihue,2.3,24.7,No,Frutas
-461,20,Puerto Varas,1.5,22.1,No,Pescado
-462,43,Puerto Montt,5.1,17.0,Sí,Pescado
-463,50,Temuco,1.4,21.2,Sí,Frutas
-464,60,Puerto Varas,8.0,19.3,No,Pescado
-465,43,Puerto Montt,0.8,37.2,No,Pescado
-466,64,Puerto Montt,5.7,34.7,No,Frutas
-467,44,Temuco,2.0,32.6,No,Pescado
-468,68,Concepción,3.6,20.9,Sí,Verduras
-469,36,Puerto Varas,9.6,19.0,No,Pescado
-470,42,Puerto Varas,3.0,35.6,Sí,Verduras
-471,41,Puerto Varas,7.5,16.7,No,Frutas
-472,38,Llanquihue,6.8,15.0,Sí,Frutas
-473,68,Llanquihue,8.0,15.9,Sí,Verduras
-474,47,Temuco,8.0,35.0,No,Frutas
-475,34,Llanquihue,5.5,38.5,No,Pescado
-476,56,Llanquihue,2.4,27.6,Sí,Pescado
-477,24,Puerto Montt,4.2,21.0,No,Frutas
-478,37,Puerto Varas,6.7,37.7,Sí,Verduras
-479,65,Concepción,2.8,23.6,No,Frutas
-480,40,Concepción,4.6,32.3,Sí,Pescado
-481,51,Concepción,7.5,20.7,Sí,Pescado
-482,70,Llanquihue,7.7,31.2,No,Pescado
-483,80,Concepción,5.9,21.7,Sí,Pescado
-484,57,Concepción,9.1,37.2,Sí,Verduras
-485,39,Puerto Montt,9.1,19.2,Sí,Verduras
-486,51,Puerto Varas,7.3,33.9,No,Frutas
-487,63,Puerto Varas,4.8,30.0,Sí,Verduras
-488,63,Puerto Varas,4.5,37.9,Sí,Pescado
-489,68,Llanquihue,7.6,28.4,No,Pescado
-490,71,Concepción,7.7,35.7,No,Frutas
-491,51,Temuco,3.5,31.4,Sí,Verduras
-492,48,Temuco,3.4,27.7,Sí,Pescado
-493,49,Temuco,0.3,24.1,Sí,Frutas
-494,42,Concepción,6.1,27.2,Sí,Frutas
-495,19,Temuco,1.8,38.4,No,Pescado
-496,59,Llanquihue,6.8,28.9,No,Frutas
-497,32,Puerto Varas,1.0,19.3,Sí,Frutas
-498,20,Llanquihue,7.8,19.8,No,Frutas
-499,19,Llanquihue,7.1,33.7,No,Pescado
-500,34,Temuco,5.4,33.3,No,Pescado
-501,56,Llanquihue,6.7,20.2,Sí,Verduras
-502,39,Puerto Varas,9.8,17.6,No,Frutas
-503,75,Llanquihue,2.3,18.4,Sí,Verduras
-504,41,Concepción,0.6,15.3,Sí,Frutas
-505,63,Puerto Montt,5.3,35.0,No,Frutas
-506,65,Temuco,7.8,36.5,Sí,Verduras
-507,64,Concepción,8.1,38.7,No,Verduras
-508,58,Temuco,2.8,36.3,No,Pescado
-509,53,Puerto Varas,0.2,23.8,No,Verduras
-510,58,Temuco,9.9,23.2,No,Verduras
-511,73,Temuco,8.2,15.4,Sí,Frutas
-512,66,Puerto Montt,4.7,25.9,Sí,Frutas
-513,25,Llanquihue,3.1,28.9,No,Verduras
-514,45,Puerto Varas,0.3,37.6,No,Pescado
-515,76,Temuco,8.9,28.2,No,Verduras
-516,78,Temuco,0.2,29.1,No,Verduras
-517,63,Llanquihue,4.1,21.5,Sí,Verduras
-518,25,Puerto Varas,4.6,23.4,No,Verduras
-519,46,Llanquihue,8.3,24.6,Sí,Frutas
-520,46,Temuco,2.8,32.6,No,Pescado
-521,58,Concepción,5.0,30.9,No,Frutas
-522,68,Temuco,1.5,31.7,No,Frutas
-523,26,Concepción,6.0,22.2,Sí,Verduras
-524,78,Puerto Montt,0.4,39.9,No,Frutas
-525,53,Llanquihue,1.9,33.5,No,Verduras
-526,38,Puerto Montt,7.1,30.0,Sí,Frutas
-527,74,Llanquihue,1.7,26.4,Sí,Frutas
-528,63,Temuco,1.4,35.1,No,Pescado
-529,74,Temuco,4.3,20.6,Sí,Verduras
-530,39,Temuco,6.2,39.6,Sí,Pescado
-531,62,Temuco,3.2,29.6,Sí,Frutas
-532,27,Puerto Montt,5.5,39.3,No,Frutas
-533,49,Concepción,7.9,18.3,Sí,Pescado
-534,23,Concepción,7.8,39.4,Sí,Pescado
-535,35,Concepción,0.8,20.1,No,Verduras
-536,20,Llanquihue,1.4,23.6,Sí,Pescado
-537,44,Puerto Montt,6.0,15.1,Sí,Pescado
-538,23,Concepción,8.1,32.7,No,Pescado
-539,22,Llanquihue,6.9,26.1,Sí,Verduras
-540,19,Puerto Varas,6.5,35.3,Sí,Verduras
-541,58,Temuco,6.2,23.2,No,Verduras
-542,45,Llanquihue,2.6,39.5,No,Frutas
-543,20,Concepción,8.5,24.4,No,Frutas
-544,65,Concepción,2.8,22.3,Sí,Verduras
-545,34,Puerto Montt,8.8,39.7,Sí,Frutas
-546,49,Concepción,9.3,16.0,No,Pescado
-547,73,Temuco,5.3,19.7,Sí,Pescado
-548,51,Concepción,7.3,15.5,Sí,Frutas
-549,59,Puerto Montt,8.7,25.6,No,Pescado
-550,52,Puerto Varas,9.0,36.9,No,Pescado
-551,57,Puerto Montt,4.2,19.6,Sí,Verduras
-552,36,Llanquihue,0.3,29.2,No,Verduras
-553,21,Puerto Montt,4.6,33.3,Sí,Pescado
-554,43,Temuco,4.3,30.5,Sí,Verduras
-555,71,Puerto Montt,3.5,35.0,Sí,Frutas
-556,58,Puerto Montt,8.9,32.7,Sí,Pescado
-557,20,Concepción,8.0,37.1,Sí,Pescado
-558,35,Puerto Varas,6.4,19.1,No,Frutas
-559,63,Puerto Varas,4.0,16.8,Sí,Verduras
-560,79,Concepción,1.5,15.4,No,Frutas
-561,61,Puerto Varas,8.5,38.3,Sí,Frutas
-562,33,Concepción,4.2,23.6,No,Verduras
-563,77,Temuco,1.4,18.7,Sí,Verduras
-564,26,Concepción,9.0,39.0,Sí,Pescado
-565,64,Puerto Varas,7.6,37.6,No,Pescado
-566,72,Puerto Varas,3.9,23.6,No,Verduras
-567,41,Puerto Varas,1.1,33.6,Sí,Frutas
-568,36,Llanquihue,3.6,28.6,No,Frutas
-569,22,Llanquihue,9.1,15.1,No,Frutas
-570,51,Temuco,1.6,21.1,No,Frutas
-571,43,Puerto Varas,0.0,25.9,Sí,Frutas
-572,26,Temuco,1.4,15.2,Sí,Verduras
-573,46,Puerto Montt,0.8,39.1,No,Verduras
-574,48,Puerto Varas,4.1,24.7,Sí,Verduras
-575,27,Temuco,8.3,28.2,No,Verduras
-576,44,Temuco,7.4,18.5,No,Verduras
-577,35,Concepción,8.0,20.6,No,Pescado
-578,43,Llanquihue,5.8,21.0,No,Frutas
-579,54,Llanquihue,5.2,18.5,Sí,Pescado
-580,77,Concepción,4.2,27.3,Sí,Frutas
-581,77,Puerto Montt,4.6,20.5,No,Verduras
-582,79,Puerto Montt,6.6,18.8,Sí,Frutas
-583,21,Temuco,5.0,37.4,Sí,Pescado
-584,32,Concepción,1.8,26.9,No,Pescado
-585,39,Puerto Montt,9.8,29.5,Sí,Verduras
-586,51,Puerto Montt,6.8,17.4,No,Pescado
-587,22,Concepción,1.7,32.7,Sí,Pescado
-588,23,Puerto Varas,8.7,34.4,No,Frutas
-589,57,Puerto Varas,5.0,38.2,Sí,Verduras
-590,20,Puerto Montt,5.9,22.4,No,Frutas
-591,18,Llanquihue,6.2,34.8,No,Verduras
-592,79,Puerto Montt,1.4,15.6,No,Pescado
-593,27,Temuco,8.4,19.7,Sí,Verduras
-594,71,Puerto Varas,4.6,23.2,Sí,Frutas
-595,23,Llanquihue,1.6,32.9,No,Frutas
-596,23,Puerto Montt,3.1,37.4,Sí,Frutas
-597,43,Puerto Varas,6.7,20.0,No,Pescado
-598,76,Llanquihue,0.5,38.6,No,Pescado
-599,41,Puerto Varas,4.1,33.0,Sí,Frutas
-600,40,Concepción,9.8,15.4,No,Pescado
-601,52,Temuco,1.8,18.6,Sí,Frutas
-602,33,Puerto Montt,3.7,15.0,Sí,Verduras
-603,41,Puerto Varas,4.4,24.9,Sí,Frutas
-604,26,Puerto Varas,9.6,15.1,Sí,Pescado
-605,49,Puerto Varas,8.4,29.8,No,Verduras
-606,75,Concepción,3.9,26.8,No,Verduras
-607,66,Puerto Montt,2.2,26.1,Sí,Verduras
-608,32,Puerto Varas,7.6,33.8,Sí,Frutas
-609,60,Concepción,3.6,39.4,Sí,Pescado
-610,65,Puerto Montt,6.5,20.1,No,Pescado
-611,72,Llanquihue,4.7,38.4,No,Pescado
-612,20,Concepción,1.1,36.8,No,Pescado
-613,78,Puerto Varas,2.0,15.1,No,Verduras
-614,62,Concepción,4.0,35.7,No,Verduras
-615,61,Temuco,6.6,33.0,No,Frutas
-616,64,Puerto Varas,1.2,29.5,Sí,Pescado
-617,59,Puerto Montt,4.4,37.2,No,Frutas
-618,68,Concepción,8.0,24.0,Sí,Verduras
-619,50,Puerto Montt,2.3,23.3,No,Pescado
-620,68,Puerto Montt,2.7,27.4,No,Verduras
-621,34,Temuco,7.2,23.4,Sí,Frutas
-622,40,Concepción,5.3,26.2,No,Frutas
-623,31,Puerto Varas,9.2,16.9,No,Pescado
-624,24,Concepción,4.6,29.4,No,Pescado
-625,58,Puerto Varas,9.3,32.7,No,Pescado
-626,35,Puerto Varas,7.9,17.1,Sí,Verduras
-627,21,Concepción,5.7,35.3,No,Pescado
-628,19,Puerto Varas,1.0,17.7,No,Pescado
-629,76,Concepción,2.2,39.7,No,Verduras
-630,51,Puerto Montt,7.4,20.9,Sí,Frutas
-631,39,Puerto Montt,6.3,26.1,Sí,Frutas
-632,79,Puerto Montt,8.4,18.7,No,Frutas
-633,44,Puerto Montt,2.5,26.2,Sí,Frutas
-634,48,Puerto Montt,6.9,29.5,No,Verduras
-635,26,Temuco,7.3,18.3,No,Pescado
-636,77,Puerto Varas,1.5,15.7,Sí,Verduras
-637,75,Puerto Varas,8.7,28.0,No,Frutas
-638,56,Temuco,6.5,37.5,Sí,Verduras
-639,68,Llanquihue,1.5,26.9,Sí,Frutas
-640,31,Temuco,8.6,24.3,No,Verduras
-641,52,Temuco,7.8,16.2,No,Frutas
-642,28,Puerto Varas,6.9,16.9,No,Frutas
-643,28,Llanquihue,6.5,26.9,No,Frutas
-644,65,Puerto Montt,5.5,24.0,Sí,Verduras
-645,26,Puerto Montt,2.6,17.3,Sí,Pescado
-646,60,Concepción,1.5,39.5,Sí,Frutas
-647,67,Puerto Montt,6.9,35.1,No,Frutas
-648,53,Temuco,5.9,28.2,Sí,Frutas
-649,52,Puerto Varas,4.6,19.3,Sí,Pescado
-650,56,Concepción,6.0,30.9,No,Verduras
-651,39,Llanquihue,2.4,29.0,Sí,Verduras
-652,40,Concepción,6.0,24.6,Sí,Pescado
-653,52,Puerto Varas,2.9,24.8,Sí,Pescado
-654,46,Puerto Montt,0.9,29.9,Sí,Pescado
-655,66,Llanquihue,0.1,24.0,No,Verduras
-656,48,Puerto Varas,5.9,19.3,Sí,Verduras
-657,18,Temuco,2.6,30.5,No,Verduras
-658,65,Puerto Varas,4.3,36.6,No,Pescado
-659,32,Puerto Varas,8.9,32.8,Sí,Verduras
-660,52,Llanquihue,7.2,32.0,No,Frutas
-661,34,Temuco,7.7,24.6,No,Frutas
-662,56,Concepción,8.0,22.0,No,Verduras
-663,66,Llanquihue,1.4,27.3,Sí,Pescado
-664,29,Temuco,7.9,25.6,No,Pescado
-665,58,Puerto Varas,5.9,28.7,Sí,Verduras
-666,60,Puerto Montt,6.0,27.7,No,Verduras
-667,56,Temuco,7.2,23.2,Sí,Frutas
-668,74,Puerto Varas,9.5,30.7,No,Pescado
-669,78,Puerto Varas,6.6,30.6,Sí,Verduras
-670,69,Puerto Montt,7.0,23.1,No,Pescado
-671,71,Puerto Montt,1.7,25.8,No,Verduras
-672,26,Llanquihue,4.3,24.2,No,Verduras
-673,24,Concepción,1.5,26.9,Sí,Verduras
-674,76,Temuco,7.0,19.9,Sí,Frutas
-675,32,Puerto Varas,1.7,19.8,No,Verduras
-676,31,Temuco,2.2,29.9,No,Pescado
-677,28,Concepción,3.3,22.0,Sí,Pescado
-678,45,Concepción,2.0,27.6,Sí,Pescado
-679,71,Concepción,3.6,22.4,Sí,Pescado
-680,67,Puerto Varas,1.8,24.4,No,Verduras
-681,64,Llanquihue,7.7,27.3,No,Frutas
-682,70,Concepción,3.6,28.6,No,Pescado
-683,39,Llanquihue,2.1,22.5,Sí,Verduras
-684,44,Llanquihue,7.0,33.0,No,Pescado
-685,74,Concepción,1.7,16.5,No,Pescado
-686,55,Puerto Montt,3.4,39.6,Sí,Verduras
-687,25,Puerto Varas,7.6,15.8,Sí,Verduras
-688,41,Puerto Varas,0.6,21.3,No,Frutas
-689,73,Puerto Varas,0.4,15.8,Sí,Frutas
-690,68,Puerto Varas,8.2,31.9,No,Pescado
-691,29,Puerto Varas,8.3,36.5,Sí,Verduras
-692,73,Temuco,5.6,22.4,No,Pescado
-693,62,Concepción,2.8,24.9,No,Verduras
-694,39,Puerto Varas,5.6,16.2,Sí,Pescado
-695,53,Temuco,1.5,15.9,Sí,Verduras
-696,61,Concepción,3.0,23.7,Sí,Frutas
-697,38,Llanquihue,4.4,31.8,Sí,Frutas
-698,20,Llanquihue,8.3,18.1,No,Pescado
-699,44,Puerto Montt,2.2,20.8,Sí,Frutas
-700,57,Llanquihue,0.5,27.9,Sí,Pescado
-701,62,Puerto Montt,2.1,30.3,Sí,Pescado
-702,21,Puerto Montt,8.7,32.8,Sí,Pescado
-703,35,Concepción,4.0,17.1,No,Pescado
-704,44,Temuco,7.4,23.5,No,Pescado
-705,71,Temuco,2.5,35.4,No,Verduras
-706,46,Concepción,8.6,25.6,No,Frutas
-707,34,Puerto Montt,6.6,17.1,No,Frutas
-708,57,Concepción,1.9,38.6,Sí,Frutas
-709,71,Concepción,2.2,28.0,Sí,Verduras
-710,69,Puerto Varas,2.7,16.6,Sí,Frutas
-711,47,Llanquihue,8.6,33.6,No,Frutas
-712,40,Puerto Varas,5.1,22.1,Sí,Verduras
-713,37,Llanquihue,6.1,24.8,No,Verduras
-714,47,Llanquihue,4.5,34.5,No,Verduras
-715,79,Llanquihue,1.0,15.2,No,Pescado
-716,41,Concepción,5.5,32.9,No,Pescado
-717,22,Puerto Montt,8.3,34.1,Sí,Verduras
-718,49,Puerto Montt,2.9,39.0,No,Pescado
-719,41,Puerto Montt,1.6,28.0,No,Verduras
-720,27,Puerto Varas,3.3,39.0,Sí,Pescado
-721,51,Llanquihue,4.1,36.2,Sí,Pescado
-722,72,Puerto Montt,7.5,20.6,No,Verduras
-723,52,Llanquihue,3.1,16.7,Sí,Pescado
-724,37,Puerto Varas,4.3,20.3,No,Verduras
-725,61,Concepción,3.5,39.8,No,Pescado
-726,75,Llanquihue,5.2,35.9,No,Pescado
-727,59,Puerto Varas,1.5,17.9,Sí,Pescado
-728,67,Concepción,2.1,16.9,Sí,Verduras
-729,33,Llanquihue,7.2,38.7,No,Frutas
-730,56,Temuco,0.4,35.1,Sí,Verduras
-731,21,Llanquihue,1.2,30.1,No,Verduras
-732,78,Temuco,2.5,21.6,No,Frutas
-733,47,Llanquihue,6.8,23.4,No,Verduras
-734,38,Puerto Montt,5.8,20.1,Sí,Verduras
-735,26,Temuco,8.1,26.1,No,Verduras
-736,60,Llanquihue,0.7,29.6,No,Verduras
-737,70,Concepción,1.7,16.3,No,Pescado
-738,57,Temuco,6.1,32.7,No,Pescado
-739,52,Puerto Montt,8.6,21.7,Sí,Frutas
-740,27,Llanquihue,5.7,36.5,Sí,Frutas
-741,70,Puerto Varas,0.8,32.8,No,Pescado
-742,73,Temuco,9.8,25.9,No,Frutas
-743,30,Llanquihue,3.5,31.2,Sí,Pescado
-744,39,Puerto Varas,1.3,28.9,Sí,Verduras
-745,53,Concepción,8.2,31.9,No,Frutas
-746,22,Llanquihue,0.2,22.5,No,Verduras
-747,29,Temuco,3.8,21.7,No,Pescado
-748,26,Concepción,2.6,21.3,Sí,Frutas
-749,39,Puerto Varas,1.7,24.3,No,Frutas
-750,41,Puerto Varas,1.8,32.0,No,Verduras
-751,74,Puerto Montt,6.0,22.7,No,Verduras
-752,56,Puerto Varas,3.7,31.3,No,Verduras
-753,24,Llanquihue,0.7,31.1,No,Pescado
-754,19,Llanquihue,4.2,28.3,Sí,Verduras
-755,45,Puerto Varas,6.6,39.0,No,Verduras
-756,66,Puerto Montt,6.5,18.7,Sí,Verduras
-757,41,Llanquihue,0.9,25.8,Sí,Verduras
-758,22,Temuco,7.2,30.1,No,Verduras
-759,58,Concepción,3.0,28.1,Sí,Verduras
-760,20,Llanquihue,2.4,35.3,Sí,Pescado
-761,66,Temuco,9.6,37.2,Sí,Verduras
-762,25,Puerto Montt,3.2,15.9,No,Frutas
-763,53,Llanquihue,5.6,18.9,No,Verduras
-764,46,Llanquihue,6.4,30.7,Sí,Verduras
-765,18,Llanquihue,0.7,19.8,No,Verduras
-766,56,Concepción,2.4,25.1,No,Frutas
-767,72,Llanquihue,8.1,35.5,Sí,Frutas
-768,36,Llanquihue,8.7,39.3,Sí,Pescado
-769,61,Temuco,8.7,32.5,No,Pescado
-770,46,Concepción,7.1,32.6,Sí,Frutas
-771,46,Temuco,7.0,27.9,Sí,Frutas
-772,21,Temuco,1.3,32.3,Sí,Pescado
-773,24,Concepción,5.7,29.6,No,Frutas
-774,44,Concepción,6.2,22.8,No,Verduras
-775,18,Temuco,2.8,23.8,Sí,Verduras
-776,70,Puerto Montt,2.1,31.8,Sí,Verduras
-777,30,Concepción,0.6,22.8,No,Pescado
-778,23,Concepción,3.2,29.7,No,Pescado
-779,76,Temuco,6.1,18.9,Sí,Verduras
-780,36,Llanquihue,4.7,37.7,No,Frutas
-781,18,Puerto Montt,6.5,32.8,Sí,Verduras
-782,38,Temuco,3.1,27.1,No,Verduras
-783,27,Llanquihue,0.2,16.8,Sí,Frutas
-784,35,Temuco,8.6,15.8,No,Frutas
-785,78,Puerto Montt,7.7,33.0,No,Frutas
-786,59,Puerto Varas,8.4,37.1,Sí,Verduras
-787,20,Llanquihue,2.5,22.7,No,Pescado
-788,36,Temuco,5.6,22.6,No,Pescado
-789,64,Concepción,1.1,23.8,Sí,Pescado
-790,34,Puerto Montt,9.1,35.9,No,Frutas
-791,23,Puerto Montt,4.3,24.4,No,Verduras
-792,61,Puerto Montt,6.1,32.3,Sí,Verduras
-793,66,Puerto Montt,4.1,20.1,Sí,Pescado
-794,54,Puerto Varas,6.9,19.5,No,Pescado
-795,32,Llanquihue,2.8,20.0,Sí,Pescado
-796,68,Puerto Montt,1.6,35.9,No,Pescado
-797,75,Llanquihue,0.0,24.6,Sí,Frutas
-798,52,Concepción,7.8,35.4,Sí,Frutas
-799,75,Temuco,8.6,15.8,No,Verduras
-800,51,Temuco,4.1,31.6,No,Frutas
-801,66,Llanquihue,5.2,37.6,Sí,Pescado
-802,39,Puerto Montt,4.5,16.9,No,Pescado
-803,58,Puerto Varas,5.6,38.5,Sí,Pescado
-804,41,Temuco,7.9,28.8,Sí,Frutas
-805,33,Puerto Montt,6.0,26.7,No,Verduras
-806,66,Puerto Montt,4.1,37.0,No,Frutas
-807,76,Llanquihue,8.4,22.9,No,Frutas
-808,42,Puerto Montt,5.3,25.4,Sí,Frutas
-809,54,Llanquihue,5.3,38.6,No,Pescado
-810,73,Temuco,5.3,25.4,Sí,Frutas
-811,59,Puerto Varas,5.8,28.8,No,Verduras
-812,18,Llanquihue,9.8,35.4,Sí,Frutas
-813,22,Puerto Varas,4.1,27.5,Sí,Frutas
-814,76,Concepción,9.0,36.6,Sí,Frutas
-815,51,Temuco,0.6,32.9,Sí,Pescado
-816,73,Concepción,7.3,35.7,Sí,Verduras
-817,33,Puerto Varas,0.0,24.4,Sí,Pescado
-818,53,Llanquihue,2.3,28.5,Sí,Verduras
-819,27,Llanquihue,0.8,27.2,Sí,Frutas
-820,70,Puerto Varas,7.3,19.2,No,Pescado
-821,28,Puerto Montt,1.7,30.5,No,Frutas
-822,38,Llanquihue,1.4,27.8,No,Frutas
-823,66,Llanquihue,4.6,15.2,No,Frutas
-824,20,Concepción,7.7,39.0,No,Pescado
-825,21,Temuco,1.4,29.8,No,Frutas
-826,73,Concepción,8.9,32.2,No,Pescado
-827,30,Concepción,4.8,30.7,No,Frutas
-828,23,Temuco,7.3,21.6,Sí,Verduras
-829,32,Concepción,4.8,35.5,Sí,Verduras
-830,48,Temuco,4.0,29.9,No,Pescado
-831,22,Llanquihue,6.9,32.6,No,Frutas
-832,47,Puerto Montt,3.4,31.9,Sí,Frutas
-833,33,Llanquihue,6.1,22.5,Sí,Verduras
-834,25,Puerto Varas,5.5,17.4,Sí,Pescado
-835,30,Puerto Varas,8.0,19.3,No,Frutas
-836,43,Llanquihue,1.1,26.5,Sí,Verduras
-837,56,Puerto Montt,2.3,19.0,No,Verduras
-838,69,Puerto Montt,6.0,27.4,Sí,Verduras
-839,41,Puerto Varas,4.2,19.0,Sí,Pescado
-840,41,Puerto Montt,8.0,25.6,No,Pescado
-841,77,Llanquihue,3.8,36.7,No,Verduras
-842,78,Concepción,3.9,16.2,Sí,Pescado
-843,59,Puerto Varas,8.7,30.6,No,Frutas
-844,57,Llanquihue,9.6,24.6,No,Pescado
-845,58,Llanquihue,8.3,21.4,No,Verduras
-846,54,Puerto Montt,7.9,19.1,Sí,Pescado
-847,61,Llanquihue,7.9,35.5,No,Pescado
-848,80,Temuco,4.4,20.0,No,Pescado
-849,74,Temuco,2.5,24.4,Sí,Pescado
-850,54,Llanquihue,6.1,27.7,No,Pescado
-851,36,Puerto Varas,0.3,22.1,Sí,Verduras
-852,56,Temuco,6.0,39.0,No,Pescado
-853,58,Llanquihue,5.0,17.0,Sí,Pescado
-854,21,Concepción,4.8,33.2,Sí,Verduras
-855,48,Puerto Montt,4.4,15.8,Sí,Pescado
-856,50,Concepción,4.2,19.6,Sí,Pescado
-857,50,Puerto Varas,0.7,36.5,No,Pescado
-858,27,Puerto Montt,2.8,16.3,Sí,Verduras
-859,76,Llanquihue,5.6,40.0,Sí,Verduras
-860,74,Concepción,2.9,28.5,No,Verduras
-861,77,Llanquihue,0.7,35.8,Sí,Verduras
-862,59,Puerto Montt,0.0,21.5,Sí,Frutas
-863,64,Llanquihue,8.9,27.4,Sí,Pescado
-864,39,Llanquihue,0.9,28.5,Sí,Verduras
-865,80,Concepción,9.8,34.3,No,Frutas
-866,46,Concepción,5.1,21.8,No,Pescado
-867,34,Concepción,5.8,20.7,Sí,Verduras
-868,75,Puerto Varas,2.8,24.6,Sí,Pescado
-869,76,Llanquihue,6.4,25.5,No,Verduras
-870,23,Temuco,4.9,34.6,Sí,Pescado
-871,76,Llanquihue,1.5,23.2,No,Verduras
-872,46,Temuco,9.4,16.3,Sí,Verduras
-873,64,Llanquihue,5.6,31.4,Sí,Pescado
-874,25,Concepción,9.6,25.0,Sí,Pescado
-875,59,Puerto Varas,6.9,39.6,No,Pescado
-876,41,Puerto Montt,3.0,25.2,No,Verduras
-877,64,Llanquihue,2.8,19.4,Sí,Pescado
-878,78,Concepción,0.7,19.7,No,Verduras
-879,63,Temuco,4.4,19.9,Sí,Frutas
-880,63,Llanquihue,9.1,18.0,No,Frutas
-881,23,Temuco,0.3,27.2,Sí,Verduras
-882,45,Concepción,4.9,36.6,No,Frutas
-883,55,Temuco,5.1,26.9,Sí,Verduras
-884,38,Puerto Montt,6.8,36.9,Sí,Verduras
-885,18,Puerto Varas,3.2,15.2,Sí,Pescado
-886,22,Puerto Varas,3.2,23.1,No,Pescado
-887,42,Llanquihue,1.6,38.3,No,Verduras
-888,35,Puerto Varas,9.3,22.1,No,Pescado
-889,26,Concepción,8.7,20.0,No,Verduras
-890,18,Puerto Montt,9.4,21.5,No,Pescado
-891,26,Puerto Montt,9.5,17.4,No,Pescado
-892,21,Llanquihue,7.9,29.0,Sí,Pescado
-893,52,Concepción,4.8,21.0,No,Frutas
-894,73,Concepción,9.7,17.1,No,Verduras
-895,35,Temuco,6.6,20.3,Sí,Verduras
-896,54,Concepción,7.2,33.8,Sí,Frutas
-897,68,Temuco,0.5,17.5,No,Pescado
-898,70,Temuco,3.0,28.2,Sí,Pescado
-899,28,Puerto Varas,8.2,15.3,No,Pescado
-900,54,Concepción,3.2,17.4,Sí,Verduras
-901,44,Puerto Varas,4.1,33.4,Sí,Frutas
-902,69,Temuco,7.7,18.9,No,Frutas
-903,19,Puerto Varas,3.1,35.2,Sí,Frutas
-904,73,Temuco,9.1,32.4,Sí,Frutas
-905,61,Temuco,7.9,15.9,No,Frutas
-906,34,Puerto Montt,4.6,16.8,No,Frutas
-907,75,Concepción,9.9,35.1,Sí,Pescado
-908,72,Temuco,1.2,25.9,No,Verduras
-909,74,Puerto Varas,8.9,22.7,Sí,Pescado
-910,38,Concepción,4.7,31.6,No,Verduras
-911,49,Puerto Varas,7.6,28.4,No,Frutas
-912,53,Llanquihue,6.4,34.1,No,Frutas
-913,38,Concepción,3.6,16.6,Sí,Frutas
-914,68,Concepción,7.6,30.3,Sí,Frutas
-915,32,Puerto Varas,3.1,23.2,No,Frutas
-916,53,Concepción,6.1,19.5,Sí,Frutas
-917,72,Llanquihue,0.9,39.2,No,Frutas
-918,27,Concepción,3.2,24.0,No,Verduras
-919,64,Llanquihue,2.6,27.0,Sí,Frutas
-920,52,Temuco,3.9,26.9,Sí,Pescado
-921,54,Puerto Varas,6.0,32.5,Sí,Pescado
-922,47,Puerto Varas,8.7,18.5,Sí,Pescado
-923,23,Temuco,5.1,20.5,Sí,Pescado
-924,21,Puerto Montt,9.1,17.0,Sí,Frutas
-925,74,Puerto Varas,3.0,26.7,No,Pescado
-926,51,Temuco,8.8,23.7,Sí,Verduras
-927,66,Temuco,3.4,37.7,No,Pescado
-928,37,Temuco,8.9,38.2,No,Frutas
-929,61,Llanquihue,5.8,25.6,No,Verduras
-930,75,Llanquihue,0.8,36.7,No,Pescado
-931,71,Temuco,2.2,37.7,Sí,Verduras
-932,40,Temuco,1.1,17.9,No,Verduras
-933,36,Llanquihue,8.6,21.8,Sí,Frutas
-934,45,Puerto Varas,5.1,37.4,No,Frutas
-935,33,Puerto Varas,3.1,38.4,Sí,Verduras
-936,72,Concepción,9.1,28.7,Sí,Frutas
-937,46,Puerto Varas,5.0,35.7,No,Frutas
-938,19,Puerto Varas,5.9,18.4,No,Verduras
-939,44,Puerto Montt,7.2,31.3,Sí,Frutas
-940,32,Puerto Varas,3.0,19.4,No,Frutas
-941,70,Concepción,5.0,27.5,Sí,Pescado
-942,28,Concepción,2.9,39.3,No,Frutas
-943,55,Llanquihue,0.3,39.9,Sí,Verduras
-944,71,Puerto Montt,2.6,31.1,No,Pescado
-945,77,Concepción,8.6,39.4,No,Verduras
-946,27,Temuco,0.9,26.8,No,Verduras
-947,31,Llanquihue,10.0,38.4,No,Verduras
-948,62,Puerto Varas,3.7,30.9,Sí,Frutas
-949,28,Llanquihue,9.1,27.4,Sí,Verduras
-950,49,Temuco,6.4,36.8,Sí,Pescado
-951,61,Concepción,7.8,22.7,Sí,Verduras
-952,67,Puerto Varas,0.9,21.1,Sí,Pescado
-953,60,Concepción,1.9,34.5,No,Verduras
-954,78,Temuco,1.4,15.3,Sí,Verduras
-955,71,Puerto Montt,5.8,32.9,Sí,Frutas
-956,53,Concepción,9.9,17.5,Sí,Pescado
-957,49,Concepción,5.2,30.3,No,Pescado
-958,51,Llanquihue,8.0,31.5,No,Verduras
-959,34,Concepción,8.3,20.6,Sí,Verduras
-960,80,Llanquihue,6.4,28.6,No,Verduras
-961,68,Concepción,5.1,29.9,Sí,Pescado
-962,26,Puerto Varas,2.9,26.0,No,Verduras
-963,22,Puerto Varas,5.3,31.8,Sí,Frutas
-964,50,Llanquihue,9.7,34.7,No,Verduras
-965,39,Concepción,0.3,31.3,No,Verduras
-966,51,Temuco,2.2,38.1,No,Verduras
-967,34,Temuco,9.5,21.7,Sí,Frutas
-968,58,Temuco,7.5,15.1,No,Pescado
-969,71,Puerto Varas,9.0,26.9,No,Pescado
-970,25,Temuco,0.3,32.6,No,Frutas
-971,69,Puerto Varas,1.4,29.1,Sí,Verduras
-972,33,Puerto Varas,7.4,25.7,No,Frutas
-973,37,Temuco,4.7,20.6,No,Verduras
-974,62,Temuco,0.5,17.5,No,Pescado
-975,22,Llanquihue,1.6,24.4,No,Verduras
-976,34,Llanquihue,3.3,15.5,Sí,Verduras
-977,55,Temuco,8.3,19.1,Sí,Verduras
-978,44,Temuco,2.1,20.8,Sí,Frutas
-979,74,Temuco,3.5,39.4,No,Frutas
-980,67,Temuco,5.1,25.8,Sí,Frutas
-981,26,Puerto Varas,6.4,25.2,No,Frutas
-982,67,Puerto Varas,6.1,25.7,No,Pescado
-983,48,Llanquihue,5.2,31.0,No,Frutas
-984,26,Puerto Montt,5.9,18.6,No,Verduras
-985,76,Llanquihue,9.8,29.2,No,Pescado
-986,55,Puerto Montt,9.1,18.9,No,Verduras
-987,59,Temuco,6.8,15.0,No,Verduras
-988,66,Puerto Montt,0.4,24.4,No,Frutas
-989,71,Temuco,7.4,30.7,No,Pescado
-990,19,Llanquihue,1.7,33.5,No,Frutas
-991,73,Concepción,2.2,29.0,Sí,Verduras
-992,33,Puerto Montt,2.4,22.0,No,Pescado
-993,28,Concepción,5.5,38.5,Sí,Frutas
-994,20,Puerto Montt,8.1,22.1,No,Frutas
-995,50,Puerto Montt,1.4,24.6,Sí,Frutas
-996,36,Puerto Montt,6.1,39.2,No,Frutas
-997,68,Concepción,3.1,29.9,Sí,Pescado
-998,45,Puerto Varas,0.6,31.9,Sí,Frutas
-999,37,Puerto Varas,4.0,17.7,Sí,Frutas
-1000,80,Llanquihue,8.4,32.7,No,Verduras
+ID,Edad,Ciudad,HorasEjercicio,IMC,Fuma,Consumo,Consume_Fruta,Consume_Verdura
+1,33,Puerto Varas,6.3,34.5,Sí,Pescado,0,0
+2,40,Temuco,3.3,22.3,No,Frutas,1,1
+3,23,Temuco,2.8,35.5,No,Pescado,1,1
+4,40,Puerto Montt,5.5,26.4,No,Frutas,1,0
+5,33,Puerto Varas,8.7,27.9,Sí,Verduras,1,1
+6,74,Puerto Varas,5.0,36.3,No,Frutas,1,0
+7,52,Puerto Varas,8.7,35.3,No,Frutas,1,1
+8,74,Puerto Montt,2.0,23.2,No,Pescado,1,1
+9,58,Concepción,9.9,16.0,No,Frutas,0,1
+10,35,Concepción,4.3,29.8,No,Frutas,1,0
+11,73,Concepción,0.8,25.3,Sí,Frutas,0,0
+12,75,Temuco,7.5,38.8,No,Pescado,1,1
+13,55,Llanquihue,8.8,25.8,No,Pescado,0,1
+14,26,Puerto Varas,4.0,19.4,Sí,Pescado,1,1
+15,29,Temuco,9.6,29.0,No,Frutas,1,0
+16,42,Llanquihue,6.6,33.3,Sí,Verduras,0,1
+17,35,Puerto Montt,1.5,37.4,Sí,Pescado,1,1
+18,76,Llanquihue,1.2,28.1,Sí,Frutas,1,0
+19,79,Llanquihue,0.7,20.5,Sí,Frutas,1,0
+20,19,Puerto Varas,6.4,25.7,No,Frutas,0,0
+21,52,Puerto Montt,2.9,22.9,No,Verduras,1,0
+22,66,Puerto Montt,0.6,19.5,Sí,Frutas,1,0
+23,19,Puerto Montt,7.1,36.6,Sí,Pescado,0,1
+24,24,Puerto Montt,7.0,37.5,No,Pescado,0,1
+25,22,Temuco,5.2,30.9,Sí,Verduras,1,0
+26,23,Puerto Varas,1.7,23.3,Sí,Verduras,0,1
+27,43,Concepción,9.3,18.8,No,Pescado,1,0
+28,72,Llanquihue,10.0,32.8,Sí,Verduras,1,1
+29,68,Temuco,7.0,29.2,No,Pescado,0,1
+30,32,Concepción,3.7,20.1,Sí,Verduras,0,1
+31,58,Temuco,2.6,28.6,No,Frutas,1,1
+32,44,Temuco,5.1,28.5,Sí,Verduras,0,1
+33,78,Llanquihue,6.4,20.0,No,Pescado,0,1
+34,39,Concepción,6.0,19.5,No,Pescado,1,1
+35,36,Concepción,9.1,28.4,No,Pescado,1,0
+36,18,Puerto Montt,4.7,20.2,No,Pescado,1,1
+37,67,Puerto Montt,6.0,21.5,Sí,Verduras,1,0
+38,30,Concepción,4.7,27.1,Sí,Verduras,1,1
+39,31,Concepción,0.9,39.9,No,Verduras,1,1
+40,73,Puerto Varas,4.4,19.8,No,Pescado,1,1
+41,49,Puerto Montt,4.1,35.1,No,Frutas,1,0
+42,20,Llanquihue,4.0,26.4,No,Frutas,1,0
+43,20,Temuco,7.1,36.3,Sí,Frutas,1,1
+44,51,Puerto Montt,9.3,23.8,Sí,Verduras,1,1
+45,53,Puerto Montt,6.7,23.3,Sí,Frutas,1,1
+46,55,Temuco,9.7,34.8,Sí,Frutas,1,1
+47,48,Puerto Varas,7.8,17.8,Sí,Verduras,1,1
+48,41,Temuco,7.9,29.6,Sí,Frutas,0,0
+49,23,Temuco,7.9,31.4,No,Verduras,0,1
+50,62,Puerto Montt,8.1,32.9,No,Pescado,1,1
+51,32,Temuco,3.4,38.4,Sí,Verduras,1,0
+52,74,Temuco,8.1,22.0,No,Frutas,1,1
+53,34,Llanquihue,4.7,37.8,Sí,Verduras,1,1
+54,56,Puerto Montt,0.4,29.5,No,Pescado,0,0
+55,34,Puerto Montt,6.5,33.5,Sí,Verduras,1,1
+56,47,Llanquihue,9.2,38.7,No,Verduras,1,1
+57,73,Temuco,3.3,16.6,No,Pescado,1,1
+58,22,Puerto Montt,5.5,32.7,No,Verduras,0,0
+59,72,Llanquihue,5.8,19.0,No,Verduras,0,1
+60,28,Puerto Montt,9.9,19.5,Sí,Pescado,0,1
+61,80,Llanquihue,9.2,32.7,Sí,Frutas,0,1
+62,58,Puerto Varas,3.7,34.8,Sí,Pescado,1,1
+63,74,Temuco,1.8,20.1,No,Verduras,0,0
+64,70,Puerto Montt,8.7,18.3,No,Verduras,1,1
+65,64,Concepción,3.8,17.7,Sí,Frutas,1,1
+66,72,Puerto Montt,6.5,23.8,No,Verduras,1,1
+67,28,Puerto Varas,9.5,16.7,No,Frutas,1,1
+68,47,Puerto Varas,5.8,23.7,No,Frutas,1,1
+69,46,Temuco,8.7,24.5,No,Pescado,1,1
+70,41,Llanquihue,2.2,32.0,No,Verduras,0,1
+71,40,Puerto Varas,6.6,34.3,No,Frutas,1,1
+72,40,Temuco,9.5,39.1,Sí,Pescado,0,1
+73,39,Puerto Varas,9.1,34.4,Sí,Pescado,0,1
+74,24,Temuco,9.9,24.1,No,Pescado,1,1
+75,27,Puerto Varas,4.7,20.7,No,Pescado,1,0
+76,45,Concepción,2.6,15.5,No,Verduras,0,1
+77,43,Llanquihue,3.9,31.1,No,Frutas,1,1
+78,65,Puerto Varas,2.4,40.0,No,Verduras,0,1
+79,48,Llanquihue,9.3,33.2,Sí,Verduras,1,1
+80,23,Concepción,3.2,37.8,No,Pescado,0,1
+81,46,Temuco,9.7,25.2,No,Frutas,1,1
+82,65,Puerto Montt,0.9,29.4,No,Verduras,1,1
+83,55,Temuco,9.6,24.0,No,Frutas,1,1
+84,63,Puerto Montt,7.2,18.1,Sí,Pescado,1,0
+85,33,Puerto Montt,1.2,20.9,Sí,Pescado,0,1
+86,37,Concepción,1.3,32.1,No,Verduras,1,1
+87,62,Puerto Montt,9.9,19.4,Sí,Pescado,0,1
+88,80,Temuco,1.6,27.5,No,Pescado,1,1
+89,39,Puerto Montt,8.6,36.3,No,Verduras,1,1
+90,24,Concepción,6.6,22.9,No,Pescado,1,1
+91,65,Temuco,4.7,16.6,No,Verduras,1,1
+92,44,Concepción,7.4,33.7,No,Pescado,0,1
+93,27,Puerto Montt,6.7,17.0,No,Verduras,0,0
+94,49,Llanquihue,1.7,34.1,Sí,Verduras,1,1
+95,27,Puerto Montt,5.5,27.8,No,Pescado,1,1
+96,41,Concepción,6.6,32.6,No,Frutas,1,1
+97,73,Llanquihue,7.8,26.7,Sí,Pescado,0,1
+98,33,Puerto Varas,2.6,38.1,No,Pescado,1,1
+99,69,Puerto Montt,9.3,31.0,Sí,Verduras,0,0
+100,50,Llanquihue,8.7,30.9,Sí,Verduras,1,1
+101,43,Concepción,6.8,18.3,Sí,Frutas,1,1
+102,45,Puerto Montt,7.7,35.4,Sí,Verduras,0,0
+103,47,Concepción,4.9,38.0,No,Verduras,0,0
+104,30,Concepción,7.5,28.3,No,Verduras,0,1
+105,71,Puerto Montt,3.7,31.9,No,Verduras,1,1
+106,31,Concepción,7.6,36.4,Sí,Verduras,1,1
+107,46,Concepción,7.1,31.0,No,Verduras,0,1
+108,74,Llanquihue,6.3,28.2,No,Pescado,1,0
+109,75,Llanquihue,2.9,31.3,Sí,Frutas,0,0
+110,32,Puerto Varas,3.9,25.0,No,Verduras,0,1
+111,27,Puerto Varas,4.0,36.5,No,Frutas,1,1
+112,71,Llanquihue,0.4,30.7,Sí,Pescado,1,1
+113,74,Puerto Montt,6.5,23.5,No,Verduras,1,1
+114,78,Concepción,0.4,15.4,No,Frutas,1,1
+115,40,Puerto Montt,8.7,28.1,No,Frutas,0,1
+116,62,Concepción,6.3,36.1,Sí,Frutas,0,1
+117,79,Concepción,5.0,19.8,No,Pescado,0,1
+118,45,Temuco,7.5,34.1,No,Verduras,0,1
+119,77,Llanquihue,4.8,26.8,Sí,Frutas,1,0
+120,52,Puerto Varas,5.1,20.7,Sí,Pescado,0,1
+121,43,Puerto Varas,2.3,16.3,No,Pescado,1,1
+122,20,Puerto Varas,8.6,21.8,Sí,Frutas,0,1
+123,54,Puerto Montt,4.4,27.2,Sí,Pescado,1,1
+124,44,Puerto Montt,7.2,27.5,Sí,Frutas,1,1
+125,51,Puerto Varas,7.4,33.3,No,Verduras,1,0
+126,61,Llanquihue,3.8,24.1,No,Verduras,0,1
+127,24,Puerto Varas,6.1,16.4,Sí,Verduras,1,1
+128,33,Temuco,4.2,25.4,No,Pescado,0,0
+129,40,Concepción,3.6,17.3,Sí,Frutas,1,0
+130,56,Concepción,2.8,15.1,No,Verduras,1,1
+131,41,Puerto Montt,8.9,38.6,No,Frutas,1,1
+132,19,Puerto Montt,7.5,20.2,Sí,Verduras,0,0
+133,73,Concepción,3.2,28.0,No,Frutas,0,1
+134,47,Llanquihue,1.7,24.3,No,Frutas,1,1
+135,22,Temuco,3.8,23.4,No,Frutas,0,0
+136,75,Puerto Montt,2.6,35.0,Sí,Pescado,0,1
+137,73,Puerto Varas,2.0,34.8,No,Frutas,1,0
+138,61,Puerto Varas,0.7,36.8,No,Frutas,1,1
+139,61,Puerto Montt,2.7,16.9,No,Frutas,1,1
+140,29,Puerto Montt,4.2,27.4,No,Frutas,1,1
+141,53,Concepción,6.1,36.4,No,Frutas,1,1
+142,45,Llanquihue,7.8,33.0,Sí,Verduras,1,1
+143,73,Puerto Varas,6.3,37.9,Sí,Pescado,1,0
+144,19,Puerto Montt,8.6,37.7,No,Pescado,1,1
+145,55,Puerto Montt,3.8,24.0,No,Pescado,1,1
+146,18,Puerto Montt,6.9,19.1,No,Frutas,1,1
+147,67,Puerto Varas,2.7,15.9,No,Verduras,1,0
+148,77,Temuco,3.4,34.8,Sí,Pescado,1,0
+149,74,Temuco,3.1,38.4,No,Frutas,1,1
+150,52,Llanquihue,3.7,21.9,Sí,Pescado,1,1
+151,32,Llanquihue,6.2,22.9,Sí,Frutas,1,1
+152,42,Temuco,0.1,19.7,Sí,Pescado,1,1
+153,25,Concepción,1.1,36.4,No,Frutas,1,0
+154,80,Concepción,6.0,17.3,No,Verduras,1,0
+155,33,Puerto Varas,8.5,16.6,No,Frutas,1,1
+156,38,Puerto Montt,0.3,20.6,Sí,Frutas,0,1
+157,42,Puerto Montt,9.5,22.2,Sí,Frutas,1,1
+158,80,Concepción,4.0,38.3,Sí,Frutas,1,1
+159,76,Puerto Montt,3.4,30.1,No,Pescado,1,1
+160,59,Puerto Varas,0.2,36.7,No,Pescado,1,0
+161,75,Llanquihue,6.9,15.6,No,Pescado,0,1
+162,42,Puerto Varas,6.0,17.6,No,Frutas,1,1
+163,62,Puerto Montt,9.6,35.5,No,Pescado,1,0
+164,61,Llanquihue,9.5,22.5,Sí,Pescado,0,1
+165,39,Puerto Montt,4.3,32.8,No,Frutas,0,1
+166,31,Llanquihue,8.7,20.9,Sí,Verduras,1,1
+167,65,Temuco,5.9,24.4,No,Pescado,1,1
+168,26,Puerto Montt,2.9,27.3,Sí,Frutas,1,1
+169,46,Temuco,7.8,15.0,No,Pescado,1,0
+170,24,Puerto Varas,0.8,22.3,No,Frutas,1,1
+171,60,Concepción,0.6,25.6,No,Frutas,1,1
+172,32,Concepción,5.3,17.6,No,Pescado,1,0
+173,38,Llanquihue,3.3,31.3,Sí,Pescado,1,1
+174,34,Concepción,7.1,33.1,Sí,Verduras,1,1
+175,51,Llanquihue,8.7,21.1,Sí,Frutas,0,0
+176,54,Concepción,1.3,18.2,No,Pescado,1,1
+177,64,Concepción,8.0,33.4,Sí,Pescado,0,1
+178,51,Llanquihue,8.1,31.4,Sí,Verduras,1,1
+179,52,Temuco,6.2,31.5,No,Frutas,0,1
+180,42,Temuco,8.4,17.0,Sí,Verduras,1,1
+181,57,Llanquihue,1.5,36.5,No,Pescado,1,0
+182,43,Puerto Montt,0.2,36.8,No,Verduras,1,1
+183,57,Concepción,5.3,23.5,Sí,Pescado,1,0
+184,39,Concepción,9.9,39.6,No,Frutas,0,1
+185,79,Puerto Varas,1.5,30.7,No,Verduras,0,1
+186,70,Puerto Varas,5.1,29.9,No,Pescado,1,1
+187,78,Concepción,7.1,19.4,Sí,Pescado,0,1
+188,60,Puerto Varas,0.9,30.3,Sí,Verduras,0,1
+189,47,Puerto Varas,7.9,16.3,No,Pescado,1,1
+190,29,Puerto Montt,1.7,40.0,No,Verduras,1,1
+191,56,Puerto Varas,5.5,36.2,Sí,Pescado,1,1
+192,36,Concepción,7.2,16.7,No,Pescado,0,1
+193,24,Puerto Varas,4.2,18.9,Sí,Pescado,0,1
+194,75,Concepción,8.2,33.5,Sí,Verduras,0,1
+195,75,Puerto Montt,5.5,21.7,No,Pescado,1,0
+196,52,Llanquihue,8.0,15.2,No,Frutas,1,1
+197,62,Concepción,2.4,33.4,No,Verduras,1,0
+198,44,Llanquihue,4.3,32.0,Sí,Verduras,0,1
+199,33,Llanquihue,8.7,34.9,No,Frutas,0,1
+200,52,Llanquihue,0.2,38.4,No,Pescado,0,1
+201,45,Concepción,6.3,32.1,No,Verduras,1,1
+202,30,Llanquihue,7.4,17.7,Sí,Verduras,0,1
+203,48,Puerto Varas,6.9,32.7,No,Frutas,1,0
+204,40,Concepción,9.8,30.4,No,Frutas,0,1
+205,70,Puerto Varas,4.9,25.6,No,Frutas,1,0
+206,40,Puerto Varas,0.9,24.3,Sí,Verduras,0,0
+207,24,Concepción,4.5,33.6,No,Pescado,1,1
+208,47,Puerto Varas,3.2,32.8,Sí,Verduras,1,1
+209,37,Temuco,0.4,18.6,No,Frutas,1,1
+210,54,Temuco,9.8,23.9,Sí,Frutas,0,0
+211,52,Puerto Montt,8.9,26.6,No,Pescado,1,1
+212,61,Puerto Varas,2.6,28.5,Sí,Frutas,1,1
+213,37,Puerto Montt,6.7,27.2,No,Frutas,0,0
+214,72,Puerto Varas,4.7,19.6,No,Pescado,0,1
+215,25,Puerto Montt,1.8,29.2,Sí,Frutas,0,1
+216,75,Puerto Varas,4.6,31.3,Sí,Verduras,1,1
+217,50,Puerto Varas,7.4,21.4,Sí,Frutas,0,1
+218,74,Temuco,0.2,21.7,No,Verduras,1,1
+219,53,Concepción,0.6,28.7,Sí,Verduras,1,1
+220,25,Puerto Varas,3.1,18.8,No,Frutas,1,1
+221,55,Puerto Varas,5.0,21.1,Sí,Verduras,0,1
+222,21,Puerto Montt,8.1,18.2,No,Frutas,1,1
+223,51,Puerto Varas,0.2,39.3,Sí,Pescado,1,0
+224,56,Temuco,3.2,27.3,No,Pescado,1,0
+225,52,Concepción,2.9,35.6,Sí,Verduras,0,1
+226,28,Llanquihue,5.5,22.6,Sí,Frutas,1,1
+227,28,Concepción,0.9,25.4,Sí,Pescado,0,1
+228,50,Concepción,6.2,27.2,No,Verduras,1,1
+229,56,Puerto Varas,2.7,16.4,Sí,Frutas,1,0
+230,53,Puerto Varas,4.1,29.2,Sí,Pescado,0,0
+231,21,Puerto Montt,6.0,25.9,No,Verduras,1,1
+232,36,Temuco,3.7,16.7,No,Pescado,1,1
+233,30,Concepción,2.2,27.2,Sí,Verduras,0,1
+234,80,Concepción,3.6,32.9,Sí,Verduras,1,0
+235,45,Concepción,9.1,35.1,Sí,Verduras,1,0
+236,30,Puerto Montt,6.9,37.0,Sí,Verduras,1,1
+237,63,Puerto Varas,4.4,20.5,No,Frutas,1,0
+238,28,Llanquihue,5.7,23.9,No,Pescado,1,1
+239,27,Concepción,9.4,36.4,No,Pescado,1,0
+240,62,Puerto Varas,1.7,15.0,Sí,Verduras,0,0
+241,37,Puerto Montt,2.7,28.8,Sí,Verduras,1,1
+242,73,Concepción,9.3,32.2,No,Frutas,1,1
+243,51,Llanquihue,7.3,27.3,No,Frutas,0,0
+244,59,Llanquihue,0.6,21.3,Sí,Verduras,1,1
+245,29,Puerto Varas,0.2,38.7,Sí,Frutas,1,1
+246,45,Puerto Varas,0.6,18.3,No,Verduras,0,0
+247,56,Concepción,8.5,34.5,Sí,Frutas,0,1
+248,61,Puerto Montt,8.1,26.9,No,Pescado,0,1
+249,77,Puerto Varas,2.1,27.1,Sí,Frutas,1,1
+250,63,Puerto Varas,7.1,30.2,No,Verduras,0,0
+251,67,Llanquihue,6.5,20.6,No,Pescado,1,0
+252,71,Llanquihue,7.5,15.1,Sí,Frutas,1,1
+253,46,Llanquihue,3.3,20.1,No,Frutas,0,1
+254,52,Concepción,2.5,29.4,No,Frutas,1,1
+255,60,Temuco,1.1,15.6,No,Pescado,1,1
+256,67,Concepción,0.2,39.0,No,Frutas,0,0
+257,48,Llanquihue,6.8,33.0,No,Verduras,1,0
+258,48,Puerto Varas,3.6,39.2,No,Pescado,1,1
+259,22,Temuco,2.4,23.7,No,Frutas,1,1
+260,47,Concepción,3.2,31.9,Sí,Frutas,1,0
+261,25,Concepción,6.1,34.8,Sí,Pescado,0,1
+262,37,Puerto Montt,1.6,38.6,No,Frutas,0,1
+263,64,Puerto Montt,9.5,18.6,Sí,Pescado,1,1
+264,22,Puerto Montt,2.7,16.7,Sí,Verduras,0,1
+265,66,Puerto Montt,2.0,20.5,Sí,Verduras,1,1
+266,51,Concepción,4.6,32.4,No,Verduras,1,0
+267,61,Puerto Varas,9.0,39.4,No,Frutas,0,0
+268,35,Concepción,2.6,35.4,Sí,Frutas,1,1
+269,43,Puerto Montt,3.5,20.9,No,Pescado,1,0
+270,42,Puerto Varas,6.7,31.0,Sí,Verduras,1,1
+271,40,Temuco,9.8,36.0,Sí,Frutas,1,1
+272,27,Puerto Varas,1.8,35.6,No,Pescado,1,1
+273,67,Temuco,6.1,38.2,Sí,Pescado,1,1
+274,32,Concepción,6.0,30.8,No,Verduras,1,1
+275,49,Puerto Montt,6.5,29.4,Sí,Verduras,0,1
+276,42,Llanquihue,0.1,19.5,No,Frutas,1,1
+277,34,Temuco,5.3,21.7,No,Frutas,0,1
+278,34,Concepción,6.7,17.1,No,Verduras,0,0
+279,67,Puerto Varas,5.7,27.6,Sí,Pescado,1,0
+280,21,Puerto Montt,5.4,37.6,Sí,Verduras,1,1
+281,50,Puerto Varas,5.1,18.5,Sí,Frutas,0,1
+282,36,Puerto Montt,6.9,37.5,Sí,Verduras,0,1
+283,41,Temuco,6.5,22.6,Sí,Pescado,1,1
+284,58,Concepción,6.3,18.6,Sí,Pescado,0,0
+285,79,Llanquihue,8.5,39.3,No,Frutas,1,1
+286,53,Concepción,8.6,26.5,Sí,Verduras,1,0
+287,41,Concepción,3.0,23.8,No,Verduras,1,1
+288,54,Puerto Varas,0.7,21.5,No,Frutas,1,0
+289,79,Concepción,3.1,23.9,No,Verduras,1,0
+290,21,Puerto Montt,4.2,26.3,No,Pescado,1,0
+291,39,Puerto Varas,1.9,17.5,Sí,Pescado,1,0
+292,41,Concepción,2.9,17.9,No,Frutas,1,1
+293,62,Puerto Varas,1.2,38.9,Sí,Frutas,1,1
+294,79,Llanquihue,8.5,39.5,No,Frutas,0,1
+295,67,Temuco,9.5,23.5,Sí,Verduras,0,1
+296,18,Puerto Varas,9.6,15.8,Sí,Verduras,0,1
+297,77,Concepción,4.7,20.7,Sí,Verduras,1,1
+298,39,Puerto Varas,9.8,17.6,No,Verduras,1,1
+299,79,Puerto Varas,7.9,18.5,Sí,Frutas,1,0
+300,66,Concepción,0.5,31.9,No,Pescado,1,1
+301,22,Puerto Varas,1.7,23.8,Sí,Frutas,1,1
+302,53,Concepción,3.9,19.4,No,Verduras,1,0
+303,23,Concepción,9.6,20.5,Sí,Verduras,1,1
+304,32,Concepción,0.2,25.3,Sí,Frutas,0,1
+305,54,Concepción,6.7,37.9,Sí,Pescado,0,1
+306,44,Puerto Montt,8.3,23.4,Sí,Frutas,1,1
+307,59,Concepción,1.2,21.9,No,Frutas,1,0
+308,35,Llanquihue,9.0,36.9,No,Pescado,1,0
+309,26,Puerto Varas,3.0,23.6,Sí,Frutas,1,1
+310,80,Llanquihue,1.2,28.7,Sí,Pescado,0,1
+311,31,Concepción,3.2,31.9,No,Frutas,0,1
+312,18,Temuco,2.6,15.3,No,Pescado,0,1
+313,52,Puerto Varas,0.2,36.7,Sí,Pescado,1,1
+314,80,Concepción,8.3,29.2,No,Verduras,1,0
+315,46,Llanquihue,5.6,39.2,Sí,Pescado,0,1
+316,34,Concepción,7.9,21.1,Sí,Verduras,1,0
+317,42,Llanquihue,7.9,20.6,Sí,Verduras,1,1
+318,45,Puerto Montt,1.5,29.2,No,Verduras,0,1
+319,33,Temuco,2.7,34.3,Sí,Pescado,1,1
+320,35,Concepción,7.5,15.5,No,Verduras,1,0
+321,64,Temuco,3.1,39.8,Sí,Pescado,0,1
+322,30,Puerto Montt,3.0,36.2,Sí,Pescado,1,1
+323,64,Llanquihue,4.1,32.8,Sí,Verduras,1,1
+324,71,Llanquihue,8.4,36.6,No,Pescado,1,1
+325,63,Temuco,6.2,39.1,Sí,Frutas,1,1
+326,58,Puerto Varas,5.6,23.5,No,Frutas,1,1
+327,18,Puerto Varas,1.2,39.9,No,Pescado,1,1
+328,54,Concepción,8.6,21.7,No,Verduras,0,1
+329,21,Puerto Montt,2.0,21.7,No,Pescado,1,1
+330,43,Llanquihue,2.0,29.8,Sí,Pescado,1,1
+331,20,Puerto Montt,7.2,15.3,No,Pescado,1,0
+332,33,Puerto Montt,1.1,33.2,Sí,Pescado,1,1
+333,57,Concepción,5.0,22.3,Sí,Pescado,0,0
+334,76,Temuco,0.4,27.2,No,Pescado,1,1
+335,64,Llanquihue,4.7,29.6,Sí,Frutas,1,1
+336,49,Puerto Montt,4.9,31.7,Sí,Verduras,1,1
+337,44,Concepción,0.6,35.8,No,Verduras,1,0
+338,79,Puerto Varas,1.8,16.1,No,Verduras,1,0
+339,52,Temuco,4.4,28.5,Sí,Pescado,0,0
+340,34,Puerto Montt,2.4,28.5,No,Pescado,1,1
+341,58,Temuco,3.1,28.7,Sí,Frutas,1,0
+342,57,Puerto Montt,0.8,38.4,No,Pescado,1,1
+343,30,Puerto Varas,9.2,18.9,No,Frutas,0,0
+344,42,Puerto Varas,9.7,29.9,No,Verduras,0,0
+345,63,Concepción,4.6,38.2,Sí,Verduras,1,1
+346,48,Temuco,0.1,17.8,Sí,Verduras,0,0
+347,27,Puerto Montt,5.2,17.6,Sí,Pescado,1,1
+348,44,Puerto Varas,4.0,28.8,No,Pescado,0,1
+349,76,Concepción,7.0,31.1,No,Pescado,0,1
+350,22,Puerto Varas,1.1,33.3,Sí,Pescado,0,1
+351,19,Puerto Montt,7.7,29.6,No,Verduras,0,1
+352,42,Puerto Montt,6.5,25.9,No,Frutas,1,0
+353,40,Temuco,2.4,25.3,Sí,Frutas,1,1
+354,30,Temuco,4.3,16.3,Sí,Frutas,1,1
+355,39,Temuco,3.1,33.4,Sí,Pescado,0,1
+356,25,Puerto Montt,4.5,21.4,Sí,Pescado,1,1
+357,54,Temuco,8.8,21.0,Sí,Frutas,0,0
+358,60,Puerto Montt,2.2,23.7,Sí,Verduras,0,0
+359,56,Concepción,8.6,33.6,Sí,Frutas,1,1
+360,24,Puerto Montt,2.1,21.0,No,Pescado,1,1
+361,67,Temuco,1.5,18.6,No,Verduras,1,1
+362,59,Puerto Varas,8.4,28.5,Sí,Pescado,0,0
+363,50,Puerto Montt,1.5,18.4,No,Frutas,0,1
+364,50,Concepción,9.7,30.4,Sí,Frutas,0,0
+365,62,Concepción,8.8,38.3,No,Frutas,1,1
+366,67,Concepción,5.3,33.1,No,Verduras,0,1
+367,63,Llanquihue,5.7,35.4,Sí,Pescado,1,1
+368,68,Temuco,0.9,17.1,Sí,Frutas,0,1
+369,74,Concepción,4.4,32.8,Sí,Pescado,1,1
+370,25,Puerto Varas,6.7,33.1,Sí,Verduras,1,1
+371,59,Concepción,6.9,22.4,Sí,Verduras,0,1
+372,71,Puerto Montt,2.7,22.6,No,Pescado,1,0
+373,60,Llanquihue,2.3,16.4,No,Frutas,1,0
+374,71,Concepción,7.2,28.2,Sí,Verduras,0,1
+375,56,Puerto Varas,2.6,19.3,No,Frutas,0,0
+376,53,Puerto Varas,7.0,15.9,Sí,Pescado,1,1
+377,51,Concepción,2.6,26.9,Sí,Pescado,1,0
+378,47,Concepción,9.3,33.5,No,Frutas,1,1
+379,72,Concepción,0.1,39.7,Sí,Verduras,0,0
+380,41,Llanquihue,8.5,35.8,Sí,Frutas,0,1
+381,33,Puerto Montt,2.4,35.4,Sí,Verduras,0,1
+382,77,Llanquihue,8.7,31.9,No,Pescado,0,0
+383,35,Concepción,8.8,25.4,Sí,Verduras,0,0
+384,60,Temuco,6.1,34.0,No,Frutas,0,1
+385,41,Puerto Montt,6.6,25.0,No,Pescado,1,0
+386,35,Temuco,3.6,21.6,Sí,Frutas,0,1
+387,49,Concepción,6.1,28.5,Sí,Frutas,1,1
+388,80,Puerto Varas,3.0,22.3,No,Frutas,1,0
+389,25,Puerto Montt,7.2,16.6,Sí,Verduras,0,1
+390,28,Puerto Montt,8.0,33.2,Sí,Frutas,0,1
+391,59,Puerto Varas,3.1,28.0,No,Verduras,0,0
+392,37,Puerto Montt,1.0,25.9,Sí,Frutas,0,1
+393,29,Llanquihue,8.6,39.3,Sí,Verduras,1,0
+394,48,Temuco,6.9,31.7,No,Verduras,1,1
+395,31,Puerto Varas,6.9,24.8,No,Frutas,0,1
+396,18,Puerto Varas,3.8,29.2,No,Pescado,0,1
+397,78,Temuco,5.7,15.7,No,Frutas,1,0
+398,52,Concepción,2.6,28.9,Sí,Pescado,1,1
+399,68,Puerto Varas,8.1,20.1,Sí,Verduras,1,1
+400,65,Llanquihue,2.1,27.0,No,Frutas,1,0
+401,53,Puerto Montt,0.6,36.4,No,Verduras,0,0
+402,79,Temuco,4.3,25.0,No,Verduras,1,1
+403,37,Temuco,6.6,36.3,Sí,Pescado,1,1
+404,62,Llanquihue,3.2,36.5,Sí,Frutas,0,1
+405,76,Llanquihue,6.0,30.5,Sí,Verduras,0,1
+406,31,Puerto Varas,6.6,18.9,No,Pescado,1,1
+407,75,Puerto Varas,7.9,30.9,Sí,Pescado,1,1
+408,68,Llanquihue,9.7,37.1,Sí,Verduras,1,1
+409,18,Concepción,3.0,34.1,No,Verduras,0,0
+410,38,Temuco,5.5,23.0,No,Verduras,1,0
+411,71,Temuco,0.7,35.6,No,Pescado,1,1
+412,74,Temuco,6.3,17.7,Sí,Frutas,0,1
+413,72,Puerto Varas,5.2,32.4,Sí,Pescado,1,1
+414,76,Puerto Montt,0.6,18.4,No,Pescado,0,1
+415,42,Puerto Montt,2.0,17.6,Sí,Pescado,1,1
+416,23,Puerto Varas,6.9,22.1,Sí,Verduras,1,0
+417,33,Temuco,6.8,22.0,Sí,Frutas,1,1
+418,78,Temuco,9.6,35.3,No,Verduras,1,1
+419,73,Temuco,8.5,35.4,Sí,Pescado,1,0
+420,73,Puerto Varas,2.1,23.2,No,Frutas,1,1
+421,49,Temuco,4.4,33.9,No,Frutas,0,1
+422,40,Puerto Montt,5.5,27.1,Sí,Frutas,0,1
+423,25,Llanquihue,8.9,22.3,No,Pescado,0,1
+424,35,Puerto Montt,8.9,15.6,No,Frutas,0,1
+425,19,Puerto Montt,1.5,17.3,No,Pescado,1,0
+426,24,Puerto Montt,9.3,21.4,Sí,Frutas,0,1
+427,48,Concepción,5.1,24.2,Sí,Verduras,1,1
+428,79,Llanquihue,4.6,36.5,Sí,Pescado,1,0
+429,79,Concepción,8.7,35.4,No,Verduras,1,1
+430,65,Puerto Montt,9.7,23.5,No,Pescado,1,1
+431,42,Temuco,8.1,17.6,No,Frutas,1,1
+432,18,Temuco,1.3,17.3,No,Verduras,0,0
+433,47,Puerto Varas,9.1,30.4,Sí,Pescado,1,1
+434,80,Concepción,5.1,23.4,No,Frutas,0,0
+435,23,Llanquihue,8.5,23.0,No,Frutas,0,1
+436,47,Llanquihue,0.9,19.9,Sí,Verduras,1,1
+437,55,Puerto Montt,6.3,17.4,No,Frutas,1,1
+438,42,Puerto Varas,9.5,35.1,Sí,Frutas,0,1
+439,48,Llanquihue,6.4,31.6,No,Frutas,1,1
+440,18,Puerto Varas,2.7,36.8,No,Pescado,1,1
+441,56,Llanquihue,4.3,38.8,No,Verduras,0,1
+442,41,Llanquihue,9.7,24.5,No,Frutas,1,1
+443,61,Llanquihue,5.1,19.4,Sí,Frutas,0,1
+444,18,Puerto Varas,0.4,18.2,Sí,Verduras,0,0
+445,24,Llanquihue,9.2,32.5,No,Verduras,1,0
+446,62,Puerto Montt,7.8,28.0,No,Verduras,1,1
+447,25,Temuco,4.6,18.5,Sí,Pescado,0,1
+448,69,Puerto Varas,0.8,19.2,No,Pescado,0,0
+449,41,Puerto Montt,3.0,31.9,Sí,Verduras,1,0
+450,50,Puerto Montt,0.0,33.9,Sí,Verduras,0,1
+451,32,Temuco,8.3,32.3,No,Pescado,1,1
+452,78,Puerto Montt,6.8,23.4,Sí,Verduras,0,1
+453,39,Puerto Varas,1.2,39.8,Sí,Pescado,1,0
+454,24,Puerto Varas,7.2,37.7,No,Frutas,1,1
+455,63,Llanquihue,0.1,31.3,Sí,Pescado,0,0
+456,41,Temuco,8.6,18.1,Sí,Frutas,0,1
+457,55,Puerto Montt,7.1,38.9,Sí,Pescado,0,0
+458,63,Llanquihue,0.6,36.4,Sí,Pescado,0,1
+459,43,Puerto Varas,0.0,25.8,No,Pescado,1,1
+460,26,Llanquihue,2.3,24.7,No,Frutas,1,0
+461,20,Puerto Varas,1.5,22.1,No,Pescado,1,0
+462,43,Puerto Montt,5.1,17.0,Sí,Pescado,1,1
+463,50,Temuco,1.4,21.2,Sí,Frutas,0,0
+464,60,Puerto Varas,8.0,19.3,No,Pescado,1,1
+465,43,Puerto Montt,0.8,37.2,No,Pescado,1,1
+466,64,Puerto Montt,5.7,34.7,No,Frutas,1,1
+467,44,Temuco,2.0,32.6,No,Pescado,1,1
+468,68,Concepción,3.6,20.9,Sí,Verduras,1,0
+469,36,Puerto Varas,9.6,19.0,No,Pescado,1,1
+470,42,Puerto Varas,3.0,35.6,Sí,Verduras,0,0
+471,41,Puerto Varas,7.5,16.7,No,Frutas,1,1
+472,38,Llanquihue,6.8,15.0,Sí,Frutas,1,1
+473,68,Llanquihue,8.0,15.9,Sí,Verduras,1,1
+474,47,Temuco,8.0,35.0,No,Frutas,0,1
+475,34,Llanquihue,5.5,38.5,No,Pescado,0,0
+476,56,Llanquihue,2.4,27.6,Sí,Pescado,0,1
+477,24,Puerto Montt,4.2,21.0,No,Frutas,0,1
+478,37,Puerto Varas,6.7,37.7,Sí,Verduras,1,0
+479,65,Concepción,2.8,23.6,No,Frutas,1,0
+480,40,Concepción,4.6,32.3,Sí,Pescado,1,0
+481,51,Concepción,7.5,20.7,Sí,Pescado,1,1
+482,70,Llanquihue,7.7,31.2,No,Pescado,0,0
+483,80,Concepción,5.9,21.7,Sí,Pescado,0,1
+484,57,Concepción,9.1,37.2,Sí,Verduras,0,1
+485,39,Puerto Montt,9.1,19.2,Sí,Verduras,1,1
+486,51,Puerto Varas,7.3,33.9,No,Frutas,0,0
+487,63,Puerto Varas,4.8,30.0,Sí,Verduras,1,0
+488,63,Puerto Varas,4.5,37.9,Sí,Pescado,1,1
+489,68,Llanquihue,7.6,28.4,No,Pescado,1,1
+490,71,Concepción,7.7,35.7,No,Frutas,1,1
+491,51,Temuco,3.5,31.4,Sí,Verduras,1,1
+492,48,Temuco,3.4,27.7,Sí,Pescado,0,1
+493,49,Temuco,0.3,24.1,Sí,Frutas,1,1
+494,42,Concepción,6.1,27.2,Sí,Frutas,1,1
+495,19,Temuco,1.8,38.4,No,Pescado,1,1
+496,59,Llanquihue,6.8,28.9,No,Frutas,1,1
+497,32,Puerto Varas,1.0,19.3,Sí,Frutas,1,1
+498,20,Llanquihue,7.8,19.8,No,Frutas,1,1
+499,19,Llanquihue,7.1,33.7,No,Pescado,1,1
+500,34,Temuco,5.4,33.3,No,Pescado,1,1
+501,56,Llanquihue,6.7,20.2,Sí,Verduras,0,0
+502,39,Puerto Varas,9.8,17.6,No,Frutas,0,1
+503,75,Llanquihue,2.3,18.4,Sí,Verduras,1,1
+504,41,Concepción,0.6,15.3,Sí,Frutas,1,1
+505,63,Puerto Montt,5.3,35.0,No,Frutas,0,1
+506,65,Temuco,7.8,36.5,Sí,Verduras,0,1
+507,64,Concepción,8.1,38.7,No,Verduras,1,0
+508,58,Temuco,2.8,36.3,No,Pescado,1,1
+509,53,Puerto Varas,0.2,23.8,No,Verduras,0,1
+510,58,Temuco,9.9,23.2,No,Verduras,1,1
+511,73,Temuco,8.2,15.4,Sí,Frutas,1,1
+512,66,Puerto Montt,4.7,25.9,Sí,Frutas,1,1
+513,25,Llanquihue,3.1,28.9,No,Verduras,1,0
+514,45,Puerto Varas,0.3,37.6,No,Pescado,1,1
+515,76,Temuco,8.9,28.2,No,Verduras,0,1
+516,78,Temuco,0.2,29.1,No,Verduras,1,1
+517,63,Llanquihue,4.1,21.5,Sí,Verduras,1,1
+518,25,Puerto Varas,4.6,23.4,No,Verduras,1,1
+519,46,Llanquihue,8.3,24.6,Sí,Frutas,1,1
+520,46,Temuco,2.8,32.6,No,Pescado,1,0
+521,58,Concepción,5.0,30.9,No,Frutas,0,0
+522,68,Temuco,1.5,31.7,No,Frutas,0,0
+523,26,Concepción,6.0,22.2,Sí,Verduras,0,1
+524,78,Puerto Montt,0.4,39.9,No,Frutas,1,1
+525,53,Llanquihue,1.9,33.5,No,Verduras,0,1
+526,38,Puerto Montt,7.1,30.0,Sí,Frutas,0,1
+527,74,Llanquihue,1.7,26.4,Sí,Frutas,1,1
+528,63,Temuco,1.4,35.1,No,Pescado,0,1
+529,74,Temuco,4.3,20.6,Sí,Verduras,0,1
+530,39,Temuco,6.2,39.6,Sí,Pescado,1,0
+531,62,Temuco,3.2,29.6,Sí,Frutas,0,1
+532,27,Puerto Montt,5.5,39.3,No,Frutas,1,0
+533,49,Concepción,7.9,18.3,Sí,Pescado,1,1
+534,23,Concepción,7.8,39.4,Sí,Pescado,1,1
+535,35,Concepción,0.8,20.1,No,Verduras,1,0
+536,20,Llanquihue,1.4,23.6,Sí,Pescado,1,1
+537,44,Puerto Montt,6.0,15.1,Sí,Pescado,1,1
+538,23,Concepción,8.1,32.7,No,Pescado,1,0
+539,22,Llanquihue,6.9,26.1,Sí,Verduras,1,0
+540,19,Puerto Varas,6.5,35.3,Sí,Verduras,1,1
+541,58,Temuco,6.2,23.2,No,Verduras,1,1
+542,45,Llanquihue,2.6,39.5,No,Frutas,1,1
+543,20,Concepción,8.5,24.4,No,Frutas,0,1
+544,65,Concepción,2.8,22.3,Sí,Verduras,0,1
+545,34,Puerto Montt,8.8,39.7,Sí,Frutas,0,1
+546,49,Concepción,9.3,16.0,No,Pescado,0,1
+547,73,Temuco,5.3,19.7,Sí,Pescado,1,0
+548,51,Concepción,7.3,15.5,Sí,Frutas,0,0
+549,59,Puerto Montt,8.7,25.6,No,Pescado,1,1
+550,52,Puerto Varas,9.0,36.9,No,Pescado,1,0
+551,57,Puerto Montt,4.2,19.6,Sí,Verduras,1,1
+552,36,Llanquihue,0.3,29.2,No,Verduras,1,0
+553,21,Puerto Montt,4.6,33.3,Sí,Pescado,1,1
+554,43,Temuco,4.3,30.5,Sí,Verduras,1,1
+555,71,Puerto Montt,3.5,35.0,Sí,Frutas,1,1
+556,58,Puerto Montt,8.9,32.7,Sí,Pescado,0,1
+557,20,Concepción,8.0,37.1,Sí,Pescado,1,1
+558,35,Puerto Varas,6.4,19.1,No,Frutas,1,1
+559,63,Puerto Varas,4.0,16.8,Sí,Verduras,1,0
+560,79,Concepción,1.5,15.4,No,Frutas,1,1
+561,61,Puerto Varas,8.5,38.3,Sí,Frutas,1,1
+562,33,Concepción,4.2,23.6,No,Verduras,1,0
+563,77,Temuco,1.4,18.7,Sí,Verduras,1,0
+564,26,Concepción,9.0,39.0,Sí,Pescado,1,0
+565,64,Puerto Varas,7.6,37.6,No,Pescado,1,1
+566,72,Puerto Varas,3.9,23.6,No,Verduras,1,1
+567,41,Puerto Varas,1.1,33.6,Sí,Frutas,1,1
+568,36,Llanquihue,3.6,28.6,No,Frutas,1,1
+569,22,Llanquihue,9.1,15.1,No,Frutas,1,1
+570,51,Temuco,1.6,21.1,No,Frutas,0,1
+571,43,Puerto Varas,0.0,25.9,Sí,Frutas,1,1
+572,26,Temuco,1.4,15.2,Sí,Verduras,1,0
+573,46,Puerto Montt,0.8,39.1,No,Verduras,1,1
+574,48,Puerto Varas,4.1,24.7,Sí,Verduras,1,1
+575,27,Temuco,8.3,28.2,No,Verduras,1,1
+576,44,Temuco,7.4,18.5,No,Verduras,0,0
+577,35,Concepción,8.0,20.6,No,Pescado,1,1
+578,43,Llanquihue,5.8,21.0,No,Frutas,0,0
+579,54,Llanquihue,5.2,18.5,Sí,Pescado,1,1
+580,77,Concepción,4.2,27.3,Sí,Frutas,1,0
+581,77,Puerto Montt,4.6,20.5,No,Verduras,1,1
+582,79,Puerto Montt,6.6,18.8,Sí,Frutas,0,1
+583,21,Temuco,5.0,37.4,Sí,Pescado,1,1
+584,32,Concepción,1.8,26.9,No,Pescado,1,0
+585,39,Puerto Montt,9.8,29.5,Sí,Verduras,0,0
+586,51,Puerto Montt,6.8,17.4,No,Pescado,1,0
+587,22,Concepción,1.7,32.7,Sí,Pescado,1,0
+588,23,Puerto Varas,8.7,34.4,No,Frutas,1,1
+589,57,Puerto Varas,5.0,38.2,Sí,Verduras,0,1
+590,20,Puerto Montt,5.9,22.4,No,Frutas,0,0
+591,18,Llanquihue,6.2,34.8,No,Verduras,1,0
+592,79,Puerto Montt,1.4,15.6,No,Pescado,1,1
+593,27,Temuco,8.4,19.7,Sí,Verduras,0,0
+594,71,Puerto Varas,4.6,23.2,Sí,Frutas,0,0
+595,23,Llanquihue,1.6,32.9,No,Frutas,0,0
+596,23,Puerto Montt,3.1,37.4,Sí,Frutas,1,1
+597,43,Puerto Varas,6.7,20.0,No,Pescado,0,1
+598,76,Llanquihue,0.5,38.6,No,Pescado,1,1
+599,41,Puerto Varas,4.1,33.0,Sí,Frutas,0,1
+600,40,Concepción,9.8,15.4,No,Pescado,0,1
+601,52,Temuco,1.8,18.6,Sí,Frutas,1,1
+602,33,Puerto Montt,3.7,15.0,Sí,Verduras,1,1
+603,41,Puerto Varas,4.4,24.9,Sí,Frutas,1,0
+604,26,Puerto Varas,9.6,15.1,Sí,Pescado,0,1
+605,49,Puerto Varas,8.4,29.8,No,Verduras,0,1
+606,75,Concepción,3.9,26.8,No,Verduras,1,1
+607,66,Puerto Montt,2.2,26.1,Sí,Verduras,0,0
+608,32,Puerto Varas,7.6,33.8,Sí,Frutas,1,0
+609,60,Concepción,3.6,39.4,Sí,Pescado,0,1
+610,65,Puerto Montt,6.5,20.1,No,Pescado,1,1
+611,72,Llanquihue,4.7,38.4,No,Pescado,1,1
+612,20,Concepción,1.1,36.8,No,Pescado,0,1
+613,78,Puerto Varas,2.0,15.1,No,Verduras,1,0
+614,62,Concepción,4.0,35.7,No,Verduras,1,1
+615,61,Temuco,6.6,33.0,No,Frutas,0,1
+616,64,Puerto Varas,1.2,29.5,Sí,Pescado,1,1
+617,59,Puerto Montt,4.4,37.2,No,Frutas,1,1
+618,68,Concepción,8.0,24.0,Sí,Verduras,0,0
+619,50,Puerto Montt,2.3,23.3,No,Pescado,1,1
+620,68,Puerto Montt,2.7,27.4,No,Verduras,0,0
+621,34,Temuco,7.2,23.4,Sí,Frutas,0,1
+622,40,Concepción,5.3,26.2,No,Frutas,1,0
+623,31,Puerto Varas,9.2,16.9,No,Pescado,1,1
+624,24,Concepción,4.6,29.4,No,Pescado,1,1
+625,58,Puerto Varas,9.3,32.7,No,Pescado,1,1
+626,35,Puerto Varas,7.9,17.1,Sí,Verduras,1,1
+627,21,Concepción,5.7,35.3,No,Pescado,0,1
+628,19,Puerto Varas,1.0,17.7,No,Pescado,1,1
+629,76,Concepción,2.2,39.7,No,Verduras,0,0
+630,51,Puerto Montt,7.4,20.9,Sí,Frutas,0,0
+631,39,Puerto Montt,6.3,26.1,Sí,Frutas,1,1
+632,79,Puerto Montt,8.4,18.7,No,Frutas,0,1
+633,44,Puerto Montt,2.5,26.2,Sí,Frutas,1,0
+634,48,Puerto Montt,6.9,29.5,No,Verduras,1,0
+635,26,Temuco,7.3,18.3,No,Pescado,1,1
+636,77,Puerto Varas,1.5,15.7,Sí,Verduras,1,1
+637,75,Puerto Varas,8.7,28.0,No,Frutas,1,1
+638,56,Temuco,6.5,37.5,Sí,Verduras,1,1
+639,68,Llanquihue,1.5,26.9,Sí,Frutas,1,1
+640,31,Temuco,8.6,24.3,No,Verduras,0,0
+641,52,Temuco,7.8,16.2,No,Frutas,0,1
+642,28,Puerto Varas,6.9,16.9,No,Frutas,1,1
+643,28,Llanquihue,6.5,26.9,No,Frutas,1,0
+644,65,Puerto Montt,5.5,24.0,Sí,Verduras,1,0
+645,26,Puerto Montt,2.6,17.3,Sí,Pescado,1,0
+646,60,Concepción,1.5,39.5,Sí,Frutas,1,1
+647,67,Puerto Montt,6.9,35.1,No,Frutas,1,0
+648,53,Temuco,5.9,28.2,Sí,Frutas,1,0
+649,52,Puerto Varas,4.6,19.3,Sí,Pescado,1,1
+650,56,Concepción,6.0,30.9,No,Verduras,0,1
+651,39,Llanquihue,2.4,29.0,Sí,Verduras,1,0
+652,40,Concepción,6.0,24.6,Sí,Pescado,1,1
+653,52,Puerto Varas,2.9,24.8,Sí,Pescado,0,0
+654,46,Puerto Montt,0.9,29.9,Sí,Pescado,1,1
+655,66,Llanquihue,0.1,24.0,No,Verduras,0,1
+656,48,Puerto Varas,5.9,19.3,Sí,Verduras,0,0
+657,18,Temuco,2.6,30.5,No,Verduras,0,1
+658,65,Puerto Varas,4.3,36.6,No,Pescado,1,1
+659,32,Puerto Varas,8.9,32.8,Sí,Verduras,0,1
+660,52,Llanquihue,7.2,32.0,No,Frutas,0,1
+661,34,Temuco,7.7,24.6,No,Frutas,1,1
+662,56,Concepción,8.0,22.0,No,Verduras,0,1
+663,66,Llanquihue,1.4,27.3,Sí,Pescado,1,0
+664,29,Temuco,7.9,25.6,No,Pescado,1,1
+665,58,Puerto Varas,5.9,28.7,Sí,Verduras,1,0
+666,60,Puerto Montt,6.0,27.7,No,Verduras,1,1
+667,56,Temuco,7.2,23.2,Sí,Frutas,1,1
+668,74,Puerto Varas,9.5,30.7,No,Pescado,1,1
+669,78,Puerto Varas,6.6,30.6,Sí,Verduras,1,0
+670,69,Puerto Montt,7.0,23.1,No,Pescado,0,0
+671,71,Puerto Montt,1.7,25.8,No,Verduras,1,1
+672,26,Llanquihue,4.3,24.2,No,Verduras,0,1
+673,24,Concepción,1.5,26.9,Sí,Verduras,0,1
+674,76,Temuco,7.0,19.9,Sí,Frutas,1,1
+675,32,Puerto Varas,1.7,19.8,No,Verduras,1,1
+676,31,Temuco,2.2,29.9,No,Pescado,0,1
+677,28,Concepción,3.3,22.0,Sí,Pescado,0,1
+678,45,Concepción,2.0,27.6,Sí,Pescado,1,0
+679,71,Concepción,3.6,22.4,Sí,Pescado,0,0
+680,67,Puerto Varas,1.8,24.4,No,Verduras,1,0
+681,64,Llanquihue,7.7,27.3,No,Frutas,0,1
+682,70,Concepción,3.6,28.6,No,Pescado,1,1
+683,39,Llanquihue,2.1,22.5,Sí,Verduras,1,1
+684,44,Llanquihue,7.0,33.0,No,Pescado,0,1
+685,74,Concepción,1.7,16.5,No,Pescado,0,1
+686,55,Puerto Montt,3.4,39.6,Sí,Verduras,1,1
+687,25,Puerto Varas,7.6,15.8,Sí,Verduras,0,1
+688,41,Puerto Varas,0.6,21.3,No,Frutas,1,0
+689,73,Puerto Varas,0.4,15.8,Sí,Frutas,1,1
+690,68,Puerto Varas,8.2,31.9,No,Pescado,1,1
+691,29,Puerto Varas,8.3,36.5,Sí,Verduras,1,1
+692,73,Temuco,5.6,22.4,No,Pescado,1,1
+693,62,Concepción,2.8,24.9,No,Verduras,1,1
+694,39,Puerto Varas,5.6,16.2,Sí,Pescado,1,1
+695,53,Temuco,1.5,15.9,Sí,Verduras,1,1
+696,61,Concepción,3.0,23.7,Sí,Frutas,1,0
+697,38,Llanquihue,4.4,31.8,Sí,Frutas,1,0
+698,20,Llanquihue,8.3,18.1,No,Pescado,1,0
+699,44,Puerto Montt,2.2,20.8,Sí,Frutas,1,0
+700,57,Llanquihue,0.5,27.9,Sí,Pescado,0,1
+701,62,Puerto Montt,2.1,30.3,Sí,Pescado,0,1
+702,21,Puerto Montt,8.7,32.8,Sí,Pescado,1,0
+703,35,Concepción,4.0,17.1,No,Pescado,1,1
+704,44,Temuco,7.4,23.5,No,Pescado,1,1
+705,71,Temuco,2.5,35.4,No,Verduras,0,1
+706,46,Concepción,8.6,25.6,No,Frutas,0,0
+707,34,Puerto Montt,6.6,17.1,No,Frutas,1,1
+708,57,Concepción,1.9,38.6,Sí,Frutas,1,1
+709,71,Concepción,2.2,28.0,Sí,Verduras,0,0
+710,69,Puerto Varas,2.7,16.6,Sí,Frutas,0,1
+711,47,Llanquihue,8.6,33.6,No,Frutas,0,1
+712,40,Puerto Varas,5.1,22.1,Sí,Verduras,0,1
+713,37,Llanquihue,6.1,24.8,No,Verduras,1,1
+714,47,Llanquihue,4.5,34.5,No,Verduras,1,1
+715,79,Llanquihue,1.0,15.2,No,Pescado,1,0
+716,41,Concepción,5.5,32.9,No,Pescado,1,0
+717,22,Puerto Montt,8.3,34.1,Sí,Verduras,0,1
+718,49,Puerto Montt,2.9,39.0,No,Pescado,1,0
+719,41,Puerto Montt,1.6,28.0,No,Verduras,0,1
+720,27,Puerto Varas,3.3,39.0,Sí,Pescado,0,1
+721,51,Llanquihue,4.1,36.2,Sí,Pescado,1,1
+722,72,Puerto Montt,7.5,20.6,No,Verduras,1,0
+723,52,Llanquihue,3.1,16.7,Sí,Pescado,1,1
+724,37,Puerto Varas,4.3,20.3,No,Verduras,1,1
+725,61,Concepción,3.5,39.8,No,Pescado,0,0
+726,75,Llanquihue,5.2,35.9,No,Pescado,1,1
+727,59,Puerto Varas,1.5,17.9,Sí,Pescado,1,1
+728,67,Concepción,2.1,16.9,Sí,Verduras,1,0
+729,33,Llanquihue,7.2,38.7,No,Frutas,1,1
+730,56,Temuco,0.4,35.1,Sí,Verduras,0,1
+731,21,Llanquihue,1.2,30.1,No,Verduras,0,1
+732,78,Temuco,2.5,21.6,No,Frutas,1,1
+733,47,Llanquihue,6.8,23.4,No,Verduras,0,1
+734,38,Puerto Montt,5.8,20.1,Sí,Verduras,1,1
+735,26,Temuco,8.1,26.1,No,Verduras,0,1
+736,60,Llanquihue,0.7,29.6,No,Verduras,0,1
+737,70,Concepción,1.7,16.3,No,Pescado,1,1
+738,57,Temuco,6.1,32.7,No,Pescado,1,1
+739,52,Puerto Montt,8.6,21.7,Sí,Frutas,0,0
+740,27,Llanquihue,5.7,36.5,Sí,Frutas,1,0
+741,70,Puerto Varas,0.8,32.8,No,Pescado,0,1
+742,73,Temuco,9.8,25.9,No,Frutas,1,1
+743,30,Llanquihue,3.5,31.2,Sí,Pescado,1,0
+744,39,Puerto Varas,1.3,28.9,Sí,Verduras,1,1
+745,53,Concepción,8.2,31.9,No,Frutas,0,0
+746,22,Llanquihue,0.2,22.5,No,Verduras,1,1
+747,29,Temuco,3.8,21.7,No,Pescado,0,0
+748,26,Concepción,2.6,21.3,Sí,Frutas,1,1
+749,39,Puerto Varas,1.7,24.3,No,Frutas,1,0
+750,41,Puerto Varas,1.8,32.0,No,Verduras,0,1
+751,74,Puerto Montt,6.0,22.7,No,Verduras,1,1
+752,56,Puerto Varas,3.7,31.3,No,Verduras,0,0
+753,24,Llanquihue,0.7,31.1,No,Pescado,1,0
+754,19,Llanquihue,4.2,28.3,Sí,Verduras,1,1
+755,45,Puerto Varas,6.6,39.0,No,Verduras,1,0
+756,66,Puerto Montt,6.5,18.7,Sí,Verduras,0,1
+757,41,Llanquihue,0.9,25.8,Sí,Verduras,1,0
+758,22,Temuco,7.2,30.1,No,Verduras,0,1
+759,58,Concepción,3.0,28.1,Sí,Verduras,1,0
+760,20,Llanquihue,2.4,35.3,Sí,Pescado,1,0
+761,66,Temuco,9.6,37.2,Sí,Verduras,1,0
+762,25,Puerto Montt,3.2,15.9,No,Frutas,1,1
+763,53,Llanquihue,5.6,18.9,No,Verduras,1,0
+764,46,Llanquihue,6.4,30.7,Sí,Verduras,1,0
+765,18,Llanquihue,0.7,19.8,No,Verduras,1,1
+766,56,Concepción,2.4,25.1,No,Frutas,1,1
+767,72,Llanquihue,8.1,35.5,Sí,Frutas,1,1
+768,36,Llanquihue,8.7,39.3,Sí,Pescado,0,1
+769,61,Temuco,8.7,32.5,No,Pescado,1,1
+770,46,Concepción,7.1,32.6,Sí,Frutas,0,1
+771,46,Temuco,7.0,27.9,Sí,Frutas,1,1
+772,21,Temuco,1.3,32.3,Sí,Pescado,1,1
+773,24,Concepción,5.7,29.6,No,Frutas,0,1
+774,44,Concepción,6.2,22.8,No,Verduras,1,0
+775,18,Temuco,2.8,23.8,Sí,Verduras,1,1
+776,70,Puerto Montt,2.1,31.8,Sí,Verduras,0,1
+777,30,Concepción,0.6,22.8,No,Pescado,1,1
+778,23,Concepción,3.2,29.7,No,Pescado,0,1
+779,76,Temuco,6.1,18.9,Sí,Verduras,1,1
+780,36,Llanquihue,4.7,37.7,No,Frutas,0,1
+781,18,Puerto Montt,6.5,32.8,Sí,Verduras,0,0
+782,38,Temuco,3.1,27.1,No,Verduras,0,0
+783,27,Llanquihue,0.2,16.8,Sí,Frutas,1,1
+784,35,Temuco,8.6,15.8,No,Frutas,0,0
+785,78,Puerto Montt,7.7,33.0,No,Frutas,1,1
+786,59,Puerto Varas,8.4,37.1,Sí,Verduras,0,0
+787,20,Llanquihue,2.5,22.7,No,Pescado,1,0
+788,36,Temuco,5.6,22.6,No,Pescado,1,1
+789,64,Concepción,1.1,23.8,Sí,Pescado,1,1
+790,34,Puerto Montt,9.1,35.9,No,Frutas,1,1
+791,23,Puerto Montt,4.3,24.4,No,Verduras,1,0
+792,61,Puerto Montt,6.1,32.3,Sí,Verduras,0,1
+793,66,Puerto Montt,4.1,20.1,Sí,Pescado,0,1
+794,54,Puerto Varas,6.9,19.5,No,Pescado,0,1
+795,32,Llanquihue,2.8,20.0,Sí,Pescado,1,1
+796,68,Puerto Montt,1.6,35.9,No,Pescado,1,1
+797,75,Llanquihue,0.0,24.6,Sí,Frutas,0,1
+798,52,Concepción,7.8,35.4,Sí,Frutas,1,0
+799,75,Temuco,8.6,15.8,No,Verduras,1,1
+800,51,Temuco,4.1,31.6,No,Frutas,1,1
+801,66,Llanquihue,5.2,37.6,Sí,Pescado,1,0
+802,39,Puerto Montt,4.5,16.9,No,Pescado,1,1
+803,58,Puerto Varas,5.6,38.5,Sí,Pescado,0,0
+804,41,Temuco,7.9,28.8,Sí,Frutas,1,1
+805,33,Puerto Montt,6.0,26.7,No,Verduras,1,1
+806,66,Puerto Montt,4.1,37.0,No,Frutas,0,0
+807,76,Llanquihue,8.4,22.9,No,Frutas,1,1
+808,42,Puerto Montt,5.3,25.4,Sí,Frutas,1,1
+809,54,Llanquihue,5.3,38.6,No,Pescado,0,1
+810,73,Temuco,5.3,25.4,Sí,Frutas,0,1
+811,59,Puerto Varas,5.8,28.8,No,Verduras,1,1
+812,18,Llanquihue,9.8,35.4,Sí,Frutas,1,0
+813,22,Puerto Varas,4.1,27.5,Sí,Frutas,1,0
+814,76,Concepción,9.0,36.6,Sí,Frutas,0,1
+815,51,Temuco,0.6,32.9,Sí,Pescado,0,1
+816,73,Concepción,7.3,35.7,Sí,Verduras,1,1
+817,33,Puerto Varas,0.0,24.4,Sí,Pescado,1,1
+818,53,Llanquihue,2.3,28.5,Sí,Verduras,1,1
+819,27,Llanquihue,0.8,27.2,Sí,Frutas,0,1
+820,70,Puerto Varas,7.3,19.2,No,Pescado,1,1
+821,28,Puerto Montt,1.7,30.5,No,Frutas,1,0
+822,38,Llanquihue,1.4,27.8,No,Frutas,1,1
+823,66,Llanquihue,4.6,15.2,No,Frutas,0,0
+824,20,Concepción,7.7,39.0,No,Pescado,1,0
+825,21,Temuco,1.4,29.8,No,Frutas,0,1
+826,73,Concepción,8.9,32.2,No,Pescado,1,0
+827,30,Concepción,4.8,30.7,No,Frutas,0,1
+828,23,Temuco,7.3,21.6,Sí,Verduras,1,1
+829,32,Concepción,4.8,35.5,Sí,Verduras,0,1
+830,48,Temuco,4.0,29.9,No,Pescado,1,1
+831,22,Llanquihue,6.9,32.6,No,Frutas,1,0
+832,47,Puerto Montt,3.4,31.9,Sí,Frutas,1,1
+833,33,Llanquihue,6.1,22.5,Sí,Verduras,1,1
+834,25,Puerto Varas,5.5,17.4,Sí,Pescado,0,1
+835,30,Puerto Varas,8.0,19.3,No,Frutas,1,1
+836,43,Llanquihue,1.1,26.5,Sí,Verduras,0,1
+837,56,Puerto Montt,2.3,19.0,No,Verduras,0,1
+838,69,Puerto Montt,6.0,27.4,Sí,Verduras,0,1
+839,41,Puerto Varas,4.2,19.0,Sí,Pescado,1,1
+840,41,Puerto Montt,8.0,25.6,No,Pescado,1,1
+841,77,Llanquihue,3.8,36.7,No,Verduras,0,1
+842,78,Concepción,3.9,16.2,Sí,Pescado,1,1
+843,59,Puerto Varas,8.7,30.6,No,Frutas,1,1
+844,57,Llanquihue,9.6,24.6,No,Pescado,1,0
+845,58,Llanquihue,8.3,21.4,No,Verduras,1,0
+846,54,Puerto Montt,7.9,19.1,Sí,Pescado,1,1
+847,61,Llanquihue,7.9,35.5,No,Pescado,1,0
+848,80,Temuco,4.4,20.0,No,Pescado,1,0
+849,74,Temuco,2.5,24.4,Sí,Pescado,1,0
+850,54,Llanquihue,6.1,27.7,No,Pescado,1,0
+851,36,Puerto Varas,0.3,22.1,Sí,Verduras,0,1
+852,56,Temuco,6.0,39.0,No,Pescado,0,0
+853,58,Llanquihue,5.0,17.0,Sí,Pescado,0,1
+854,21,Concepción,4.8,33.2,Sí,Verduras,1,0
+855,48,Puerto Montt,4.4,15.8,Sí,Pescado,0,1
+856,50,Concepción,4.2,19.6,Sí,Pescado,1,0
+857,50,Puerto Varas,0.7,36.5,No,Pescado,1,1
+858,27,Puerto Montt,2.8,16.3,Sí,Verduras,1,0
+859,76,Llanquihue,5.6,40.0,Sí,Verduras,1,1
+860,74,Concepción,2.9,28.5,No,Verduras,1,1
+861,77,Llanquihue,0.7,35.8,Sí,Verduras,1,0
+862,59,Puerto Montt,0.0,21.5,Sí,Frutas,0,1
+863,64,Llanquihue,8.9,27.4,Sí,Pescado,1,1
+864,39,Llanquihue,0.9,28.5,Sí,Verduras,0,1
+865,80,Concepción,9.8,34.3,No,Frutas,0,1
+866,46,Concepción,5.1,21.8,No,Pescado,1,1
+867,34,Concepción,5.8,20.7,Sí,Verduras,1,1
+868,75,Puerto Varas,2.8,24.6,Sí,Pescado,1,1
+869,76,Llanquihue,6.4,25.5,No,Verduras,1,1
+870,23,Temuco,4.9,34.6,Sí,Pescado,1,1
+871,76,Llanquihue,1.5,23.2,No,Verduras,0,1
+872,46,Temuco,9.4,16.3,Sí,Verduras,1,1
+873,64,Llanquihue,5.6,31.4,Sí,Pescado,1,1
+874,25,Concepción,9.6,25.0,Sí,Pescado,1,1
+875,59,Puerto Varas,6.9,39.6,No,Pescado,0,0
+876,41,Puerto Montt,3.0,25.2,No,Verduras,0,0
+877,64,Llanquihue,2.8,19.4,Sí,Pescado,1,1
+878,78,Concepción,0.7,19.7,No,Verduras,0,1
+879,63,Temuco,4.4,19.9,Sí,Frutas,1,1
+880,63,Llanquihue,9.1,18.0,No,Frutas,1,0
+881,23,Temuco,0.3,27.2,Sí,Verduras,1,1
+882,45,Concepción,4.9,36.6,No,Frutas,0,0
+883,55,Temuco,5.1,26.9,Sí,Verduras,1,1
+884,38,Puerto Montt,6.8,36.9,Sí,Verduras,1,1
+885,18,Puerto Varas,3.2,15.2,Sí,Pescado,0,0
+886,22,Puerto Varas,3.2,23.1,No,Pescado,1,1
+887,42,Llanquihue,1.6,38.3,No,Verduras,1,1
+888,35,Puerto Varas,9.3,22.1,No,Pescado,0,0
+889,26,Concepción,8.7,20.0,No,Verduras,0,0
+890,18,Puerto Montt,9.4,21.5,No,Pescado,1,0
+891,26,Puerto Montt,9.5,17.4,No,Pescado,1,0
+892,21,Llanquihue,7.9,29.0,Sí,Pescado,1,0
+893,52,Concepción,4.8,21.0,No,Frutas,0,1
+894,73,Concepción,9.7,17.1,No,Verduras,0,1
+895,35,Temuco,6.6,20.3,Sí,Verduras,0,0
+896,54,Concepción,7.2,33.8,Sí,Frutas,1,1
+897,68,Temuco,0.5,17.5,No,Pescado,0,1
+898,70,Temuco,3.0,28.2,Sí,Pescado,0,1
+899,28,Puerto Varas,8.2,15.3,No,Pescado,1,0
+900,54,Concepción,3.2,17.4,Sí,Verduras,1,0
+901,44,Puerto Varas,4.1,33.4,Sí,Frutas,0,1
+902,69,Temuco,7.7,18.9,No,Frutas,1,1
+903,19,Puerto Varas,3.1,35.2,Sí,Frutas,0,0
+904,73,Temuco,9.1,32.4,Sí,Frutas,1,1
+905,61,Temuco,7.9,15.9,No,Frutas,1,1
+906,34,Puerto Montt,4.6,16.8,No,Frutas,1,1
+907,75,Concepción,9.9,35.1,Sí,Pescado,0,0
+908,72,Temuco,1.2,25.9,No,Verduras,0,1
+909,74,Puerto Varas,8.9,22.7,Sí,Pescado,1,0
+910,38,Concepción,4.7,31.6,No,Verduras,0,1
+911,49,Puerto Varas,7.6,28.4,No,Frutas,1,1
+912,53,Llanquihue,6.4,34.1,No,Frutas,0,1
+913,38,Concepción,3.6,16.6,Sí,Frutas,1,1
+914,68,Concepción,7.6,30.3,Sí,Frutas,1,1
+915,32,Puerto Varas,3.1,23.2,No,Frutas,1,1
+916,53,Concepción,6.1,19.5,Sí,Frutas,0,1
+917,72,Llanquihue,0.9,39.2,No,Frutas,1,0
+918,27,Concepción,3.2,24.0,No,Verduras,0,0
+919,64,Llanquihue,2.6,27.0,Sí,Frutas,1,1
+920,52,Temuco,3.9,26.9,Sí,Pescado,1,0
+921,54,Puerto Varas,6.0,32.5,Sí,Pescado,1,0
+922,47,Puerto Varas,8.7,18.5,Sí,Pescado,0,1
+923,23,Temuco,5.1,20.5,Sí,Pescado,0,1
+924,21,Puerto Montt,9.1,17.0,Sí,Frutas,1,1
+925,74,Puerto Varas,3.0,26.7,No,Pescado,1,1
+926,51,Temuco,8.8,23.7,Sí,Verduras,0,1
+927,66,Temuco,3.4,37.7,No,Pescado,1,1
+928,37,Temuco,8.9,38.2,No,Frutas,1,1
+929,61,Llanquihue,5.8,25.6,No,Verduras,0,1
+930,75,Llanquihue,0.8,36.7,No,Pescado,1,0
+931,71,Temuco,2.2,37.7,Sí,Verduras,1,1
+932,40,Temuco,1.1,17.9,No,Verduras,1,1
+933,36,Llanquihue,8.6,21.8,Sí,Frutas,1,1
+934,45,Puerto Varas,5.1,37.4,No,Frutas,1,0
+935,33,Puerto Varas,3.1,38.4,Sí,Verduras,1,1
+936,72,Concepción,9.1,28.7,Sí,Frutas,1,1
+937,46,Puerto Varas,5.0,35.7,No,Frutas,1,0
+938,19,Puerto Varas,5.9,18.4,No,Verduras,1,1
+939,44,Puerto Montt,7.2,31.3,Sí,Frutas,1,1
+940,32,Puerto Varas,3.0,19.4,No,Frutas,0,0
+941,70,Concepción,5.0,27.5,Sí,Pescado,1,1
+942,28,Concepción,2.9,39.3,No,Frutas,1,0
+943,55,Llanquihue,0.3,39.9,Sí,Verduras,0,0
+944,71,Puerto Montt,2.6,31.1,No,Pescado,1,1
+945,77,Concepción,8.6,39.4,No,Verduras,1,1
+946,27,Temuco,0.9,26.8,No,Verduras,1,1
+947,31,Llanquihue,10.0,38.4,No,Verduras,0,0
+948,62,Puerto Varas,3.7,30.9,Sí,Frutas,0,0
+949,28,Llanquihue,9.1,27.4,Sí,Verduras,1,0
+950,49,Temuco,6.4,36.8,Sí,Pescado,1,0
+951,61,Concepción,7.8,22.7,Sí,Verduras,1,1
+952,67,Puerto Varas,0.9,21.1,Sí,Pescado,0,0
+953,60,Concepción,1.9,34.5,No,Verduras,1,0
+954,78,Temuco,1.4,15.3,Sí,Verduras,0,1
+955,71,Puerto Montt,5.8,32.9,Sí,Frutas,1,0
+956,53,Concepción,9.9,17.5,Sí,Pescado,1,1
+957,49,Concepción,5.2,30.3,No,Pescado,1,0
+958,51,Llanquihue,8.0,31.5,No,Verduras,1,0
+959,34,Concepción,8.3,20.6,Sí,Verduras,1,1
+960,80,Llanquihue,6.4,28.6,No,Verduras,0,1
+961,68,Concepción,5.1,29.9,Sí,Pescado,0,1
+962,26,Puerto Varas,2.9,26.0,No,Verduras,0,0
+963,22,Puerto Varas,5.3,31.8,Sí,Frutas,0,1
+964,50,Llanquihue,9.7,34.7,No,Verduras,0,1
+965,39,Concepción,0.3,31.3,No,Verduras,1,1
+966,51,Temuco,2.2,38.1,No,Verduras,1,1
+967,34,Temuco,9.5,21.7,Sí,Frutas,1,0
+968,58,Temuco,7.5,15.1,No,Pescado,1,1
+969,71,Puerto Varas,9.0,26.9,No,Pescado,1,0
+970,25,Temuco,0.3,32.6,No,Frutas,1,1
+971,69,Puerto Varas,1.4,29.1,Sí,Verduras,0,1
+972,33,Puerto Varas,7.4,25.7,No,Frutas,1,1
+973,37,Temuco,4.7,20.6,No,Verduras,0,0
+974,62,Temuco,0.5,17.5,No,Pescado,0,1
+975,22,Llanquihue,1.6,24.4,No,Verduras,1,1
+976,34,Llanquihue,3.3,15.5,Sí,Verduras,1,0
+977,55,Temuco,8.3,19.1,Sí,Verduras,0,1
+978,44,Temuco,2.1,20.8,Sí,Frutas,1,1
+979,74,Temuco,3.5,39.4,No,Frutas,1,1
+980,67,Temuco,5.1,25.8,Sí,Frutas,0,1
+981,26,Puerto Varas,6.4,25.2,No,Frutas,0,1
+982,67,Puerto Varas,6.1,25.7,No,Pescado,0,0
+983,48,Llanquihue,5.2,31.0,No,Frutas,0,1
+984,26,Puerto Montt,5.9,18.6,No,Verduras,0,0
+985,76,Llanquihue,9.8,29.2,No,Pescado,1,1
+986,55,Puerto Montt,9.1,18.9,No,Verduras,1,1
+987,59,Temuco,6.8,15.0,No,Verduras,1,1
+988,66,Puerto Montt,0.4,24.4,No,Frutas,1,1
+989,71,Temuco,7.4,30.7,No,Pescado,1,0
+990,19,Llanquihue,1.7,33.5,No,Frutas,0,1
+991,73,Concepción,2.2,29.0,Sí,Verduras,0,0
+992,33,Puerto Montt,2.4,22.0,No,Pescado,0,0
+993,28,Concepción,5.5,38.5,Sí,Frutas,1,1
+994,20,Puerto Montt,8.1,22.1,No,Frutas,1,0
+995,50,Puerto Montt,1.4,24.6,Sí,Frutas,0,0
+996,36,Puerto Montt,6.1,39.2,No,Frutas,1,0
+997,68,Concepción,3.1,29.9,Sí,Pescado,1,1
+998,45,Puerto Varas,0.6,31.9,Sí,Frutas,1,0
+999,37,Puerto Varas,4.0,17.7,Sí,Frutas,1,0
+1000,80,Llanquihue,8.4,32.7,No,Verduras,1,1
