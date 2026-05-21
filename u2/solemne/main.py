@@ -44,6 +44,8 @@ print(promedio_imc_por_ciudad)
 # Operaciones con NumPy (EJERCICIO 3)
 horas_ejercicio = df["HorasEjercicio"].to_numpy()
 percentil_90 = np.percentile(horas_ejercicio, 90)
+print("90º percentil de horas de ejercicio:", percentil_90)
+
 minmax_scaler = MinMaxScaler()
 datos_normalizados = minmax_scaler.fit_transform(df[["HorasEjercicio"]])
 
@@ -71,6 +73,7 @@ plt.show()
 datos_binarios = df[["Consume_Fruta", "Consume_Verdura"]].astype(bool)
 itemsets = apriori(datos_binarios, min_support=0.1, use_colnames=True)
 reglas = association_rules(itemsets, metric="confidence", min_threshold=0.5)
+reglas.to_csv("reglas_asociacion.csv", index=False, encoding="utf-8")
 print(reglas)
 
 # %%
