@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 from mlxtend.frequent_patterns import apriori, association_rules
 from sklearn.cluster import KMeans
-from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import MinMaxScaler, StandardScaler
 
 # %%
 # Generar datos de ejemplo y guardarlos en un archivo CSV (EJERCICIO 1)
@@ -44,12 +44,11 @@ print(promedio_imc_por_ciudad)
 # Operaciones con NumPy (EJERCICIO 3)
 horas_ejercicio = df["HorasEjercicio"].to_numpy()
 percentil_90 = np.percentile(horas_ejercicio, 90)
-datos_normalizados = (horas_ejercicio - horas_ejercicio.min()) / (
-    horas_ejercicio.max() - horas_ejercicio.min()
-)  # Min Max scaler. Numpy no trae este por defecto como skilearn :(
+minmax_scaler = MinMaxScaler()
+datos_normalizados = minmax_scaler.fit_transform(df[["HorasEjercicio"]])
 
 # %%
-# Gráficos (EJERCICIO 4) (puedes descomentar cada bloque para ver los gráficos uno por uno)
+# Gráficos (EJERCICIO 4)
 
 # histograma de edades
 plt.hist(df["Edad"])
@@ -58,12 +57,13 @@ plt.xlabel("Edad")
 plt.ylabel("Frecuencia")
 plt.show()
 
+# %%
 # gráfico de dispersión entre IMC y horas de ejercicio
-# plt.scatter(x=df['IMC'], y=df['HorasEjercicio'])
-# plt.title('IMC vs Horas de Ejercicio')
-# plt.xlabel('IMC')
-# plt.ylabel('Horas de Ejercicio')
-# plt.show()
+plt.scatter(x=df["IMC"], y=df["HorasEjercicio"])
+plt.title("IMC vs Horas de Ejercicio")
+plt.xlabel("IMC")
+plt.ylabel("Horas de Ejercicio")
+plt.show()
 
 # %%
 # Algoritmo apriori (EJERCICIO 5)
