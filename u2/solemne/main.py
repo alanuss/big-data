@@ -1,5 +1,15 @@
 # %%
 # Importar las librerías necesarias (EJERCICIO 1)
+import warnings
+
+# Colab/Jupyter en Python 3.12 muestra repetidamente este warning interno.
+warnings.filterwarnings(
+    "ignore",
+    message=r"datetime\.datetime\.utcnow\(\) is deprecated.*",
+    category=DeprecationWarning,
+    module=r"jupyter_client\.session",
+)
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
