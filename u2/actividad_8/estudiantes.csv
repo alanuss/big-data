@@ -1,0 +1,1001 @@
+ID,Carrera,Edad,PromedioNotas,HorasEstudioSemanal,Asistencia,Ciudad,Beca
+1,Derecho,28,3.9,15,77.1,Concepción,No
+2,Arquitectura,18,4.1,12,54.3,Santiago,No
+3,Medicina,30,6.9,34,52.9,Santiago,No
+4,Arquitectura,20,4.3,10,55.3,Santiago,No
+5,Arquitectura,25,6.9,20,79.3,Valparaíso,No
+6,Ingeniería,20,5.4,10,77.2,Concepción,Sí
+7,Medicina,25,4.0,29,61.7,Concepción,Sí
+8,Medicina,18,3.8,34,81.9,Valparaíso,No
+9,Medicina,22,4.2,21,91.0,Concepción,Sí
+10,Arquitectura,21,6.7,37,52.1,Santiago,No
+11,Derecho,22,4.9,30,74.9,Concepción,No
+12,Medicina,25,4.9,13,84.5,Valparaíso,No
+13,Arquitectura,27,4.6,23,62.6,Santiago,No
+14,Ingeniería,21,4.0,31,65.4,Valparaíso,Sí
+15,Derecho,28,5.2,35,80.7,Puerto Montt,No
+16,Ingeniería,21,4.0,31,94.9,Santiago,No
+17,Derecho,20,6.4,14,90.5,Santiago,Sí
+18,Arquitectura,24,4.8,34,79.2,Concepción,No
+19,Informática,20,4.8,2,86.5,Santiago,No
+20,Derecho,29,5.2,15,68.2,Valparaíso,No
+21,Ingeniería,20,5.1,4,82.0,Concepción,No
+22,Arquitectura,28,7.0,20,73.3,Puerto Montt,No
+23,Derecho,27,5.4,9,59.5,Valparaíso,Sí
+24,Informática,22,3.8,18,85.1,Puerto Montt,Sí
+25,Informática,22,5.6,24,77.8,Puerto Montt,No
+26,Medicina,23,4.0,3,67.9,Puerto Montt,Sí
+27,Medicina,25,3.6,28,95.6,Santiago,Sí
+28,Ingeniería,27,6.9,18,51.0,Valparaíso,No
+29,Derecho,23,6.2,1,65.8,Valparaíso,No
+30,Derecho,29,6.9,9,52.8,Santiago,No
+31,Medicina,18,5.2,24,88.3,Concepción,Sí
+32,Derecho,25,5.4,19,85.1,Puerto Montt,Sí
+33,Derecho,25,4.1,18,66.6,Valparaíso,No
+34,Informática,26,4.4,22,83.8,Santiago,Sí
+35,Medicina,26,6.4,23,69.8,Puerto Montt,Sí
+36,Arquitectura,19,4.7,10,87.8,Concepción,No
+37,Medicina,19,6.4,33,72.7,Concepción,Sí
+38,Arquitectura,20,6.0,27,70.6,Puerto Montt,Sí
+39,Informática,18,4.1,4,96.7,Concepción,Sí
+40,Ingeniería,21,5.3,4,62.5,Valparaíso,No
+41,Derecho,21,5.9,20,56.0,Valparaíso,No
+42,Informática,26,4.3,11,79.2,Valparaíso,Sí
+43,Derecho,26,6.4,3,98.5,Concepción,No
+44,Ingeniería,26,5.4,19,68.9,Valparaíso,No
+45,Ingeniería,27,4.1,37,53.1,Santiago,Sí
+46,Informática,24,5.5,24,67.0,Valparaíso,No
+47,Ingeniería,19,7.0,13,75.3,Valparaíso,Sí
+48,Arquitectura,27,4.0,10,58.1,Concepción,No
+49,Ingeniería,22,6.4,31,82.9,Valparaíso,Sí
+50,Derecho,21,4.2,10,99.9,Puerto Montt,No
+51,Derecho,29,6.2,17,72.6,Santiago,Sí
+52,Derecho,28,6.1,26,67.7,Concepción,No
+53,Derecho,25,4.6,17,70.0,Santiago,No
+54,Arquitectura,19,4.6,22,55.8,Puerto Montt,No
+55,Medicina,23,6.3,10,94.2,Concepción,Sí
+56,Informática,30,5.1,20,70.7,Concepción,No
+57,Derecho,22,6.1,4,69.4,Valparaíso,Sí
+58,Ingeniería,29,4.0,22,83.0,Santiago,No
+59,Derecho,19,6.5,40,72.1,Puerto Montt,Sí
+60,Ingeniería,28,6.0,24,82.4,Puerto Montt,Sí
+61,Ingeniería,27,6.7,40,53.1,Concepción,Sí
+62,Derecho,18,4.0,9,90.7,Valparaíso,No
+63,Arquitectura,25,5.6,21,97.0,Concepción,No
+64,Ingeniería,19,5.6,18,82.4,Concepción,Sí
+65,Ingeniería,24,4.7,0,97.7,Concepción,No
+66,Derecho,26,5.1,6,57.6,Concepción,No
+67,Ingeniería,26,3.6,3,73.9,Puerto Montt,No
+68,Ingeniería,25,6.1,0,80.1,Puerto Montt,No
+69,Derecho,28,5.4,14,79.1,Concepción,No
+70,Derecho,29,3.7,39,70.1,Concepción,No
+71,Informática,27,5.9,11,66.9,Valparaíso,Sí
+72,Arquitectura,26,5.1,21,56.3,Concepción,Sí
+73,Arquitectura,19,3.6,21,69.6,Puerto Montt,No
+74,Ingeniería,23,6.9,16,58.1,Santiago,No
+75,Arquitectura,21,6.8,28,86.7,Puerto Montt,No
+76,Ingeniería,21,5.3,13,60.4,Valparaíso,Sí
+77,Informática,22,3.8,19,52.9,Puerto Montt,No
+78,Derecho,29,6.1,32,77.6,Santiago,No
+79,Derecho,20,5.2,14,79.8,Concepción,Sí
+80,Derecho,18,4.6,11,93.6,Santiago,Sí
+81,Arquitectura,25,5.2,39,78.8,Concepción,No
+82,Informática,22,5.3,19,67.3,Concepción,No
+83,Arquitectura,20,5.5,29,90.2,Puerto Montt,Sí
+84,Arquitectura,27,5.0,37,77.0,Puerto Montt,Sí
+85,Informática,24,5.6,2,54.0,Puerto Montt,Sí
+86,Informática,24,6.7,27,78.3,Valparaíso,No
+87,Informática,18,4.8,25,95.4,Puerto Montt,Sí
+88,Informática,29,6.0,29,69.8,Valparaíso,Sí
+89,Derecho,26,6.6,12,64.8,Puerto Montt,No
+90,Medicina,19,5.1,12,57.2,Concepción,Sí
+91,Medicina,22,5.1,1,57.6,Valparaíso,No
+92,Informática,30,5.6,36,71.6,Santiago,Sí
+93,Medicina,22,5.6,37,79.8,Valparaíso,Sí
+94,Medicina,25,6.3,1,54.0,Valparaíso,Sí
+95,Informática,25,5.2,35,97.0,Santiago,No
+96,Medicina,24,7.0,25,87.8,Valparaíso,No
+97,Arquitectura,24,3.7,10,79.3,Concepción,No
+98,Ingeniería,29,3.5,7,91.4,Puerto Montt,No
+99,Ingeniería,28,5.7,39,54.0,Santiago,No
+100,Informática,23,4.5,21,73.8,Puerto Montt,Sí
+101,Derecho,23,4.3,19,81.5,Concepción,Sí
+102,Informática,28,4.6,7,91.4,Santiago,No
+103,Derecho,26,4.4,28,89.2,Puerto Montt,Sí
+104,Ingeniería,23,3.6,39,63.9,Puerto Montt,Sí
+105,Informática,29,6.9,25,97.0,Concepción,Sí
+106,Arquitectura,30,4.3,29,56.2,Puerto Montt,Sí
+107,Medicina,30,6.1,16,93.8,Concepción,Sí
+108,Derecho,19,6.2,19,98.5,Valparaíso,No
+109,Medicina,19,6.8,15,58.9,Concepción,Sí
+110,Medicina,30,3.6,6,86.1,Valparaíso,No
+111,Informática,22,6.6,15,52.0,Santiago,No
+112,Medicina,21,5.3,26,70.3,Puerto Montt,Sí
+113,Arquitectura,28,5.7,22,75.8,Concepción,Sí
+114,Medicina,19,5.8,23,79.0,Concepción,Sí
+115,Informática,20,6.4,8,96.8,Puerto Montt,Sí
+116,Arquitectura,24,4.7,34,83.6,Puerto Montt,Sí
+117,Ingeniería,25,6.1,19,74.1,Santiago,No
+118,Medicina,29,5.4,36,90.5,Santiago,Sí
+119,Informática,30,6.3,16,97.5,Concepción,Sí
+120,Ingeniería,23,7.0,30,51.1,Santiago,No
+121,Ingeniería,28,4.2,7,99.1,Valparaíso,Sí
+122,Derecho,22,7.0,14,54.3,Santiago,No
+123,Arquitectura,30,3.8,30,90.7,Santiago,No
+124,Medicina,18,3.5,29,64.0,Concepción,Sí
+125,Informática,25,3.7,19,56.6,Valparaíso,No
+126,Derecho,20,4.7,38,72.0,Santiago,No
+127,Arquitectura,23,5.7,11,82.2,Valparaíso,No
+128,Derecho,20,3.7,16,69.0,Valparaíso,No
+129,Arquitectura,24,3.5,29,52.7,Valparaíso,No
+130,Arquitectura,30,6.8,28,80.0,Puerto Montt,Sí
+131,Medicina,24,6.4,18,95.1,Puerto Montt,Sí
+132,Arquitectura,29,6.3,10,69.2,Puerto Montt,No
+133,Derecho,26,6.6,33,60.8,Puerto Montt,No
+134,Arquitectura,22,6.0,6,72.1,Concepción,Sí
+135,Medicina,25,3.9,33,52.4,Santiago,Sí
+136,Medicina,27,4.9,19,91.0,Puerto Montt,No
+137,Derecho,27,6.0,37,91.3,Concepción,No
+138,Ingeniería,25,4.5,23,79.4,Santiago,No
+139,Ingeniería,18,5.9,9,67.7,Puerto Montt,Sí
+140,Arquitectura,29,3.6,31,90.0,Santiago,Sí
+141,Informática,22,4.6,14,77.7,Puerto Montt,Sí
+142,Arquitectura,20,5.4,36,91.3,Concepción,No
+143,Derecho,18,5.7,19,81.6,Valparaíso,Sí
+144,Derecho,21,5.5,2,89.2,Valparaíso,No
+145,Derecho,25,5.9,36,79.9,Santiago,Sí
+146,Derecho,20,3.5,39,70.7,Concepción,No
+147,Derecho,27,3.9,7,97.9,Valparaíso,No
+148,Medicina,19,6.5,39,77.1,Puerto Montt,No
+149,Ingeniería,28,5.9,22,80.3,Valparaíso,Sí
+150,Derecho,26,3.9,39,61.0,Santiago,Sí
+151,Informática,27,6.4,10,81.3,Santiago,Sí
+152,Informática,22,4.3,7,78.6,Concepción,No
+153,Informática,24,5.2,28,59.2,Santiago,No
+154,Informática,28,4.0,29,53.0,Valparaíso,Sí
+155,Medicina,28,6.0,9,80.2,Valparaíso,No
+156,Informática,19,5.8,38,88.2,Valparaíso,No
+157,Derecho,26,4.2,27,76.2,Valparaíso,Sí
+158,Arquitectura,30,6.5,35,61.3,Concepción,No
+159,Informática,26,4.9,12,83.3,Puerto Montt,Sí
+160,Medicina,21,4.5,31,54.0,Puerto Montt,Sí
+161,Medicina,21,4.0,35,72.1,Concepción,Sí
+162,Informática,23,4.4,36,58.2,Santiago,Sí
+163,Arquitectura,27,3.6,25,59.2,Puerto Montt,Sí
+164,Informática,27,5.5,21,60.1,Santiago,No
+165,Medicina,27,6.4,3,69.3,Puerto Montt,Sí
+166,Ingeniería,23,5.4,30,52.6,Santiago,No
+167,Derecho,29,4.3,17,69.9,Concepción,Sí
+168,Medicina,18,3.6,37,75.6,Valparaíso,Sí
+169,Informática,26,4.3,23,74.2,Santiago,Sí
+170,Derecho,19,5.0,22,69.1,Valparaíso,No
+171,Informática,22,6.2,21,92.0,Santiago,No
+172,Informática,26,4.2,1,57.3,Santiago,Sí
+173,Ingeniería,21,6.0,30,75.3,Santiago,No
+174,Derecho,28,6.5,10,53.1,Santiago,No
+175,Derecho,20,5.1,27,53.6,Santiago,No
+176,Ingeniería,24,6.4,31,78.7,Valparaíso,No
+177,Medicina,23,5.4,4,78.3,Santiago,No
+178,Informática,25,5.7,37,93.9,Valparaíso,Sí
+179,Arquitectura,20,5.3,9,77.9,Concepción,Sí
+180,Informática,22,5.1,39,98.0,Puerto Montt,Sí
+181,Informática,27,4.3,23,52.4,Santiago,Sí
+182,Medicina,21,4.6,34,54.9,Puerto Montt,Sí
+183,Informática,30,4.5,22,52.2,Valparaíso,Sí
+184,Ingeniería,21,5.5,16,59.3,Concepción,No
+185,Ingeniería,21,3.9,0,77.1,Concepción,Sí
+186,Derecho,27,6.7,30,82.3,Concepción,No
+187,Arquitectura,25,6.0,30,52.3,Puerto Montt,Sí
+188,Informática,23,4.9,33,97.3,Valparaíso,Sí
+189,Informática,20,4.1,8,92.1,Santiago,No
+190,Medicina,27,6.6,21,64.8,Santiago,Sí
+191,Ingeniería,22,6.4,12,53.9,Valparaíso,No
+192,Arquitectura,23,6.0,24,58.5,Puerto Montt,No
+193,Derecho,22,4.5,17,56.3,Santiago,Sí
+194,Ingeniería,23,4.9,11,56.2,Valparaíso,No
+195,Derecho,25,3.9,39,75.9,Santiago,No
+196,Medicina,24,4.2,16,62.3,Concepción,No
+197,Medicina,22,6.2,14,67.9,Santiago,Sí
+198,Informática,27,6.0,14,99.5,Puerto Montt,Sí
+199,Arquitectura,23,5.6,14,84.2,Valparaíso,No
+200,Derecho,21,6.6,38,97.4,Puerto Montt,Sí
+201,Ingeniería,29,5.5,12,57.1,Valparaíso,No
+202,Medicina,26,5.1,16,69.1,Concepción,Sí
+203,Informática,30,4.7,31,77.7,Valparaíso,No
+204,Informática,21,6.8,8,53.8,Santiago,Sí
+205,Derecho,18,3.8,39,50.2,Santiago,Sí
+206,Medicina,24,6.8,19,83.5,Concepción,Sí
+207,Arquitectura,24,6.4,25,82.1,Valparaíso,No
+208,Medicina,21,4.0,26,70.5,Concepción,No
+209,Derecho,30,5.5,20,74.5,Santiago,No
+210,Derecho,20,6.5,17,70.8,Puerto Montt,No
+211,Medicina,25,5.5,12,51.2,Concepción,No
+212,Derecho,22,6.7,15,66.8,Puerto Montt,No
+213,Medicina,27,6.8,8,58.9,Puerto Montt,Sí
+214,Ingeniería,24,5.0,11,54.9,Valparaíso,No
+215,Medicina,21,4.8,37,97.8,Concepción,Sí
+216,Medicina,21,6.8,18,80.0,Puerto Montt,No
+217,Derecho,25,5.9,6,86.4,Puerto Montt,No
+218,Derecho,25,3.9,34,65.8,Valparaíso,Sí
+219,Informática,19,3.6,17,69.7,Valparaíso,No
+220,Informática,19,5.5,15,61.8,Santiago,No
+221,Ingeniería,20,6.8,38,54.8,Puerto Montt,Sí
+222,Informática,29,6.5,3,59.0,Santiago,Sí
+223,Medicina,29,5.9,24,89.9,Puerto Montt,No
+224,Derecho,20,4.0,31,83.9,Santiago,Sí
+225,Informática,18,4.4,39,77.3,Valparaíso,No
+226,Informática,20,6.6,12,73.8,Concepción,Sí
+227,Ingeniería,23,4.1,16,96.1,Valparaíso,No
+228,Ingeniería,25,4.5,36,53.6,Santiago,No
+229,Medicina,30,4.0,5,64.0,Santiago,No
+230,Derecho,29,5.9,18,67.5,Concepción,No
+231,Ingeniería,27,6.8,12,89.1,Puerto Montt,No
+232,Informática,23,4.4,25,99.6,Santiago,No
+233,Derecho,22,5.2,13,62.0,Santiago,Sí
+234,Derecho,21,5.7,30,93.7,Santiago,No
+235,Informática,20,7.0,3,91.5,Concepción,Sí
+236,Ingeniería,30,3.9,38,61.2,Valparaíso,No
+237,Informática,21,5.2,7,70.0,Santiago,Sí
+238,Derecho,24,4.8,24,70.5,Concepción,Sí
+239,Arquitectura,18,6.5,12,98.9,Santiago,Sí
+240,Arquitectura,24,5.2,31,59.0,Puerto Montt,No
+241,Medicina,18,3.9,37,90.0,Concepción,Sí
+242,Informática,19,5.7,37,66.7,Santiago,No
+243,Informática,21,6.2,27,86.5,Concepción,Sí
+244,Medicina,18,3.5,29,71.0,Santiago,Sí
+245,Medicina,28,6.5,2,78.9,Valparaíso,Sí
+246,Medicina,29,4.2,27,91.6,Santiago,No
+247,Derecho,28,5.4,2,90.2,Concepción,Sí
+248,Informática,28,5.0,33,93.3,Puerto Montt,No
+249,Derecho,26,6.0,15,53.0,Puerto Montt,No
+250,Medicina,29,4.8,21,84.6,Puerto Montt,No
+251,Informática,23,6.5,31,57.0,Santiago,Sí
+252,Derecho,30,6.1,37,70.8,Valparaíso,Sí
+253,Derecho,18,5.8,7,77.4,Santiago,No
+254,Medicina,18,6.3,7,70.1,Puerto Montt,Sí
+255,Informática,23,6.1,5,76.0,Concepción,No
+256,Medicina,21,3.6,13,99.8,Puerto Montt,Sí
+257,Informática,21,4.9,31,56.8,Concepción,No
+258,Arquitectura,28,6.8,34,83.8,Valparaíso,No
+259,Ingeniería,23,3.9,9,69.8,Concepción,No
+260,Ingeniería,29,6.1,2,56.7,Santiago,No
+261,Ingeniería,28,6.9,11,57.9,Santiago,No
+262,Medicina,24,3.7,30,97.5,Santiago,Sí
+263,Arquitectura,26,5.9,28,94.0,Concepción,No
+264,Informática,27,5.1,4,95.4,Santiago,No
+265,Derecho,22,5.5,24,99.6,Santiago,No
+266,Informática,26,3.8,40,60.4,Santiago,No
+267,Derecho,21,3.7,30,67.8,Valparaíso,No
+268,Informática,30,5.8,20,83.5,Concepción,Sí
+269,Arquitectura,27,6.4,19,74.2,Concepción,No
+270,Derecho,19,6.2,38,70.9,Puerto Montt,No
+271,Medicina,20,5.4,21,67.9,Concepción,Sí
+272,Informática,30,3.8,3,79.7,Valparaíso,Sí
+273,Informática,28,5.9,12,78.8,Concepción,Sí
+274,Derecho,18,4.3,19,58.1,Valparaíso,Sí
+275,Medicina,23,6.7,12,73.6,Valparaíso,Sí
+276,Medicina,30,6.4,16,77.7,Concepción,Sí
+277,Arquitectura,23,6.0,35,78.5,Puerto Montt,Sí
+278,Medicina,18,6.8,32,60.5,Santiago,Sí
+279,Medicina,28,3.6,0,87.1,Santiago,No
+280,Medicina,30,6.1,14,51.3,Concepción,Sí
+281,Ingeniería,20,4.7,12,67.7,Concepción,No
+282,Arquitectura,22,6.7,16,89.0,Valparaíso,No
+283,Informática,20,4.4,23,78.2,Concepción,Sí
+284,Derecho,27,6.0,7,63.1,Valparaíso,No
+285,Informática,20,6.6,26,84.7,Puerto Montt,No
+286,Arquitectura,27,3.6,22,78.4,Concepción,Sí
+287,Derecho,20,4.9,7,89.8,Santiago,No
+288,Arquitectura,22,6.2,7,86.8,Santiago,No
+289,Medicina,30,5.1,25,80.5,Concepción,No
+290,Derecho,22,4.4,12,74.4,Valparaíso,No
+291,Medicina,21,4.3,38,56.7,Santiago,No
+292,Informática,18,4.0,36,63.1,Valparaíso,Sí
+293,Informática,22,6.5,27,71.0,Concepción,No
+294,Derecho,27,5.5,24,80.0,Concepción,Sí
+295,Derecho,22,3.8,15,75.7,Santiago,No
+296,Arquitectura,21,4.8,1,64.4,Concepción,No
+297,Arquitectura,23,4.8,17,50.3,Puerto Montt,No
+298,Medicina,27,4.1,16,74.8,Puerto Montt,Sí
+299,Derecho,21,5.0,29,64.3,Santiago,Sí
+300,Informática,24,4.7,38,86.7,Puerto Montt,Sí
+301,Arquitectura,24,4.7,12,51.2,Valparaíso,Sí
+302,Arquitectura,19,6.1,31,79.2,Santiago,Sí
+303,Informática,20,4.3,28,97.1,Santiago,No
+304,Arquitectura,18,5.7,29,58.7,Valparaíso,No
+305,Medicina,25,5.5,17,73.6,Puerto Montt,Sí
+306,Derecho,26,5.5,12,54.6,Puerto Montt,No
+307,Informática,21,5.8,20,81.3,Puerto Montt,No
+308,Derecho,23,5.4,29,77.5,Santiago,No
+309,Arquitectura,26,6.6,20,70.4,Santiago,No
+310,Arquitectura,23,5.9,16,76.1,Puerto Montt,Sí
+311,Informática,29,5.4,39,94.8,Concepción,Sí
+312,Medicina,29,6.4,18,59.8,Puerto Montt,No
+313,Ingeniería,29,5.6,14,51.1,Valparaíso,No
+314,Informática,26,4.5,8,93.1,Santiago,Sí
+315,Ingeniería,21,4.2,9,78.9,Valparaíso,No
+316,Ingeniería,25,4.0,30,94.5,Valparaíso,Sí
+317,Medicina,26,6.6,22,79.8,Santiago,Sí
+318,Ingeniería,21,6.0,29,90.5,Concepción,No
+319,Ingeniería,22,6.8,32,71.5,Puerto Montt,No
+320,Medicina,25,5.6,8,87.5,Valparaíso,Sí
+321,Ingeniería,29,5.2,0,95.7,Santiago,Sí
+322,Ingeniería,27,3.7,34,78.6,Valparaíso,No
+323,Ingeniería,23,5.9,10,59.0,Puerto Montt,Sí
+324,Informática,29,5.5,33,63.4,Concepción,Sí
+325,Informática,24,7.0,15,59.9,Concepción,No
+326,Informática,20,4.3,8,62.3,Concepción,No
+327,Medicina,24,5.4,31,65.3,Santiago,No
+328,Arquitectura,29,5.8,14,77.8,Santiago,No
+329,Ingeniería,25,5.8,11,79.4,Concepción,No
+330,Ingeniería,27,5.5,32,71.3,Puerto Montt,No
+331,Medicina,23,6.2,13,80.8,Puerto Montt,Sí
+332,Ingeniería,27,4.2,7,54.1,Santiago,No
+333,Informática,26,6.0,7,54.4,Concepción,Sí
+334,Arquitectura,30,5.7,26,58.6,Puerto Montt,Sí
+335,Derecho,23,6.6,11,75.9,Puerto Montt,No
+336,Ingeniería,29,6.5,0,60.7,Puerto Montt,No
+337,Informática,26,4.6,39,64.2,Santiago,Sí
+338,Derecho,30,4.5,10,70.0,Concepción,Sí
+339,Arquitectura,21,6.9,38,90.6,Valparaíso,No
+340,Derecho,25,5.3,30,50.7,Concepción,Sí
+341,Informática,28,6.7,16,82.5,Concepción,No
+342,Derecho,21,4.1,32,83.4,Santiago,No
+343,Medicina,19,5.7,31,89.9,Puerto Montt,Sí
+344,Derecho,27,6.3,28,96.6,Puerto Montt,No
+345,Ingeniería,28,6.8,20,51.0,Santiago,No
+346,Ingeniería,26,4.7,20,57.7,Santiago,Sí
+347,Medicina,22,6.0,39,94.3,Santiago,No
+348,Informática,21,5.4,22,72.9,Santiago,Sí
+349,Ingeniería,19,3.7,5,78.2,Santiago,Sí
+350,Arquitectura,18,5.9,21,83.2,Valparaíso,No
+351,Ingeniería,28,5.9,37,84.0,Concepción,No
+352,Ingeniería,24,6.8,36,96.6,Concepción,No
+353,Informática,23,5.2,7,99.8,Concepción,No
+354,Derecho,19,4.3,40,86.0,Puerto Montt,No
+355,Ingeniería,25,3.7,34,64.4,Valparaíso,No
+356,Medicina,28,5.0,10,94.0,Concepción,No
+357,Derecho,21,4.6,23,52.5,Puerto Montt,No
+358,Arquitectura,25,6.2,20,61.6,Valparaíso,No
+359,Informática,24,4.7,1,94.9,Valparaíso,No
+360,Arquitectura,22,6.8,39,62.8,Puerto Montt,No
+361,Derecho,27,6.9,18,61.0,Valparaíso,Sí
+362,Derecho,27,5.7,38,56.9,Puerto Montt,No
+363,Derecho,29,6.8,27,93.0,Concepción,No
+364,Arquitectura,25,6.2,16,75.0,Puerto Montt,Sí
+365,Derecho,26,5.4,5,83.7,Valparaíso,No
+366,Arquitectura,22,4.1,18,62.0,Concepción,Sí
+367,Derecho,27,5.1,37,87.9,Concepción,Sí
+368,Medicina,22,5.5,27,88.0,Santiago,No
+369,Derecho,19,6.5,1,65.6,Santiago,Sí
+370,Arquitectura,22,5.2,37,70.5,Valparaíso,No
+371,Ingeniería,20,6.6,36,60.5,Puerto Montt,No
+372,Derecho,24,5.9,3,98.8,Puerto Montt,No
+373,Ingeniería,27,4.0,21,82.3,Valparaíso,Sí
+374,Medicina,22,7.0,25,96.7,Concepción,Sí
+375,Informática,25,5.3,35,65.2,Valparaíso,No
+376,Medicina,18,4.9,12,89.1,Valparaíso,No
+377,Derecho,20,5.8,31,88.3,Concepción,No
+378,Ingeniería,20,3.9,16,84.6,Puerto Montt,Sí
+379,Ingeniería,26,5.7,40,98.3,Valparaíso,No
+380,Arquitectura,22,5.2,35,69.7,Puerto Montt,No
+381,Ingeniería,29,4.9,18,56.5,Valparaíso,No
+382,Arquitectura,26,6.8,34,83.6,Concepción,Sí
+383,Informática,30,5.3,39,86.5,Concepción,No
+384,Derecho,26,4.3,27,78.8,Santiago,No
+385,Arquitectura,18,5.1,0,60.3,Concepción,No
+386,Informática,19,6.7,17,75.2,Santiago,Sí
+387,Ingeniería,22,4.1,39,65.6,Valparaíso,No
+388,Ingeniería,21,4.2,32,71.4,Puerto Montt,No
+389,Informática,27,3.5,11,82.3,Concepción,Sí
+390,Ingeniería,26,3.5,7,87.3,Concepción,No
+391,Informática,24,6.4,23,61.6,Concepción,No
+392,Arquitectura,23,6.1,15,70.3,Valparaíso,Sí
+393,Arquitectura,24,4.7,3,63.5,Santiago,Sí
+394,Informática,18,5.9,37,59.9,Valparaíso,No
+395,Arquitectura,18,4.9,26,89.2,Puerto Montt,Sí
+396,Arquitectura,25,6.8,8,95.5,Valparaíso,No
+397,Arquitectura,30,6.9,15,68.5,Puerto Montt,Sí
+398,Medicina,30,4.9,11,87.6,Concepción,No
+399,Derecho,19,6.5,30,94.8,Puerto Montt,Sí
+400,Ingeniería,29,6.2,23,92.3,Puerto Montt,No
+401,Medicina,27,4.6,13,59.1,Santiago,No
+402,Arquitectura,28,4.3,24,97.8,Puerto Montt,No
+403,Informática,26,5.1,33,68.8,Puerto Montt,No
+404,Arquitectura,24,6.2,2,67.0,Valparaíso,Sí
+405,Derecho,23,6.9,23,53.1,Concepción,No
+406,Arquitectura,18,6.2,8,74.3,Valparaíso,Sí
+407,Informática,18,6.5,25,55.5,Valparaíso,Sí
+408,Derecho,19,5.6,19,62.4,Concepción,Sí
+409,Arquitectura,23,6.4,39,65.8,Concepción,No
+410,Derecho,23,6.2,9,90.4,Puerto Montt,No
+411,Ingeniería,19,4.8,18,93.8,Puerto Montt,No
+412,Ingeniería,18,5.4,2,65.1,Santiago,No
+413,Arquitectura,27,6.3,23,92.9,Valparaíso,Sí
+414,Derecho,22,3.7,4,92.9,Concepción,No
+415,Informática,22,6.3,2,88.2,Puerto Montt,Sí
+416,Arquitectura,19,4.1,26,57.3,Concepción,No
+417,Ingeniería,23,5.3,15,84.5,Puerto Montt,Sí
+418,Ingeniería,26,6.3,14,97.3,Santiago,No
+419,Arquitectura,19,4.4,34,84.1,Santiago,No
+420,Derecho,27,4.4,11,66.6,Concepción,Sí
+421,Ingeniería,19,4.9,40,75.0,Santiago,Sí
+422,Derecho,20,6.6,25,82.3,Concepción,No
+423,Ingeniería,30,3.5,33,75.5,Puerto Montt,No
+424,Ingeniería,24,6.7,22,56.0,Valparaíso,Sí
+425,Medicina,23,4.0,30,65.6,Santiago,No
+426,Ingeniería,29,7.0,19,90.1,Puerto Montt,Sí
+427,Informática,25,6.8,11,93.1,Valparaíso,Sí
+428,Arquitectura,25,5.2,22,56.9,Valparaíso,No
+429,Arquitectura,23,5.3,3,97.6,Valparaíso,No
+430,Derecho,29,5.2,22,66.4,Puerto Montt,No
+431,Ingeniería,28,5.7,0,83.1,Puerto Montt,No
+432,Informática,27,3.8,24,87.6,Concepción,Sí
+433,Derecho,20,3.6,1,90.6,Valparaíso,No
+434,Medicina,20,3.7,29,97.3,Valparaíso,Sí
+435,Derecho,18,5.1,2,65.6,Valparaíso,No
+436,Derecho,24,4.5,20,92.9,Concepción,Sí
+437,Ingeniería,22,5.7,24,56.6,Valparaíso,Sí
+438,Medicina,21,7.0,19,85.3,Puerto Montt,Sí
+439,Derecho,27,4.9,21,87.1,Valparaíso,No
+440,Informática,21,5.5,20,83.9,Santiago,Sí
+441,Informática,21,5.0,32,62.6,Puerto Montt,No
+442,Arquitectura,23,6.5,37,93.7,Concepción,No
+443,Medicina,25,6.7,14,58.4,Valparaíso,No
+444,Medicina,25,6.6,14,52.7,Santiago,Sí
+445,Arquitectura,22,6.9,24,85.9,Concepción,No
+446,Derecho,23,3.6,20,73.8,Concepción,No
+447,Medicina,21,6.4,23,92.5,Puerto Montt,No
+448,Informática,29,6.1,4,69.2,Concepción,No
+449,Informática,28,4.3,5,58.4,Concepción,No
+450,Ingeniería,30,6.8,22,91.8,Concepción,No
+451,Medicina,26,4.0,3,77.4,Concepción,Sí
+452,Derecho,25,5.9,26,59.5,Valparaíso,Sí
+453,Arquitectura,27,4.3,17,86.0,Valparaíso,No
+454,Arquitectura,29,5.0,20,75.6,Valparaíso,No
+455,Derecho,27,6.0,27,80.2,Valparaíso,No
+456,Ingeniería,18,5.5,34,73.0,Santiago,No
+457,Arquitectura,19,5.0,21,91.4,Valparaíso,Sí
+458,Medicina,26,4.6,39,91.5,Concepción,Sí
+459,Ingeniería,25,6.4,22,85.5,Valparaíso,No
+460,Medicina,20,4.0,2,55.3,Valparaíso,Sí
+461,Informática,25,5.0,39,91.9,Puerto Montt,Sí
+462,Ingeniería,29,6.7,9,83.6,Concepción,No
+463,Arquitectura,18,6.5,24,84.9,Valparaíso,Sí
+464,Ingeniería,27,4.9,7,68.1,Valparaíso,No
+465,Ingeniería,21,6.2,10,94.0,Valparaíso,Sí
+466,Ingeniería,20,6.4,4,86.3,Santiago,No
+467,Ingeniería,23,6.6,36,55.6,Valparaíso,Sí
+468,Medicina,24,5.4,37,70.4,Puerto Montt,Sí
+469,Informática,21,4.2,28,94.3,Concepción,Sí
+470,Derecho,24,4.4,4,52.4,Concepción,Sí
+471,Ingeniería,26,4.5,8,98.1,Valparaíso,No
+472,Arquitectura,28,5.6,1,84.0,Valparaíso,No
+473,Ingeniería,19,3.6,0,81.6,Valparaíso,No
+474,Arquitectura,28,5.7,39,63.5,Concepción,Sí
+475,Medicina,20,4.8,29,62.4,Concepción,No
+476,Arquitectura,22,4.5,10,97.1,Santiago,No
+477,Derecho,20,6.6,27,64.9,Puerto Montt,No
+478,Informática,28,5.1,11,88.8,Santiago,Sí
+479,Arquitectura,25,3.8,38,69.7,Puerto Montt,No
+480,Arquitectura,29,6.4,25,57.0,Santiago,Sí
+481,Informática,27,3.7,12,50.5,Concepción,Sí
+482,Derecho,25,6.0,7,77.2,Santiago,No
+483,Ingeniería,25,6.2,27,98.8,Puerto Montt,Sí
+484,Arquitectura,29,4.7,29,68.5,Valparaíso,No
+485,Informática,29,6.4,8,67.9,Puerto Montt,No
+486,Medicina,26,5.3,38,67.2,Valparaíso,No
+487,Informática,21,5.1,30,76.0,Concepción,Sí
+488,Medicina,22,3.7,20,72.0,Puerto Montt,Sí
+489,Derecho,22,4.5,33,94.0,Santiago,Sí
+490,Ingeniería,25,6.8,30,75.3,Puerto Montt,No
+491,Informática,24,4.9,24,75.4,Valparaíso,Sí
+492,Arquitectura,26,5.4,11,56.9,Concepción,No
+493,Derecho,25,5.4,0,99.1,Santiago,Sí
+494,Informática,19,5.6,21,62.5,Puerto Montt,Sí
+495,Arquitectura,27,3.7,39,53.7,Valparaíso,No
+496,Informática,29,4.8,36,83.2,Santiago,Sí
+497,Medicina,21,6.0,0,79.8,Concepción,Sí
+498,Informática,23,4.2,0,70.8,Santiago,No
+499,Informática,29,4.2,20,71.1,Concepción,No
+500,Informática,19,3.5,14,89.3,Santiago,Sí
+501,Derecho,24,5.0,16,59.8,Puerto Montt,Sí
+502,Informática,20,6.6,21,91.0,Valparaíso,Sí
+503,Arquitectura,30,3.7,37,82.4,Puerto Montt,No
+504,Medicina,20,4.2,34,70.9,Puerto Montt,No
+505,Medicina,28,4.6,15,72.9,Concepción,Sí
+506,Informática,19,6.1,7,62.8,Concepción,No
+507,Derecho,28,5.7,16,87.6,Concepción,Sí
+508,Derecho,25,5.0,16,75.6,Puerto Montt,No
+509,Arquitectura,23,6.2,25,66.0,Santiago,No
+510,Informática,18,5.6,12,79.8,Santiago,No
+511,Medicina,29,6.6,16,99.8,Puerto Montt,No
+512,Derecho,18,6.4,37,71.8,Puerto Montt,No
+513,Informática,24,4.4,16,96.0,Valparaíso,Sí
+514,Derecho,25,4.5,13,67.3,Concepción,No
+515,Derecho,22,3.9,5,52.7,Concepción,Sí
+516,Medicina,29,4.7,34,60.2,Puerto Montt,No
+517,Ingeniería,28,7.0,13,70.9,Puerto Montt,No
+518,Arquitectura,22,4.9,7,61.0,Santiago,No
+519,Arquitectura,21,4.3,14,50.0,Puerto Montt,No
+520,Medicina,23,6.2,26,95.8,Santiago,No
+521,Derecho,23,5.4,12,92.2,Puerto Montt,No
+522,Informática,20,4.0,30,87.1,Valparaíso,No
+523,Derecho,26,4.8,34,58.4,Valparaíso,Sí
+524,Medicina,29,5.0,5,56.0,Santiago,Sí
+525,Arquitectura,28,6.1,4,53.4,Concepción,Sí
+526,Derecho,24,3.6,21,86.2,Valparaíso,Sí
+527,Arquitectura,18,4.4,22,96.4,Santiago,No
+528,Informática,30,5.3,24,71.5,Puerto Montt,Sí
+529,Arquitectura,24,4.4,33,56.0,Puerto Montt,No
+530,Arquitectura,22,5.7,25,75.6,Santiago,Sí
+531,Ingeniería,22,5.2,4,67.4,Concepción,Sí
+532,Ingeniería,30,4.8,25,68.7,Santiago,No
+533,Ingeniería,19,6.8,19,81.1,Santiago,No
+534,Arquitectura,21,5.7,5,85.9,Valparaíso,No
+535,Medicina,29,4.0,5,55.5,Santiago,Sí
+536,Arquitectura,23,5.5,17,51.8,Santiago,No
+537,Medicina,27,6.2,3,99.7,Puerto Montt,Sí
+538,Medicina,28,6.0,16,61.6,Valparaíso,No
+539,Ingeniería,24,4.1,13,52.7,Puerto Montt,No
+540,Derecho,28,6.9,13,59.5,Puerto Montt,No
+541,Informática,22,5.1,12,51.9,Concepción,Sí
+542,Ingeniería,26,4.1,6,69.6,Concepción,No
+543,Ingeniería,20,4.1,14,90.1,Valparaíso,Sí
+544,Derecho,18,3.8,18,67.1,Valparaíso,Sí
+545,Informática,21,6.3,34,72.2,Concepción,Sí
+546,Arquitectura,26,3.9,16,83.8,Concepción,No
+547,Arquitectura,21,3.9,34,75.4,Concepción,No
+548,Ingeniería,19,6.5,18,93.1,Concepción,No
+549,Informática,27,4.7,19,93.3,Concepción,No
+550,Ingeniería,22,3.6,35,50.5,Puerto Montt,No
+551,Medicina,20,3.7,34,88.9,Valparaíso,Sí
+552,Ingeniería,30,4.0,31,73.0,Puerto Montt,No
+553,Ingeniería,29,4.2,39,99.4,Puerto Montt,No
+554,Arquitectura,30,5.8,23,74.2,Santiago,Sí
+555,Arquitectura,26,4.1,16,99.3,Puerto Montt,No
+556,Arquitectura,21,3.9,6,87.7,Concepción,No
+557,Medicina,23,6.2,0,62.4,Concepción,Sí
+558,Arquitectura,19,5.8,34,76.9,Santiago,No
+559,Informática,23,5.0,31,99.6,Santiago,Sí
+560,Derecho,20,5.4,35,92.9,Santiago,No
+561,Informática,29,4.6,12,54.9,Santiago,No
+562,Informática,29,5.2,5,85.3,Santiago,Sí
+563,Arquitectura,26,5.3,13,67.3,Puerto Montt,Sí
+564,Derecho,28,4.9,36,50.3,Santiago,No
+565,Derecho,19,6.7,14,70.2,Puerto Montt,No
+566,Derecho,29,3.6,3,61.7,Valparaíso,Sí
+567,Medicina,29,6.2,39,90.9,Santiago,No
+568,Arquitectura,26,3.9,15,66.9,Santiago,No
+569,Derecho,22,6.3,27,91.4,Puerto Montt,No
+570,Medicina,25,5.7,15,50.0,Valparaíso,Sí
+571,Ingeniería,19,6.5,3,65.4,Puerto Montt,No
+572,Ingeniería,23,3.8,25,62.1,Puerto Montt,No
+573,Medicina,20,5.5,27,61.7,Santiago,Sí
+574,Medicina,29,5.3,31,53.4,Concepción,Sí
+575,Arquitectura,29,6.0,1,59.4,Concepción,No
+576,Arquitectura,27,5.4,30,77.8,Puerto Montt,Sí
+577,Ingeniería,22,5.4,2,64.6,Santiago,No
+578,Derecho,29,5.0,7,70.9,Valparaíso,No
+579,Ingeniería,25,4.6,23,68.8,Concepción,Sí
+580,Derecho,27,5.2,14,93.8,Valparaíso,No
+581,Derecho,18,3.9,30,95.3,Concepción,No
+582,Arquitectura,22,6.9,8,74.6,Santiago,No
+583,Informática,20,6.0,38,66.5,Puerto Montt,Sí
+584,Informática,21,6.8,1,55.3,Valparaíso,Sí
+585,Medicina,19,4.3,7,97.7,Valparaíso,Sí
+586,Arquitectura,26,6.6,6,53.0,Puerto Montt,No
+587,Derecho,20,6.3,38,64.9,Valparaíso,No
+588,Informática,19,5.9,15,64.9,Concepción,Sí
+589,Derecho,27,5.7,34,66.0,Puerto Montt,No
+590,Informática,28,4.6,29,58.2,Concepción,Sí
+591,Informática,26,6.4,9,89.2,Concepción,No
+592,Informática,24,5.3,37,56.1,Santiago,Sí
+593,Arquitectura,23,3.7,17,81.7,Concepción,No
+594,Ingeniería,18,4.6,4,56.2,Santiago,No
+595,Derecho,22,6.8,28,53.5,Valparaíso,Sí
+596,Arquitectura,29,6.5,38,95.5,Valparaíso,Sí
+597,Arquitectura,28,6.9,33,59.5,Santiago,Sí
+598,Arquitectura,28,5.7,22,91.1,Concepción,No
+599,Arquitectura,20,4.4,4,77.2,Puerto Montt,Sí
+600,Arquitectura,18,4.1,29,53.9,Puerto Montt,No
+601,Medicina,21,4.2,5,97.8,Santiago,Sí
+602,Derecho,30,3.6,3,62.3,Valparaíso,Sí
+603,Arquitectura,19,4.9,28,93.0,Valparaíso,No
+604,Derecho,19,4.2,22,58.4,Puerto Montt,No
+605,Medicina,20,4.9,5,92.7,Santiago,Sí
+606,Medicina,25,6.8,31,50.7,Puerto Montt,Sí
+607,Derecho,25,5.0,17,75.6,Concepción,Sí
+608,Informática,29,6.6,14,88.5,Concepción,No
+609,Ingeniería,24,5.6,39,96.7,Santiago,No
+610,Informática,23,4.4,31,95.5,Santiago,Sí
+611,Informática,26,4.7,8,91.0,Concepción,No
+612,Informática,21,3.8,36,94.4,Valparaíso,No
+613,Arquitectura,29,4.7,9,60.0,Santiago,No
+614,Medicina,18,5.9,19,64.2,Concepción,No
+615,Informática,25,3.8,5,64.4,Concepción,Sí
+616,Medicina,24,4.2,2,68.9,Valparaíso,Sí
+617,Derecho,24,4.8,10,69.7,Valparaíso,Sí
+618,Ingeniería,20,6.9,16,77.2,Valparaíso,Sí
+619,Derecho,21,6.2,31,58.0,Valparaíso,No
+620,Derecho,27,6.1,3,84.6,Puerto Montt,No
+621,Arquitectura,26,3.9,3,58.4,Valparaíso,Sí
+622,Ingeniería,23,6.2,16,65.5,Puerto Montt,Sí
+623,Derecho,22,6.2,40,75.2,Santiago,No
+624,Derecho,20,5.6,18,89.8,Concepción,No
+625,Ingeniería,26,7.0,4,87.0,Puerto Montt,Sí
+626,Ingeniería,22,4.6,31,82.3,Santiago,No
+627,Derecho,22,6.8,21,57.8,Santiago,Sí
+628,Ingeniería,21,6.7,5,77.4,Puerto Montt,Sí
+629,Derecho,21,3.5,34,54.4,Santiago,No
+630,Derecho,29,5.1,21,68.9,Santiago,No
+631,Arquitectura,18,6.9,0,70.7,Puerto Montt,Sí
+632,Informática,24,3.9,19,52.0,Santiago,No
+633,Derecho,26,5.4,21,63.7,Valparaíso,No
+634,Medicina,20,6.9,10,97.8,Valparaíso,No
+635,Informática,29,5.4,12,97.7,Concepción,Sí
+636,Informática,30,4.2,2,67.6,Santiago,Sí
+637,Informática,19,5.5,8,52.2,Concepción,Sí
+638,Arquitectura,20,4.2,11,59.0,Valparaíso,No
+639,Derecho,18,5.3,22,69.6,Valparaíso,Sí
+640,Arquitectura,23,3.8,13,97.4,Valparaíso,Sí
+641,Derecho,28,5.6,32,57.1,Santiago,Sí
+642,Arquitectura,28,5.3,17,88.2,Santiago,No
+643,Arquitectura,24,6.1,40,55.4,Valparaíso,Sí
+644,Medicina,28,5.7,8,99.1,Concepción,No
+645,Arquitectura,28,5.4,22,69.1,Concepción,No
+646,Ingeniería,19,5.9,9,88.8,Puerto Montt,Sí
+647,Medicina,25,4.0,18,67.1,Valparaíso,No
+648,Arquitectura,23,5.6,4,81.4,Concepción,No
+649,Informática,21,4.1,22,59.6,Valparaíso,No
+650,Ingeniería,22,6.7,29,57.3,Concepción,Sí
+651,Ingeniería,25,3.7,24,96.9,Puerto Montt,No
+652,Ingeniería,20,5.0,27,95.9,Puerto Montt,No
+653,Medicina,20,5.9,33,94.4,Valparaíso,No
+654,Arquitectura,28,5.1,24,81.3,Concepción,No
+655,Arquitectura,21,3.8,9,90.4,Santiago,No
+656,Informática,18,5.4,13,53.5,Puerto Montt,No
+657,Informática,26,5.7,29,66.7,Valparaíso,No
+658,Ingeniería,25,6.0,40,65.7,Valparaíso,No
+659,Informática,25,4.8,24,81.8,Concepción,Sí
+660,Medicina,27,5.5,13,67.8,Valparaíso,No
+661,Arquitectura,23,5.1,34,57.4,Puerto Montt,No
+662,Ingeniería,24,5.9,33,79.8,Valparaíso,No
+663,Informática,23,5.5,9,90.7,Valparaíso,Sí
+664,Medicina,26,5.3,34,69.1,Santiago,No
+665,Medicina,20,4.4,10,56.6,Santiago,Sí
+666,Informática,20,3.5,10,59.8,Puerto Montt,No
+667,Arquitectura,20,4.1,20,61.9,Concepción,Sí
+668,Informática,27,3.9,20,65.0,Santiago,No
+669,Ingeniería,20,5.1,21,82.1,Concepción,No
+670,Informática,26,5.6,6,80.0,Puerto Montt,Sí
+671,Medicina,29,4.2,16,84.8,Santiago,No
+672,Informática,21,6.8,1,68.1,Concepción,Sí
+673,Arquitectura,30,3.5,11,91.2,Santiago,No
+674,Derecho,24,6.2,17,60.2,Puerto Montt,No
+675,Informática,26,5.7,10,73.5,Puerto Montt,Sí
+676,Arquitectura,28,4.8,15,90.0,Santiago,No
+677,Arquitectura,29,3.7,17,59.0,Concepción,No
+678,Medicina,24,5.7,34,55.5,Valparaíso,Sí
+679,Arquitectura,26,4.8,25,94.2,Valparaíso,Sí
+680,Arquitectura,29,6.8,15,67.1,Santiago,No
+681,Arquitectura,20,5.4,5,84.2,Concepción,No
+682,Arquitectura,21,6.8,11,51.3,Valparaíso,No
+683,Ingeniería,25,4.3,12,84.5,Puerto Montt,No
+684,Ingeniería,23,6.0,3,65.8,Concepción,No
+685,Medicina,22,5.7,38,52.8,Valparaíso,No
+686,Informática,30,6.1,1,80.5,Concepción,Sí
+687,Arquitectura,21,4.3,25,62.0,Santiago,No
+688,Informática,25,5.8,26,69.3,Concepción,Sí
+689,Informática,18,5.2,26,54.0,Valparaíso,Sí
+690,Medicina,26,6.1,14,57.4,Santiago,Sí
+691,Arquitectura,18,4.6,7,64.9,Concepción,No
+692,Arquitectura,25,6.6,6,54.5,Puerto Montt,No
+693,Derecho,21,3.8,39,95.5,Valparaíso,No
+694,Informática,26,6.3,11,50.3,Santiago,Sí
+695,Informática,28,6.5,12,74.2,Concepción,Sí
+696,Ingeniería,22,6.4,16,56.2,Puerto Montt,No
+697,Derecho,20,5.3,16,65.4,Valparaíso,Sí
+698,Ingeniería,26,5.0,35,96.3,Puerto Montt,Sí
+699,Ingeniería,28,7.0,20,58.1,Concepción,No
+700,Ingeniería,26,4.3,7,98.3,Concepción,No
+701,Medicina,21,5.4,4,60.3,Santiago,No
+702,Medicina,28,5.8,25,87.1,Puerto Montt,Sí
+703,Ingeniería,21,6.0,15,77.3,Santiago,No
+704,Derecho,29,4.2,35,94.2,Valparaíso,No
+705,Informática,25,5.8,27,77.7,Santiago,Sí
+706,Derecho,19,6.4,28,76.7,Valparaíso,No
+707,Arquitectura,26,3.7,11,59.8,Concepción,Sí
+708,Medicina,30,6.7,36,58.3,Concepción,Sí
+709,Informática,23,3.6,29,95.8,Puerto Montt,Sí
+710,Informática,26,4.7,22,66.4,Valparaíso,Sí
+711,Arquitectura,25,3.6,15,68.6,Concepción,No
+712,Arquitectura,24,3.8,13,88.0,Puerto Montt,No
+713,Ingeniería,30,6.7,9,66.9,Puerto Montt,No
+714,Medicina,18,4.7,6,97.6,Santiago,No
+715,Medicina,29,5.0,36,86.9,Puerto Montt,No
+716,Derecho,20,4.3,28,79.9,Concepción,No
+717,Ingeniería,28,5.6,2,94.0,Santiago,No
+718,Ingeniería,19,5.6,14,52.5,Valparaíso,Sí
+719,Ingeniería,22,4.8,35,62.9,Valparaíso,Sí
+720,Ingeniería,22,4.7,18,73.3,Concepción,Sí
+721,Medicina,22,6.6,12,61.3,Concepción,No
+722,Medicina,21,4.8,20,87.2,Santiago,No
+723,Ingeniería,22,5.2,36,96.0,Santiago,Sí
+724,Derecho,20,4.5,26,71.2,Concepción,No
+725,Informática,29,6.3,28,67.1,Concepción,Sí
+726,Informática,18,4.9,19,98.1,Valparaíso,No
+727,Derecho,22,5.3,24,72.2,Valparaíso,No
+728,Ingeniería,30,4.4,5,74.5,Valparaíso,Sí
+729,Medicina,26,7.0,35,67.6,Concepción,Sí
+730,Informática,30,4.5,1,95.5,Puerto Montt,Sí
+731,Arquitectura,26,6.2,21,78.4,Concepción,Sí
+732,Arquitectura,21,5.0,31,88.1,Concepción,Sí
+733,Derecho,20,4.2,15,90.6,Valparaíso,No
+734,Ingeniería,18,6.3,17,67.1,Concepción,No
+735,Informática,19,4.7,4,71.7,Santiago,Sí
+736,Ingeniería,25,6.5,35,92.4,Concepción,No
+737,Informática,18,6.7,29,68.2,Concepción,No
+738,Derecho,25,6.5,18,89.7,Concepción,Sí
+739,Derecho,30,3.6,22,97.0,Concepción,No
+740,Arquitectura,24,6.3,33,81.2,Puerto Montt,Sí
+741,Ingeniería,25,4.9,12,87.1,Concepción,Sí
+742,Arquitectura,29,6.6,28,90.3,Santiago,No
+743,Ingeniería,23,5.7,35,92.3,Santiago,Sí
+744,Arquitectura,29,6.4,21,69.8,Concepción,No
+745,Medicina,26,5.2,35,52.6,Valparaíso,No
+746,Medicina,20,5.4,8,70.1,Puerto Montt,Sí
+747,Medicina,27,4.0,38,83.7,Concepción,Sí
+748,Medicina,21,6.2,18,72.5,Concepción,Sí
+749,Informática,30,5.0,37,87.4,Concepción,No
+750,Medicina,23,5.3,5,67.8,Valparaíso,Sí
+751,Derecho,25,6.2,14,81.7,Valparaíso,No
+752,Derecho,22,5.6,19,59.3,Valparaíso,No
+753,Informática,20,4.2,8,87.5,Puerto Montt,Sí
+754,Medicina,23,5.6,31,77.3,Santiago,No
+755,Medicina,21,4.9,3,60.2,Puerto Montt,No
+756,Medicina,26,5.1,17,64.6,Valparaíso,No
+757,Arquitectura,30,3.6,4,87.4,Santiago,No
+758,Ingeniería,20,4.2,19,74.1,Santiago,No
+759,Arquitectura,21,4.5,22,60.8,Valparaíso,Sí
+760,Ingeniería,24,6.0,10,98.4,Valparaíso,Sí
+761,Medicina,24,3.5,36,85.8,Puerto Montt,No
+762,Medicina,29,4.9,21,97.9,Valparaíso,Sí
+763,Arquitectura,29,6.7,3,71.4,Santiago,No
+764,Arquitectura,21,3.9,28,73.8,Concepción,No
+765,Ingeniería,23,5.3,33,94.9,Valparaíso,No
+766,Derecho,29,6.3,12,76.3,Valparaíso,Sí
+767,Ingeniería,30,6.8,8,85.4,Puerto Montt,No
+768,Arquitectura,20,6.1,30,62.6,Puerto Montt,Sí
+769,Arquitectura,23,6.0,6,72.3,Valparaíso,No
+770,Informática,29,6.4,3,56.2,Santiago,Sí
+771,Arquitectura,19,5.1,18,60.3,Santiago,No
+772,Informática,25,6.3,29,50.0,Concepción,Sí
+773,Derecho,19,3.5,30,52.0,Valparaíso,No
+774,Ingeniería,28,6.7,34,98.9,Puerto Montt,No
+775,Ingeniería,24,5.1,20,62.1,Santiago,No
+776,Informática,26,5.4,30,83.2,Concepción,Sí
+777,Ingeniería,18,4.4,18,92.0,Valparaíso,No
+778,Arquitectura,25,6.1,30,77.5,Santiago,No
+779,Medicina,24,3.8,31,57.7,Valparaíso,Sí
+780,Informática,23,6.6,1,86.4,Valparaíso,Sí
+781,Ingeniería,23,6.4,9,80.0,Santiago,Sí
+782,Informática,23,4.3,1,86.6,Santiago,No
+783,Informática,26,6.3,1,88.5,Santiago,No
+784,Medicina,19,6.3,23,98.8,Valparaíso,Sí
+785,Arquitectura,18,5.7,16,78.7,Valparaíso,Sí
+786,Informática,30,4.8,31,67.1,Concepción,Sí
+787,Ingeniería,29,4.5,15,82.4,Puerto Montt,No
+788,Derecho,23,4.3,15,53.4,Valparaíso,No
+789,Informática,27,4.6,38,94.9,Puerto Montt,No
+790,Informática,28,6.7,30,56.0,Santiago,Sí
+791,Medicina,25,3.8,23,66.4,Valparaíso,No
+792,Arquitectura,20,6.4,0,90.8,Concepción,No
+793,Derecho,29,4.7,10,79.9,Concepción,No
+794,Ingeniería,27,5.3,20,69.7,Puerto Montt,No
+795,Derecho,18,6.3,3,73.7,Santiago,No
+796,Ingeniería,26,6.6,6,92.7,Puerto Montt,No
+797,Arquitectura,30,4.7,25,67.0,Santiago,Sí
+798,Ingeniería,30,5.1,11,93.5,Concepción,Sí
+799,Medicina,18,5.0,30,54.4,Puerto Montt,No
+800,Medicina,20,3.5,16,88.8,Concepción,Sí
+801,Medicina,25,4.5,32,92.4,Concepción,Sí
+802,Medicina,20,5.1,10,59.1,Santiago,Sí
+803,Derecho,30,4.9,27,71.5,Puerto Montt,Sí
+804,Arquitectura,21,6.0,31,58.3,Puerto Montt,No
+805,Ingeniería,25,4.8,0,85.3,Concepción,Sí
+806,Ingeniería,18,5.2,27,76.8,Concepción,Sí
+807,Medicina,30,5.0,6,81.8,Santiago,Sí
+808,Medicina,30,6.1,1,59.8,Valparaíso,Sí
+809,Informática,23,6.5,23,60.6,Valparaíso,Sí
+810,Arquitectura,18,5.4,3,52.1,Concepción,No
+811,Derecho,18,6.3,18,66.1,Valparaíso,Sí
+812,Ingeniería,25,4.5,25,78.0,Valparaíso,No
+813,Informática,28,5.4,10,92.9,Valparaíso,Sí
+814,Informática,21,4.7,39,83.3,Valparaíso,Sí
+815,Ingeniería,29,4.9,10,71.8,Concepción,No
+816,Derecho,18,6.1,2,97.7,Valparaíso,No
+817,Informática,27,6.6,11,86.0,Valparaíso,Sí
+818,Informática,24,3.9,2,96.5,Santiago,Sí
+819,Arquitectura,22,5.7,26,76.4,Concepción,Sí
+820,Derecho,22,5.5,1,62.9,Puerto Montt,No
+821,Informática,18,3.9,15,52.6,Puerto Montt,No
+822,Derecho,27,4.2,1,86.3,Santiago,No
+823,Ingeniería,28,4.6,29,56.1,Santiago,No
+824,Medicina,23,4.1,19,65.1,Concepción,No
+825,Informática,26,4.4,37,76.6,Puerto Montt,Sí
+826,Arquitectura,26,4.4,27,78.2,Valparaíso,Sí
+827,Ingeniería,25,4.7,24,80.0,Santiago,No
+828,Derecho,22,6.1,31,58.3,Puerto Montt,No
+829,Ingeniería,18,5.5,9,69.0,Concepción,Sí
+830,Informática,26,7.0,39,80.9,Valparaíso,No
+831,Derecho,18,5.0,32,98.5,Concepción,Sí
+832,Medicina,25,6.1,12,86.4,Santiago,Sí
+833,Ingeniería,22,6.6,40,96.1,Puerto Montt,Sí
+834,Informática,20,5.9,36,88.1,Puerto Montt,Sí
+835,Arquitectura,28,4.9,15,79.6,Puerto Montt,No
+836,Derecho,24,6.1,21,59.6,Puerto Montt,Sí
+837,Ingeniería,24,4.2,19,83.3,Valparaíso,No
+838,Ingeniería,26,4.6,26,81.2,Valparaíso,No
+839,Medicina,24,5.4,40,80.1,Concepción,No
+840,Medicina,30,5.5,15,74.5,Valparaíso,Sí
+841,Arquitectura,28,3.6,33,76.4,Santiago,No
+842,Arquitectura,20,6.8,31,66.7,Santiago,Sí
+843,Informática,28,5.9,25,76.0,Puerto Montt,No
+844,Informática,30,5.2,24,59.9,Santiago,No
+845,Arquitectura,30,6.8,1,90.3,Concepción,No
+846,Arquitectura,18,5.0,11,59.3,Valparaíso,No
+847,Derecho,25,6.9,39,54.2,Valparaíso,No
+848,Medicina,29,5.3,8,71.8,Valparaíso,No
+849,Informática,20,3.9,11,82.9,Santiago,Sí
+850,Medicina,29,6.2,25,71.9,Valparaíso,No
+851,Medicina,25,5.9,8,63.8,Puerto Montt,Sí
+852,Arquitectura,25,6.2,9,77.9,Puerto Montt,No
+853,Derecho,30,6.8,31,67.4,Puerto Montt,No
+854,Ingeniería,22,6.2,33,96.6,Santiago,No
+855,Derecho,30,5.6,19,96.1,Valparaíso,Sí
+856,Derecho,29,6.5,38,75.1,Santiago,Sí
+857,Medicina,30,5.9,1,66.4,Valparaíso,Sí
+858,Derecho,18,4.9,0,86.9,Concepción,No
+859,Informática,30,6.6,35,51.8,Concepción,Sí
+860,Medicina,27,4.3,23,73.7,Santiago,No
+861,Informática,24,6.0,26,66.8,Puerto Montt,Sí
+862,Ingeniería,29,6.6,1,96.0,Santiago,Sí
+863,Medicina,27,6.1,30,50.6,Puerto Montt,Sí
+864,Ingeniería,22,5.9,13,77.6,Valparaíso,No
+865,Medicina,25,6.1,1,87.0,Puerto Montt,No
+866,Arquitectura,26,5.1,28,74.3,Puerto Montt,No
+867,Derecho,28,6.6,14,54.3,Valparaíso,No
+868,Arquitectura,24,4.2,11,98.6,Concepción,No
+869,Ingeniería,30,3.9,36,75.9,Valparaíso,No
+870,Derecho,24,4.5,27,80.7,Santiago,No
+871,Medicina,18,5.4,19,61.8,Santiago,Sí
+872,Derecho,21,5.3,38,74.2,Santiago,No
+873,Informática,19,6.4,23,71.5,Santiago,Sí
+874,Derecho,19,4.9,20,53.7,Santiago,No
+875,Informática,19,5.2,9,55.3,Concepción,Sí
+876,Derecho,21,3.5,13,91.9,Concepción,No
+877,Informática,18,4.9,36,62.0,Puerto Montt,No
+878,Ingeniería,21,5.8,17,59.7,Santiago,No
+879,Arquitectura,19,3.6,23,75.2,Valparaíso,No
+880,Medicina,22,4.5,13,88.4,Santiago,Sí
+881,Derecho,20,4.2,33,53.1,Concepción,Sí
+882,Arquitectura,29,3.6,11,78.8,Santiago,No
+883,Medicina,25,5.2,21,56.0,Concepción,Sí
+884,Medicina,21,4.1,5,51.8,Puerto Montt,No
+885,Informática,18,6.1,35,52.6,Puerto Montt,Sí
+886,Ingeniería,18,6.5,35,91.7,Puerto Montt,No
+887,Ingeniería,29,5.4,21,55.9,Concepción,No
+888,Arquitectura,27,6.9,13,52.3,Santiago,No
+889,Ingeniería,20,5.1,15,71.9,Santiago,Sí
+890,Derecho,26,5.3,35,92.2,Valparaíso,No
+891,Ingeniería,24,7.0,24,63.1,Concepción,No
+892,Arquitectura,19,4.3,31,71.1,Valparaíso,No
+893,Ingeniería,30,6.8,32,52.0,Puerto Montt,No
+894,Derecho,26,3.6,35,72.5,Santiago,No
+895,Informática,27,5.1,19,78.9,Concepción,Sí
+896,Arquitectura,19,3.7,17,78.5,Valparaíso,No
+897,Informática,20,6.1,37,66.6,Valparaíso,Sí
+898,Informática,28,5.6,2,65.8,Valparaíso,Sí
+899,Informática,30,6.0,22,55.3,Santiago,Sí
+900,Medicina,27,4.8,31,68.3,Santiago,Sí
+901,Medicina,19,4.8,15,55.0,Santiago,Sí
+902,Informática,20,3.7,4,88.3,Concepción,Sí
+903,Arquitectura,23,4.7,3,98.3,Santiago,No
+904,Derecho,26,6.8,20,98.5,Concepción,No
+905,Derecho,26,4.8,39,93.3,Valparaíso,No
+906,Ingeniería,24,6.4,13,80.0,Valparaíso,No
+907,Arquitectura,29,6.4,38,85.0,Puerto Montt,Sí
+908,Medicina,20,4.8,30,64.3,Santiago,Sí
+909,Informática,21,5.7,13,81.5,Valparaíso,Sí
+910,Ingeniería,23,3.8,5,72.8,Santiago,Sí
+911,Derecho,28,3.9,11,74.1,Concepción,No
+912,Medicina,22,3.7,15,87.9,Valparaíso,Sí
+913,Medicina,19,5.5,16,64.1,Santiago,No
+914,Informática,30,5.0,22,65.9,Valparaíso,No
+915,Derecho,23,5.4,13,96.2,Valparaíso,Sí
+916,Arquitectura,20,5.3,6,52.8,Santiago,Sí
+917,Medicina,25,4.7,31,74.3,Valparaíso,No
+918,Informática,19,5.9,14,95.6,Valparaíso,Sí
+919,Arquitectura,18,6.2,16,80.5,Valparaíso,Sí
+920,Derecho,26,3.6,40,77.3,Valparaíso,No
+921,Medicina,29,4.2,33,62.5,Concepción,Sí
+922,Arquitectura,20,6.0,4,67.2,Valparaíso,No
+923,Arquitectura,28,4.9,26,92.6,Puerto Montt,No
+924,Arquitectura,18,5.8,22,78.0,Valparaíso,Sí
+925,Medicina,24,4.7,39,75.7,Santiago,Sí
+926,Medicina,30,4.9,13,55.0,Puerto Montt,Sí
+927,Ingeniería,27,4.1,14,50.8,Concepción,Sí
+928,Derecho,22,4.4,32,98.2,Puerto Montt,Sí
+929,Informática,22,5.6,30,68.8,Puerto Montt,No
+930,Arquitectura,18,5.0,34,80.2,Puerto Montt,Sí
+931,Ingeniería,26,6.2,16,54.0,Santiago,No
+932,Informática,24,6.5,27,84.2,Santiago,No
+933,Ingeniería,25,5.4,18,96.6,Santiago,No
+934,Medicina,26,6.2,22,78.8,Concepción,No
+935,Arquitectura,23,4.6,31,56.3,Santiago,Sí
+936,Informática,29,5.0,39,79.1,Santiago,No
+937,Informática,22,6.0,12,88.3,Puerto Montt,Sí
+938,Informática,23,4.9,19,70.3,Santiago,Sí
+939,Informática,28,5.6,34,94.0,Valparaíso,Sí
+940,Informática,19,4.1,4,82.4,Santiago,No
+941,Ingeniería,21,5.6,8,95.0,Concepción,No
+942,Arquitectura,20,6.5,28,81.2,Concepción,Sí
+943,Medicina,30,6.5,5,56.6,Valparaíso,Sí
+944,Medicina,24,6.0,24,65.5,Concepción,Sí
+945,Medicina,26,6.1,30,60.1,Concepción,No
+946,Medicina,22,5.5,21,95.4,Puerto Montt,No
+947,Ingeniería,23,5.5,1,88.0,Valparaíso,No
+948,Derecho,27,4.0,4,83.8,Puerto Montt,Sí
+949,Arquitectura,29,5.1,26,65.0,Puerto Montt,No
+950,Informática,29,5.1,24,59.2,Santiago,Sí
+951,Derecho,19,6.9,7,87.8,Valparaíso,Sí
+952,Medicina,20,5.0,0,73.7,Santiago,Sí
+953,Derecho,20,5.4,19,61.3,Santiago,No
+954,Arquitectura,29,5.4,22,80.8,Puerto Montt,Sí
+955,Informática,29,5.7,31,52.0,Concepción,Sí
+956,Informática,26,6.1,10,66.3,Valparaíso,Sí
+957,Arquitectura,24,4.3,38,73.4,Concepción,Sí
+958,Arquitectura,25,5.4,23,57.4,Puerto Montt,Sí
+959,Medicina,28,6.4,10,99.2,Puerto Montt,No
+960,Informática,27,5.1,28,60.5,Puerto Montt,No
+961,Derecho,28,4.5,25,56.5,Puerto Montt,No
+962,Ingeniería,26,5.8,15,60.2,Puerto Montt,No
+963,Ingeniería,23,6.4,34,88.5,Puerto Montt,Sí
+964,Arquitectura,21,3.7,19,71.3,Concepción,No
+965,Medicina,29,6.2,2,78.3,Santiago,Sí
+966,Ingeniería,18,6.4,0,51.1,Concepción,No
+967,Informática,25,5.1,0,51.7,Valparaíso,Sí
+968,Arquitectura,24,6.9,16,72.3,Concepción,No
+969,Derecho,19,6.3,1,90.8,Puerto Montt,Sí
+970,Arquitectura,25,6.2,28,94.3,Concepción,Sí
+971,Derecho,29,6.1,19,54.3,Santiago,No
+972,Arquitectura,22,4.0,5,76.9,Valparaíso,No
+973,Arquitectura,24,4.3,7,95.7,Concepción,No
+974,Arquitectura,21,5.1,28,69.4,Santiago,No
+975,Derecho,22,4.4,32,91.5,Concepción,No
+976,Derecho,25,5.0,2,56.7,Valparaíso,No
+977,Arquitectura,18,6.6,34,96.8,Concepción,No
+978,Ingeniería,18,6.4,4,87.6,Puerto Montt,No
+979,Medicina,21,5.7,26,97.1,Concepción,No
+980,Medicina,20,6.5,11,83.8,Santiago,Sí
+981,Medicina,30,6.2,19,68.2,Concepción,No
+982,Derecho,27,5.0,19,96.9,Santiago,No
+983,Derecho,29,4.2,8,63.8,Valparaíso,Sí
+984,Ingeniería,19,5.3,38,66.6,Concepción,No
+985,Medicina,29,6.1,3,85.0,Valparaíso,Sí
+986,Medicina,20,5.0,18,88.3,Valparaíso,No
+987,Arquitectura,28,5.8,37,96.5,Concepción,No
+988,Derecho,28,3.8,26,60.2,Santiago,No
+989,Medicina,28,6.1,12,89.9,Valparaíso,No
+990,Ingeniería,18,6.3,12,86.9,Valparaíso,No
+991,Ingeniería,18,6.0,21,53.2,Concepción,No
+992,Medicina,23,6.9,27,69.4,Concepción,No
+993,Derecho,22,6.4,21,64.1,Concepción,Sí
+994,Ingeniería,25,6.7,18,65.2,Concepción,No
+995,Arquitectura,19,6.8,7,99.1,Concepción,Sí
+996,Ingeniería,21,6.3,7,82.1,Puerto Montt,No
+997,Informática,25,5.9,25,85.9,Concepción,Sí
+998,Informática,29,3.5,25,98.8,Santiago,No
+999,Derecho,23,5.1,22,68.9,Valparaíso,Sí
+1000,Medicina,18,5.5,12,90.1,Santiago,Sí
