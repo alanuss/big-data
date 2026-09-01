@@ -1,7 +1,6 @@
-USE Tienda_DW;
-GO
+PRAGMA foreign_keys = ON;
 
-INSERT INTO dbo.DimProducto (Nombre, Categoria, Precio) VALUES
+INSERT INTO DimProducto (Nombre, Categoria, Precio) VALUES
 ('Arroz 1kg', 'Abarrotes', 1800.00),
 ('Aceite 1L', 'Abarrotes', 2500.00),
 ('Detergente 3L', 'Limpieza', 5200.00),
@@ -10,7 +9,7 @@ INSERT INTO dbo.DimProducto (Nombre, Categoria, Precio) VALUES
 ('Queso 500g', 'Lacteos', 4500.00),
 ('Pan Molde', 'Panaderia', 2200.00);
 
-INSERT INTO dbo.DimTiempo (TiempoKey, Fecha, Anio, Mes, MesNumero, Trimestre) VALUES
+INSERT INTO DimTiempo (TiempoKey, Fecha, Anio, Mes, MesNumero, Trimestre) VALUES
 (20260103, '2026-01-03', 2026, 'Enero', 1, 1),
 (20260118, '2026-01-18', 2026, 'Enero', 1, 1),
 (20260207, '2026-02-07', 2026, 'Febrero', 2, 1),
@@ -24,7 +23,7 @@ INSERT INTO dbo.DimTiempo (TiempoKey, Fecha, Anio, Mes, MesNumero, Trimestre) VA
 (20261020, '2026-10-20', 2026, 'Octubre', 10, 4),
 (20261105, '2026-11-05', 2026, 'Noviembre', 11, 4);
 
-INSERT INTO dbo.HechoVentas (ProductoKey, TiempoKey, Cantidad, TotalVenta) VALUES
+INSERT INTO HechoVentas (ProductoKey, TiempoKey, Cantidad, TotalVenta) VALUES
 (1, 20260103, 10, 18000.00),
 (2, 20260118, 6, 15000.00),
 (3, 20260207, 3, 15600.00),

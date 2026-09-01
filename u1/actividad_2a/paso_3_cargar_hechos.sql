@@ -1,7 +1,6 @@
-USE Hospital_DWH;
-GO
+PRAGMA foreign_keys = ON;
 
-INSERT INTO dbo.Hechos_Hospitalizaciones
+INSERT INTO Hechos_Hospitalizaciones
     (PacienteKey, DoctorKey, DiagnosticoKey, TiempoKey, DiasEstancia, CostoTratamiento, TiempoEsperaMinutos)
 VALUES
 (1, 2, 4, 20260105, 2, 450000.00, 35),

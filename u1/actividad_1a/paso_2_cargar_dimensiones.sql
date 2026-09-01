@@ -1,7 +1,6 @@
-USE Tienda_DW;
-GO
+PRAGMA foreign_keys = ON;
 
-INSERT INTO dbo.DimProducto (Nombre, Categoria, PrecioUnitario) VALUES
+INSERT INTO DimProducto (Nombre, Categoria, PrecioUnitario) VALUES
 ('iPhone 15', 'Telefonia', 900.00),
 ('Samsung Galaxy S24', 'Telefonia', 850.00),
 ('MacBook Air M2', 'Computacion', 1100.00),
@@ -10,7 +9,7 @@ INSERT INTO dbo.DimProducto (Nombre, Categoria, PrecioUnitario) VALUES
 ('Teclado Mecanico RGB', 'Accesorios', 80.00),
 ('Audifonos Bluetooth', 'Accesorios', 120.00);
 
-INSERT INTO dbo.DimTiempo (TiempoKey, Fecha, Anio, Mes, MesNumero, Trimestre, Semestre) VALUES
+INSERT INTO DimTiempo (TiempoKey, Fecha, Anio, Mes, MesNumero, Trimestre, Semestre) VALUES
 (20260101, '2026-01-01', 2026, 'Enero', 1, 1, 1),
 (20260115, '2026-01-15', 2026, 'Enero', 1, 1, 1),
 (20260205, '2026-02-05', 2026, 'Febrero', 2, 1, 1),

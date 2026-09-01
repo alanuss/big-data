@@ -1,42 +1,34 @@
-IF DB_ID('Tienda_DW') IS NULL
-BEGIN
-    CREATE DATABASE Tienda_DW;
-END;
-GO
+PRAGMA foreign_keys = ON;
 
-USE Tienda_DW;
-GO
+DROP TABLE IF EXISTS HechoVentas;
+DROP TABLE IF EXISTS DimCliente;
+DROP TABLE IF EXISTS DimProducto;
+DROP TABLE IF EXISTS DimTiempo;
 
-IF OBJECT_ID('dbo.HechoVentas', 'U') IS NOT NULL DROP TABLE dbo.HechoVentas;
-IF OBJECT_ID('dbo.DimCliente', 'U') IS NOT NULL DROP TABLE dbo.DimCliente;
-IF OBJECT_ID('dbo.DimProducto', 'U') IS NOT NULL DROP TABLE dbo.DimProducto;
-IF OBJECT_ID('dbo.DimTiempo', 'U') IS NOT NULL DROP TABLE dbo.DimTiempo;
-GO
-
-CREATE TABLE dbo.DimProducto (
-    ProductoKey INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
-    Nombre NVARCHAR(100) NOT NULL,
-    Categoria NVARCHAR(50) NOT NULL,
-    Precio DECIMAL(10,2) NOT NULL
+CREATE TABLE DimProducto (
+    ProductoKey INTEGER PRIMARY KEY AUTOINCREMENT,
+    Nombre TEXT NOT NULL,
+    Categoria TEXT NOT NULL,
+    Precio REAL NOT NULL
 );
 
-CREATE TABLE dbo.DimTiempo (
-    TiempoKey INT NOT NULL PRIMARY KEY,
-    Fecha DATE NOT NULL,
-    Anio INT NOT NULL,
-    Mes NVARCHAR(20) NOT NULL,
-    MesNumero INT NOT NULL,
-    Trimestre INT NOT NULL
+CREATE TABLE DimTiempo (
+    TiempoKey INTEGER NOT NULL PRIMARY KEY,
+    Fecha TEXT NOT NULL,
+    Anio INTEGER NOT NULL,
+    Mes TEXT NOT NULL,
+    MesNumero INTEGER NOT NULL,
+    Trimestre INTEGER NOT NULL
 );
 
-CREATE TABLE dbo.HechoVentas (
-    VentaID INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
-    ProductoKey INT NOT NULL,
-    TiempoKey INT NOT NULL,
-    Cantidad INT NOT NULL,
-    TotalVenta DECIMAL(18,2) NOT NULL,
+CREATE TABLE HechoVentas (
+    VentaID INTEGER PRIMARY KEY AUTOINCREMENT,
+    ProductoKey INTEGER NOT NULL,
+    TiempoKey INTEGER NOT NULL,
+    Cantidad INTEGER NOT NULL,
+    TotalVenta REAL NOT NULL,
     CONSTRAINT FK_HechoVentas_Producto
-        FOREIGN KEY (ProductoKey) REFERENCES dbo.DimProducto(ProductoKey),
+        FOREIGN KEY (ProductoKey) REFERENCES DimProducto(ProductoKey),
     CONSTRAINT FK_HechoVentas_Tiempo
-        FOREIGN KEY (TiempoKey) REFERENCES dbo.DimTiempo(TiempoKey)
+        FOREIGN KEY (TiempoKey) REFERENCES DimTiempo(TiempoKey)
 );

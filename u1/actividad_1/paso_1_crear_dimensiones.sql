@@ -1,37 +1,29 @@
-IF DB_ID('Cine_DWH') IS NULL
-BEGIN
-    CREATE DATABASE Cine_DWH;
-END;
-GO
+PRAGMA foreign_keys = ON;
 
-USE Cine_DWH;
-GO
+DROP TABLE IF EXISTS Hechos_Ventas;
+DROP TABLE IF EXISTS Dim_Pelicula;
+DROP TABLE IF EXISTS Dim_Sucursal;
+DROP TABLE IF EXISTS Dim_Tiempo;
 
-IF OBJECT_ID('dbo.Hechos_Ventas', 'U') IS NOT NULL DROP TABLE dbo.Hechos_Ventas;
-IF OBJECT_ID('dbo.Dim_Pelicula', 'U') IS NOT NULL DROP TABLE dbo.Dim_Pelicula;
-IF OBJECT_ID('dbo.Dim_Sucursal', 'U') IS NOT NULL DROP TABLE dbo.Dim_Sucursal;
-IF OBJECT_ID('dbo.Dim_Tiempo', 'U') IS NOT NULL DROP TABLE dbo.Dim_Tiempo;
-GO
-
-CREATE TABLE dbo.Dim_Pelicula (
-    ID_Pelicula INT NOT NULL PRIMARY KEY,
-    Titulo VARCHAR(100) NOT NULL,
-    Genero VARCHAR(50) NOT NULL,
-    Clasificacion VARCHAR(10) NOT NULL
+CREATE TABLE Dim_Pelicula (
+    ID_Pelicula INTEGER NOT NULL PRIMARY KEY,
+    Titulo TEXT NOT NULL,
+    Genero TEXT NOT NULL,
+    Clasificacion TEXT NOT NULL
 );
 
-CREATE TABLE dbo.Dim_Sucursal (
-    ID_Sucursal INT NOT NULL PRIMARY KEY,
-    Nombre_Cine VARCHAR(100) NOT NULL,
-    Ciudad VARCHAR(50) NOT NULL,
-    Pais VARCHAR(50) NOT NULL
+CREATE TABLE Dim_Sucursal (
+    ID_Sucursal INTEGER NOT NULL PRIMARY KEY,
+    Nombre_Cine TEXT NOT NULL,
+    Ciudad TEXT NOT NULL,
+    Pais TEXT NOT NULL
 );
 
-CREATE TABLE dbo.Dim_Tiempo (
-    ID_Tiempo INT NOT NULL PRIMARY KEY,
-    Fecha DATE NOT NULL,
-    Dia INT NOT NULL,
-    Mes INT NOT NULL,
-    Anio INT NOT NULL,
-    Trimestre INT NOT NULL
+CREATE TABLE Dim_Tiempo (
+    ID_Tiempo INTEGER NOT NULL PRIMARY KEY,
+    Fecha TEXT NOT NULL,
+    Dia INTEGER NOT NULL,
+    Mes INTEGER NOT NULL,
+    Anio INTEGER NOT NULL,
+    Trimestre INTEGER NOT NULL
 );

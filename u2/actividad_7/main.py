@@ -14,7 +14,7 @@ from sklearn.preprocessing import StandardScaler
 
 np.random.seed(42)
 
-output_dir = Path(__file__).parent
+output_dir = Path.cwd()
 csv_path = output_dir / "ventas.csv"
 
 ciudades = ["Santiago", "Valparaíso", "Concepción", "Puerto Montt"]

@@ -1,7 +1,6 @@
-USE Tienda_DW;
-GO
+PRAGMA foreign_keys = ON;
 
-INSERT INTO dbo.HechoVentas (ProductoKey, TiempoKey, Cantidad, TotalVenta) VALUES
+INSERT INTO HechoVentas (ProductoKey, TiempoKey, Cantidad, TotalVenta) VALUES
 (1, 20260101, 2, 1800.00),
 (3, 20260101, 1, 1100.00),
 (5, 20260115, 4, 1200.00),

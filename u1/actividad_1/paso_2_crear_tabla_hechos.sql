@@ -1,20 +1,18 @@
-USE Cine_DWH;
-GO
+PRAGMA foreign_keys = ON;
 
-IF OBJECT_ID('dbo.Hechos_Ventas', 'U') IS NOT NULL DROP TABLE dbo.Hechos_Ventas;
-GO
+DROP TABLE IF EXISTS Hechos_Ventas;
 
-CREATE TABLE dbo.Hechos_Ventas (
-    ID_Venta INT NOT NULL PRIMARY KEY,
-    FK_Pelicula INT NOT NULL,
-    FK_Sucursal INT NOT NULL,
-    FK_Tiempo INT NOT NULL,
-    Cantidad_Tickets INT NOT NULL,
-    Monto_Total DECIMAL(10,2) NOT NULL,
+CREATE TABLE Hechos_Ventas (
+    ID_Venta INTEGER NOT NULL PRIMARY KEY,
+    FK_Pelicula INTEGER NOT NULL,
+    FK_Sucursal INTEGER NOT NULL,
+    FK_Tiempo INTEGER NOT NULL,
+    Cantidad_Tickets INTEGER NOT NULL,
+    Monto_Total REAL NOT NULL,
     CONSTRAINT FK_HechosVentas_Pelicula
-        FOREIGN KEY (FK_Pelicula) REFERENCES dbo.Dim_Pelicula(ID_Pelicula),
+        FOREIGN KEY (FK_Pelicula) REFERENCES Dim_Pelicula(ID_Pelicula),
     CONSTRAINT FK_HechosVentas_Sucursal
-        FOREIGN KEY (FK_Sucursal) REFERENCES dbo.Dim_Sucursal(ID_Sucursal),
+        FOREIGN KEY (FK_Sucursal) REFERENCES Dim_Sucursal(ID_Sucursal),
     CONSTRAINT FK_HechosVentas_Tiempo
-        FOREIGN KEY (FK_Tiempo) REFERENCES dbo.Dim_Tiempo(ID_Tiempo)
+        FOREIGN KEY (FK_Tiempo) REFERENCES Dim_Tiempo(ID_Tiempo)
 );

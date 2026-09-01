@@ -1,18 +1,12 @@
-USE Tienda_DW;
-GO
+PRAGMA foreign_keys = ON;
 
-CREATE TABLE dbo.DimCliente (
-    ClienteKey INT IDENTITY(1,1) NOT NULL PRIMARY KEY,
-    NombreCompleto NVARCHAR(120) NOT NULL,
-    Genero NVARCHAR(20) NOT NULL,
-    Ciudad NVARCHAR(60) NOT NULL,
-    Segmento NVARCHAR(20) NOT NULL
+CREATE TABLE DimCliente (
+    ClienteKey INTEGER PRIMARY KEY AUTOINCREMENT,
+    NombreCompleto TEXT NOT NULL,
+    Genero TEXT NOT NULL,
+    Ciudad TEXT NOT NULL,
+    Segmento TEXT NOT NULL
 );
 
-ALTER TABLE dbo.HechoVentas
-ADD ClienteKey INT NULL;
-GO
-
-ALTER TABLE dbo.HechoVentas
-ADD CONSTRAINT FK_HechoVentas_Cliente
-    FOREIGN KEY (ClienteKey) REFERENCES dbo.DimCliente(ClienteKey);
+ALTER TABLE HechoVentas
+ADD COLUMN ClienteKey INTEGER REFERENCES DimCliente(ClienteKey);

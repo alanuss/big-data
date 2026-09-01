@@ -1,7 +1,6 @@
-USE Hospital_DWH;
-GO
+PRAGMA foreign_keys = ON;
 
-INSERT INTO dbo.Dim_Paciente (NombreCompleto, Edad, Genero, Ciudad, TipoSeguro) VALUES
+INSERT INTO Dim_Paciente (NombreCompleto, Edad, Genero, Ciudad, TipoSeguro) VALUES
 ('Lucas Marin', 8, 'Masculino', 'Santiago', 'Fonasa'),
 ('Sofia Vega', 14, 'Femenino', 'Valparaiso', 'Isapre'),
 ('Ana Morales', 34, 'Femenino', 'Concepcion', 'Fonasa'),
@@ -11,7 +10,7 @@ INSERT INTO dbo.Dim_Paciente (NombreCompleto, Edad, Genero, Ciudad, TipoSeguro) 
 ('Camila Rios', 29, 'Femenino', 'Puerto Montt', 'Isapre'),
 ('Miguel Araya', 67, 'Masculino', 'Concepcion', 'Fonasa');
 
-INSERT INTO dbo.Dim_Doctor (NombreCompleto, Especialidad) VALUES
+INSERT INTO Dim_Doctor (NombreCompleto, Especialidad) VALUES
 ('Dra. Paula Herrera', 'Cardiologia'),
 ('Dr. Andres Soto', 'Pediatria'),
 ('Dra. Fernanda Lopez', 'Traumatologia'),
@@ -19,7 +18,7 @@ INSERT INTO dbo.Dim_Doctor (NombreCompleto, Especialidad) VALUES
 ('Dra. Claudia Perez', 'Neurologia'),
 ('Dr. Nicolas Rojas', 'Urgencia');
 
-INSERT INTO dbo.Dim_Diagnostico (CodigoEnfermedad, Descripcion, Gravedad) VALUES
+INSERT INTO Dim_Diagnostico (CodigoEnfermedad, Descripcion, Gravedad) VALUES
 ('I21', 'Infarto agudo al miocardio', 1),
 ('J18', 'Neumonia', 1),
 ('S72', 'Fractura de femur', 1),
@@ -29,7 +28,7 @@ INSERT INTO dbo.Dim_Diagnostico (CodigoEnfermedad, Descripcion, Gravedad) VALUES
 ('K35', 'Apendicitis aguda', 1),
 ('A09', 'Gastroenteritis', 0);
 
-INSERT INTO dbo.Dim_Tiempo (TiempoKey, Fecha, Mes, NombreMes, Anio) VALUES
+INSERT INTO Dim_Tiempo (TiempoKey, Fecha, Mes, NombreMes, Anio) VALUES
 (20260105, '2026-01-05', 1, 'Enero', 2026),
 (20260211, '2026-02-11', 2, 'Febrero', 2026),
 (20260308, '2026-03-08', 3, 'Marzo', 2026),
